@@ -69,7 +69,7 @@ var s = new sigma({
     }
 })
 
-sigma.parsers.gexf('gwf_co_author_graph/file/data/force_atlas_new.gexf',
+sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
     s,
     function (s) {
         // We first need to save the original colors of our
