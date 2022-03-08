@@ -402,7 +402,7 @@ function showSelectedNodes(selected) {
                 selected_item.innerHTML = "<b>" + selected[key].label + "</b>"
             } else {
                 selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
-                    "<br>" + selected[key].attributes.affiliation + "<br><a href='" + selected[key].attributes.url
+                    "<br>" + selected[key].attributes.interests + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
                     + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
             }
             selected_container.appendChild(selected_item);
