@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2022-03-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="author_id" title="author_id" type="string"></attribute>
+      <attribute id="home_page" title="home_page" type="string"></attribute>
+      <attribute id="publications" title="publications" type="integer"></attribute>
+      <attribute id="interests" title="interests" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="Hossein Abouee Mehrizi">
+        <attvalues>
+          <attvalue for="author_id" value="aEyXGPAAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://sites.google.com/view/haboueemehrizi"></attvalue>
+          <attvalue for="publications" value="34"></attvalue>
+          <attvalue for="interests" value="Stochastic Modeling, Optimization, Analytics"></attvalue>
+        </attvalues>
+        <viz:size value="22.97436"></viz:size>
+        <viz:position x="-4.4381156" y="124.925896"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="1" label="Kate Larson">
+        <attvalues>
+          <attvalue for="author_id" value="QK-c5esAAAAJ"></attvalue>
+          <attvalue for="publications" value="149"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, Multiagent Systems"></attvalue>
+        </attvalues>
+        <viz:size value="34.76923"></viz:size>
+        <viz:position x="351.5806" y="-140.67061"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="2" label="Nancy Worth">
+        <attvalues>
+          <attvalue for="author_id" value="IMYz6WFZ0DoC"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/geography-environmental-management/people-profiles/nancy-worth"></attvalue>
+          <attvalue for="publications" value="37"></attvalue>
+          <attvalue for="interests" value="work, generations, social reproduction, inequalities, feminist theory"></attvalue>
+        </attvalues>
+        <viz:size value="23.282051"></viz:size>
+        <viz:position x="117.55317" y="93.23895"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="3" label="Zahid A. Butt">
+        <attvalues>
+          <attvalue for="author_id" value="wlkd9ykAAAAJ"></attvalue>
+          <attvalue for="publications" value="233"></attvalue>
+          <attvalue for="interests" value="Epidemiology, Public Health, Global Health, Syndemics"></attvalue>
+        </attvalues>
+        <viz:size value="43.384617"></viz:size>
+        <viz:position x="112.608025" y="330.74112"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="4" label="Mohammad Javad Shafiee">
+        <attvalues>
+          <attvalue for="author_id" value="ZdqUd0AAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://www.eng.uwaterloo.ca/~mjshafie/"></attvalue>
+          <attvalue for="publications" value="122"></attvalue>
+          <attvalue for="interests" value="Edge AI, Computer Vision, Machine Learning, Deep Learning, Statistical Graphical Models"></attvalue>
+        </attvalues>
+        <viz:size value="32.0"></viz:size>
+        <viz:position x="19.15018" y="-340.66943"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="5" label="William Melek">
+        <attvalues>
+          <attvalue for="author_id" value="c_oOg1YAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.mme.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="161"></attvalue>
+          <attvalue for="interests" value="Robotics, Computational Intelligence, State Estimation"></attvalue>
+        </attvalues>
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="315.1741" y="-314.14233"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="6" label="Justin Wan">
+        <attvalues>
+          <attvalue for="author_id" value="jaJlXfwAAAAJ"></attvalue>
+          <attvalue for="publications" value="73"></attvalue>
+          <attvalue for="interests" value="Scientific Computing"></attvalue>
+        </attvalues>
+        <viz:size value="26.97436"></viz:size>
+        <viz:position x="-431.66266" y="58.99423"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="7" label="Zhou Wang">
+        <attvalues>
+          <attvalue for="author_id" value="O0PjM4QAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/~z70wang/"></attvalue>
+          <attvalue for="publications" value="253"></attvalue>
+          <attvalue for="interests" value="image processing, video processing, image quality assessment, video quality assessment, video coding"></attvalue>
+        </attvalues>
+        <viz:size value="45.435898"></viz:size>
+        <viz:position x="-198.30647" y="458.84335"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="8" label="Jeff Orchard">
+        <attvalues>
+          <attvalue for="author_id" value="cAfBytAAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~jorchard/"></attvalue>
+          <attvalue for="publications" value="94"></attvalue>
+          <attvalue for="interests" value="computational neuroscience, image processing"></attvalue>
+        </attvalues>
+        <viz:size value="29.128204"></viz:size>
+        <viz:position x="100.194016" y="-466.5445"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="9" label="Igor Grossmann">
+        <attvalues>
+          <attvalue for="author_id" value="akajO3QAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://uwaterloo.ca/wisdom-and-culture-lab/"></attvalue>
+          <attvalue for="publications" value="116"></attvalue>
+          <attvalue for="interests" value="Wisdom, Experimental Philosophy, Cultural change, Culture and cognition, Affective science"></attvalue>
+        </attvalues>
+        <viz:size value="31.384617"></viz:size>
+        <viz:position x="-200.12108" y="250.9904"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="10" label="Nasser Moheiddin Abukhdeir">
+        <attvalues>
+          <attvalue for="author_id" value="8mLcWUsAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://chemeng.uwaterloo.ca/abukhdeir/"></attvalue>
+          <attvalue for="publications" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="23.487179"></viz:size>
+        <viz:position x="20.066467" y="171.1661"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="11" label="Liqun Diao">
+        <attvalues>
+          <attvalue for="author_id" value="uj2pCykAAAAJ"></attvalue>
+          <attvalue for="publications" value="14"></attvalue>
+          <attvalue for="interests" value="Statistics, Data Science, Statistical Learning, Biostatistics"></attvalue>
+        </attvalues>
+        <viz:size value="20.923077"></viz:size>
+        <viz:position x="56.639008" y="-133.1617"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="12" label="Behzad Moshiri">
+        <attvalues>
+          <attvalue for="author_id" value="SmL7-6YAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.ut.ac.ir/en/~moshiri"></attvalue>
+          <attvalue for="publications" value="334"></attvalue>
+          <attvalue for="interests" value="Advanced Process Control, Sensor/Data Fusion, Mechatronics, Industrial Automation, Intelligent Transportation Systems"></attvalue>
+        </attvalues>
+        <viz:size value="53.743587"></viz:size>
+        <viz:position x="-182.13203" y="-357.92828"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="13" label="Samir Elhedhli">
+        <attvalues>
+          <attvalue for="author_id" value="kqJIAr8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.eng.uwaterloo.ca/~elhedhli"></attvalue>
+          <attvalue for="publications" value="63"></attvalue>
+          <attvalue for="interests" value="Large-scale optimization, Data analytics, Supply chain analytics"></attvalue>
+        </attvalues>
+        <viz:size value="25.948719"></viz:size>
+        <viz:position x="-262.48822" y="36.571945"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="14" label="Ravi Mazumdar">
+        <attvalues>
+          <attvalue for="author_id" value="0ceJfDoAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.ece.uwaterloo.ca/~mazum"></attvalue>
+          <attvalue for="publications" value="243"></attvalue>
+          <attvalue for="interests" value="Stochastic networks, wireless systems, stochastic analysis, applied probability, game theory"></attvalue>
+        </attvalues>
+        <viz:size value="44.410255"></viz:size>
+        <viz:position x="-221.35887" y="340.12527"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="15" label="Joël Blit">
+        <attvalues>
+          <attvalue for="author_id" value="O4RMkk8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/jblit"></attvalue>
+          <attvalue for="publications" value="23"></attvalue>
+          <attvalue for="interests" value="Economics of Innovation, Economic Geography, Intellectual Property Rights, Artificial Intelligence"></attvalue>
+        </attvalues>
+        <viz:size value="21.846153"></viz:size>
+        <viz:position x="-47.754402" y="-63.38087"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="16" label="Helen Chen">
+        <attvalues>
+          <attvalue for="author_id" value="Pqs4NSgAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/public-health-sciences/people-profiles/helen-chen"></attvalue>
+          <attvalue for="publications" value="61"></attvalue>
+          <attvalue for="interests" value="health data analytics, data quality, healthcare decision support"></attvalue>
+        </attvalues>
+        <viz:size value="25.74359"></viz:size>
+        <viz:position x="-253.0005" y="-51.48038"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="17" label="Jennifer Boger">
+        <attvalues>
+          <attvalue for="author_id" value="w3nBJHsAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/systems-design-engineering/profile/jboger"></attvalue>
+          <attvalue for="publications" value="150"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, Assistive Technology, Aging, Transdisciplinarity, Ethics"></attvalue>
+        </attvalues>
+        <viz:size value="34.871796"></viz:size>
+        <viz:position x="-125.6162" y="229.02705"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="18" label="Mark Smucker">
+        <attvalues>
+          <attvalue for="author_id" value="BgiGGQQAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://www.marksmucker.com/"></attvalue>
+          <attvalue for="publications" value="94"></attvalue>
+          <attvalue for="interests" value="Information Retrieval, Human Computer Interaction"></attvalue>
+        </attvalues>
+        <viz:size value="29.128204"></viz:size>
+        <viz:position x="183.61667" y="-3.9144328"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="19" label="Joyce Kim">
+        <attvalues>
+          <attvalue for="author_id" value="5fMe1RYAAAAJ"></attvalue>
+          <attvalue for="publications" value="15"></attvalue>
+          <attvalue for="interests" value="Occupant Behavior, Building Energy, Machine Learning, Thermal Comfort, Demand Response"></attvalue>
+        </attvalues>
+        <viz:size value="21.02564"></viz:size>
+        <viz:position x="-172.83394" y="33.200375"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="20" label="Ali Ayub">
+        <attvalues>
+          <attvalue for="author_id" value="kyzvf0wAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://sites.google.com/view/aliayub/"></attvalue>
+          <attvalue for="publications" value="25"></attvalue>
+          <attvalue for="interests" value="Robotics, Artificial Intelligence, Computer Vision, Incremental Learning, HRI"></attvalue>
+        </attvalues>
+        <viz:size value="22.051283"></viz:size>
+        <viz:position x="-74.50092" y="192.7242"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="21" label="Rodney Smith">
+        <attvalues>
+          <attvalue for="author_id" value="FjHIDkAAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://smithgroup.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="33"></attvalue>
+          <attvalue for="interests" value="Chemistry"></attvalue>
+        </attvalues>
+        <viz:size value="22.871796"></viz:size>
+        <viz:position x="-34.077675" y="165.74208"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="22" label="Chengnian Sun">
+        <attvalues>
+          <attvalue for="author_id" value="rwbI5qAAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~cnsun/"></attvalue>
+          <attvalue for="publications" value="38"></attvalue>
+          <attvalue for="interests" value="Software Engineering, Programming Languages"></attvalue>
+        </attvalues>
+        <viz:size value="23.384615"></viz:size>
+        <viz:position x="-118.258286" y="-38.57801"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="23" label="Mehrdad Pirnia">
+        <attvalues>
+          <attvalue for="author_id" value="l4Ocvg4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.mpirnia.com/"></attvalue>
+          <attvalue for="publications" value="18"></attvalue>
+          <attvalue for="interests" value="Energy Optimization, Power System Operations, Stochastic Power System Models, Machine Learning for Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="21.333334"></viz:size>
+        <viz:position x="-37.3036" y="-109.77457"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="24" label="Sirisha Rambhatla">
+        <attvalues>
+          <attvalue for="author_id" value="EOSZeBMAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://sirisharambhatla.com/"></attvalue>
+          <attvalue for="publications" value="22"></attvalue>
+          <attvalue for="interests" value="Machine Learning, Statistical Signal Processing, Optimization, AI for Healthcare"></attvalue>
+        </attvalues>
+        <viz:size value="21.74359"></viz:size>
+        <viz:position x="-160.96988" y="-12.576706"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="25" label="Arie Gurfinkel">
+        <attvalues>
+          <attvalue for="author_id" value="WHTB3_MAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://ece.uwaterloo.ca/~agurfink"></attvalue>
+          <attvalue for="publications" value="192"></attvalue>
+          <attvalue for="interests" value="Model Checking, Program Analysis, Verification"></attvalue>
+        </attvalues>
+        <viz:size value="39.17949"></viz:size>
+        <viz:position x="75.67208" y="40.667183"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="26" label="John McPhee">
+        <attvalues>
+          <attvalue for="author_id" value="boJMp7AAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/motion-research-group/"></attvalue>
+          <attvalue for="publications" value="405"></attvalue>
+          <attvalue for="interests" value="Dynamics, model-based control, automotive, biomechatronics, sports engineering"></attvalue>
+        </attvalues>
+        <viz:size value="61.025642"></viz:size>
+        <viz:position x="-502.67996" y="-18.513016"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="27" label="Omar M. Ramahi">
+        <attvalues>
+          <attvalue for="author_id" value="vheo2roAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.ece.uwaterloo.ca/~oramahi"></attvalue>
+          <attvalue for="publications" value="483"></attvalue>
+        </attvalues>
+        <viz:size value="69.02564"></viz:size>
+        <viz:position x="253.78773" y="447.70828"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="28" label="Patricia Marino">
+        <attvalues>
+          <attvalue for="author_id" value="Y9boIr0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://patriciamarino.org/"></attvalue>
+          <attvalue for="publications" value="56"></attvalue>
+          <attvalue for="interests" value="Ethics, Epistemology, Philosophy of Economics, Philosophy of Sex and Love"></attvalue>
+        </attvalues>
+        <viz:size value="25.23077"></viz:size>
+        <viz:position x="55.72464" y="-24.35839"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="29" label="Oliver Schneider">
+        <attvalues>
+          <attvalue for="author_id" value="dc2aKrEAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://oliverschneider.ca/"></attvalue>
+          <attvalue for="publications" value="57"></attvalue>
+          <attvalue for="interests" value="Human-Computer Interaction, Haptics, Design, Computer Science"></attvalue>
+        </attvalues>
+        <viz:size value="25.333334"></viz:size>
+        <viz:position x="2.7612333" y="-140.23128"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="30" label="Vincent Gaudet">
+        <attvalues>
+          <attvalue for="author_id" value="niKoLAYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/~vcgaudet/"></attvalue>
+          <attvalue for="publications" value="178"></attvalue>
+          <attvalue for="interests" value="Circuits and systems, iterative decoding, LDPC codes, stochastic computing, Multiple-Valued Logic"></attvalue>
+        </attvalues>
+        <viz:size value="37.74359"></viz:size>
+        <viz:position x="-276.03784" y="415.68277"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="31" label="Urs Hengartner">
+        <attvalues>
+          <attvalue for="author_id" value="FPSbtssAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://cs.uwaterloo.ca/~uhengart"></attvalue>
+          <attvalue for="publications" value="97"></attvalue>
+          <attvalue for="interests" value="Security, Privacy"></attvalue>
+        </attvalues>
+        <viz:size value="29.435898"></viz:size>
+        <viz:position x="361.31586" y="-66.9383"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="32" label="Soo Jeon">
+        <attvalues>
+          <attvalue for="author_id" value="1FWPce0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/soojeon"></attvalue>
+          <attvalue for="publications" value="86"></attvalue>
+          <attvalue for="interests" value="mechatronics, dynamic systems, control, instrumentation, robotics"></attvalue>
+        </attvalues>
+        <viz:size value="28.307693"></viz:size>
+        <viz:position x="245.09596" y="-254.01735"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="33" label="Stephen L. Smith">
+        <attvalues>
+          <attvalue for="author_id" value="_gfwCNwAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/~sl2smith/"></attvalue>
+          <attvalue for="publications" value="122"></attvalue>
+          <attvalue for="interests" value="Robotics, Autonomous Systems, Systems and Control, Motion Planning"></attvalue>
+        </attvalues>
+        <viz:size value="32.0"></viz:size>
+        <viz:position x="193.27568" y="350.19604"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="34" label="Sibel Alumur Alev">
+        <attvalues>
+          <attvalue for="author_id" value="8Li0OdIAAAAJ"></attvalue>
+          <attvalue for="publications" value="28"></attvalue>
+          <attvalue for="interests" value="Location modeling, Hub location, Supply chain design, Logistics, Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="22.358974"></viz:size>
+        <viz:position x="62.45623" y="279.5188"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="35" label="Randy Harris">
+        <attvalues>
+          <attvalue for="author_id" value="9M7YZ7EAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/raha/"></attvalue>
+          <attvalue for="publications" value="112"></attvalue>
+          <attvalue for="interests" value="Rhetoric, Linguistics, Cognitive Science, Artifical Intelligence, Voice Interaction Design"></attvalue>
+        </attvalues>
+        <viz:size value="30.97436"></viz:size>
+        <viz:position x="-42.436974" y="29.199795"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="36" label="Paul Thagard">
+        <attvalues>
+          <attvalue for="author_id" value="1-i6trwAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://watarts.uwaterloo.ca/~pthagard/Biographies/pault.html"></attvalue>
+          <attvalue for="publications" value="410"></attvalue>
+          <attvalue for="interests" value="Cognitive science, philosophy, philosophy of mind, philosophy of science, philosophy of medicine"></attvalue>
+        </attvalues>
+        <viz:size value="61.538464"></viz:size>
+        <viz:position x="306.36777" y="82.71925"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="37" label="Nachiket Kapre">
+        <attvalues>
+          <attvalue for="author_id" value="JxwwXHMAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://nachiket.github.io/"></attvalue>
+          <attvalue for="publications" value="121"></attvalue>
+          <attvalue for="interests" value="Reconfigurable Computing, FPGAs, Spatial Processing, Parallel Processing"></attvalue>
+        </attvalues>
+        <viz:size value="31.897436"></viz:size>
+        <viz:position x="-48.822914" y="330.5557"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="38" label="Mohammed Kohandel">
+        <attvalues>
+          <attvalue for="author_id" value="21CxRnMAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.math.uwaterloo.ca/~kohandel/"></attvalue>
+          <attvalue for="publications" value="106"></attvalue>
+          <attvalue for="interests" value="Biological Physics, Mathematical Biology and Medicine, Cancer Modeling"></attvalue>
+        </attvalues>
+        <viz:size value="30.358974"></viz:size>
+        <viz:position x="-161.93823" y="132.87236"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="39" label="Michael Wallace">
+        <attvalues>
+          <attvalue for="author_id" value="qLMLzc8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://mpwallace.github.io/"></attvalue>
+          <attvalue for="publications" value="38"></attvalue>
+          <attvalue for="interests" value="Statistics, Biostatistics, Causal Inference, Dynamic Treatment Regimes"></attvalue>
+        </attvalues>
+        <viz:size value="23.384615"></viz:size>
+        <viz:position x="68.2102" y="229.12762"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="40" label="John Zelek">
+        <attvalues>
+          <attvalue for="author_id" value="CrdYsxEAAAAJ"></attvalue>
+          <attvalue for="publications" value="223"></attvalue>
+          <attvalue for="interests" value="computer vision, robotics, hap tics"></attvalue>
+        </attvalues>
+        <viz:size value="42.358974"></viz:size>
+        <viz:position x="22.214485" y="-422.5469"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="41" label="Jian Zhao">
+        <attvalues>
+          <attvalue for="author_id" value="Gkk_I94AAAAJ"></attvalue>
+          <attvalue for="publications" value="29"></attvalue>
+          <attvalue for="interests" value="Green Energy, Hydrogen and Fuel Cells, Porous Media, Energy Harvesting, Combustion"></attvalue>
+        </attvalues>
+        <viz:size value="22.461538"></viz:size>
+        <viz:position x="-20.979452" y="-24.550282"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="42" label="Hans De Sterck">
+        <attvalues>
+          <attvalue for="author_id" value="EbwLBr8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.hansdesterck.net/"></attvalue>
+          <attvalue for="publications" value="159"></attvalue>
+          <attvalue for="interests" value="Scientific Computing, Multigrid, Tensor Decomposition, Optimization, Data Science"></attvalue>
+        </attvalues>
+        <viz:size value="35.794872"></viz:size>
+        <viz:position x="164.13373" y="-76.08216"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="43" label="Derek Schipper">
+        <attvalues>
+          <attvalue for="author_id" value="yPpfoAcAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://dschipper.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="32"></attvalue>
+          <attvalue for="interests" value="organic chemistry, conjugated materials synthesis"></attvalue>
+        </attvalues>
+        <viz:size value="22.76923"></viz:size>
+        <viz:position x="-116.40481" y="166.7655"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="44" label="David Yevick">
+        <attvalues>
+          <attvalue for="author_id" value="eMNK__gAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.science.uwaterloo.ca/~yevick/"></attvalue>
+          <attvalue for="publications" value="280"></attvalue>
+          <attvalue for="interests" value="Optical Communications, Computational Physics"></attvalue>
+        </attvalues>
+        <viz:size value="48.205128"></viz:size>
+        <viz:position x="-389.9003" y="216.85747"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="45" label="Daniel Vogel">
+        <attvalues>
+          <attvalue for="author_id" value="Yi5nK1EAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.nonsequitoria.com/"></attvalue>
+          <attvalue for="publications" value="113"></attvalue>
+          <attvalue for="interests" value="Human-Computer Interaction, Input Devices, Interaction Techniques, Large Displays"></attvalue>
+        </attvalues>
+        <viz:size value="31.076923"></viz:size>
+        <viz:position x="209.32245" y="58.075905"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="46" label="Chrystopher L. Nehaniv">
+        <attvalues>
+          <attvalue for="author_id" value="LAd9K5EAAAAJ"></attvalue>
+          <attvalue for="publications" value="409"></attvalue>
+          <attvalue for="interests" value="Algebra in Algorithms &amp; Applications, Artificial Intelligence, Artificial Life, Complex Adaptive Systems, Cognitive Architecture"></attvalue>
+        </attvalues>
+        <viz:size value="61.435898"></viz:size>
+        <viz:position x="-422.02267" y="-126.80216"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="47" label="Chris Bauch">
+        <attvalues>
+          <attvalue for="author_id" value="DmwSNy0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.math.uwaterloo.ca/~cbauch"></attvalue>
+          <attvalue for="publications" value="263"></attvalue>
+          <attvalue for="interests" value="infectious diseases, ecology, human-environment systems, machine learning, complex systems"></attvalue>
+        </attvalues>
+        <viz:size value="46.46154"></viz:size>
+        <viz:position x="-291.90744" y="269.89484"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="48" label="Chengguo Weng">
+        <attvalues>
+          <attvalue for="author_id" value="qJHMprkAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.chengguoweng.com/"></attvalue>
+          <attvalue for="publications" value="58"></attvalue>
+          <attvalue for="interests" value="Quantitative Finance, Actuarial Science, Quantitative Risk Management, Portfolio Theory, Stochastic Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="25.435898"></viz:size>
+        <viz:position x="40.239994" y="-184.70244"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="49" label="Brian Tripp">
+        <attvalues>
+          <attvalue for="author_id" value="OUMJw3oAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/systems-design-engineering/people-profiles/bryan-tripp"></attvalue>
+          <attvalue for="publications" value="59"></attvalue>
+          <attvalue for="interests" value="Computational neuroscience, Vision"></attvalue>
+        </attvalues>
+        <viz:size value="25.538462"></viz:size>
+        <viz:position x="-87.2804" y="281.9275"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="50" label="Bin Ma">
+        <attvalues>
+          <attvalue for="author_id" value="f-eL6DYAAAAJ"></attvalue>
+          <attvalue for="publications" value="178"></attvalue>
+          <attvalue for="interests" value="Computer Science, Bioinformatics, Mass Spectrometry, Proteomics, Algorithms"></attvalue>
+        </attvalues>
+        <viz:size value="37.74359"></viz:size>
+        <viz:position x="-147.90764" y="-159.67699"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="51" label="Ben Feng">
+        <attvalues>
+          <attvalue for="author_id" value="tGO2XIIAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.math.uwaterloo.ca/~mbfeng/"></attvalue>
+          <attvalue for="publications" value="21"></attvalue>
+          <attvalue for="interests" value="Simulation Design and Analysis, Actuarial Science, Financial Engineering, Portfolio Optimization, Nonlinear Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="21.641026"></viz:size>
+        <viz:position x="-70.768814" y="-21.588066"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="52" label="Arash Arami">
+        <attvalues>
+          <attvalue for="author_id" value="ZcmBowIAAAAJ"></attvalue>
+          <attvalue for="publications" value="70"></attvalue>
+          <attvalue for="interests" value="Neuromechanics, Movement Biomechanics, Human-machine Interaction, Assistive Robotics, Machine Learning"></attvalue>
+        </attvalues>
+        <viz:size value="26.666668"></viz:size>
+        <viz:position x="179.94565" y="-146.884"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="53" label="Andrew Doxey">
+        <attvalues>
+          <attvalue for="author_id" value="iUQqmUYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://doxey.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="82"></attvalue>
+          <attvalue for="interests" value="Computational Biology, Bioinformatics, microbial genomics, molecular evolution, toxins"></attvalue>
+        </attvalues>
+        <viz:size value="27.897436"></viz:size>
+        <viz:position x="-24.478268" y="-287.54514"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="54" label="André Unger">
+        <attvalues>
+          <attvalue for="author_id" value="D0ix3KsAAAAJ"></attvalue>
+          <attvalue for="publications" value="89"></attvalue>
+          <attvalue for="interests" value="Water Infrastructure Finance, Project Risk &amp; Uncertainty, Computational Hydrology, Water Resources Management..."></attvalue>
+        </attvalues>
+        <viz:size value="28.615385"></viz:size>
+        <viz:position x="-297.23218" y="-12.492273"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="55" label="Amir Khajepour">
+        <attvalues>
+          <attvalue for="author_id" value="TL84ll0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/mvs-lab/"></attvalue>
+          <attvalue for="publications" value="606"></attvalue>
+          <attvalue for="interests" value="Professor and Canada Research Chair in Mechatronic Vehicle Systems"></attvalue>
+        </attvalues>
+        <viz:size value="81.64102"></viz:size>
+        <viz:position x="466.08145" y="-348.1906"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="56" label="​Ali Ghodsi">
+        <attvalues>
+          <attvalue for="author_id" value="WXbhp_4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/data-analytics/"></attvalue>
+          <attvalue for="publications" value="267"></attvalue>
+          <attvalue for="interests" value="Machine Learning, Deep Learning, NLP"></attvalue>
+        </attvalues>
+        <viz:size value="46.871796"></viz:size>
+        <viz:position x="-369.08188" y="115.14839"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="57" label="Alexander Lanoszka">
+        <attvalues>
+          <attvalue for="author_id" value="sxE_MeoAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.alexlanoszka.com/"></attvalue>
+          <attvalue for="publications" value="40"></attvalue>
+          <attvalue for="interests" value="International Security, International Relations, European Security, NATO, War"></attvalue>
+        </attvalues>
+        <viz:size value="23.589745"></viz:size>
+        <viz:position x="167.7316" y="103.84222"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="58" label="Shirley Tang">
+        <attvalues>
+          <attvalue for="author_id" value="8SLi0t4AAAAJ"></attvalue>
+          <attvalue for="publications" value="75"></attvalue>
+          <attvalue for="interests" value="nanobiotechnology, portable and wearable devices, 3D printing"></attvalue>
+        </attvalues>
+        <viz:size value="27.179487"></viz:size>
+        <viz:position x="-20.248705" y="389.41095"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="59" label="Qinqin Zhu">
+        <attvalues>
+          <attvalue for="author_id" value="DXw3OhIAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/q72zhu"></attvalue>
+          <attvalue for="publications" value="31"></attvalue>
+          <attvalue for="interests" value="Process Data Analytics, Statistical Process Monitoring and Fault Diagnosis, Machine Learning and Big Data, Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="22.666666"></viz:size>
+        <viz:position x="11.011209" y="-232.46135"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="60" label="Roger Melko">
+        <attvalues>
+          <attvalue for="author_id" value="wGbkTUsAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.science.uwaterloo.ca/~rgmelko/"></attvalue>
+          <attvalue for="publications" value="147"></attvalue>
+          <attvalue for="interests" value="Condensed Matter Theory, Quantum Information, Machine Learning"></attvalue>
+        </attvalues>
+        <viz:size value="34.564102"></viz:size>
+        <viz:position x="89.341034" y="-79.42132"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="61" label="Christopher Fletcher">
+        <attvalues>
+          <attvalue for="author_id" value="cDMIljwAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/c5fletch/"></attvalue>
+          <attvalue for="publications" value="37"></attvalue>
+          <attvalue for="interests" value="Climate variability and change, climate modelling."></attvalue>
+        </attvalues>
+        <viz:size value="23.282051"></viz:size>
+        <viz:position x="-250.82762" y="-106.66046"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="62" label="Evan Risko">
+        <attvalues>
+          <attvalue for="author_id" value="ZDWO_fYAAAAJ"></attvalue>
+          <attvalue for="publications" value="150"></attvalue>
+        </attvalues>
+        <viz:size value="34.871796"></viz:size>
+        <viz:position x="156.41743" y="-257.1498"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="63" label="Peter Van Beek">
+        <attvalues>
+          <attvalue for="author_id" value="MP_l6fsAAAAJ"></attvalue>
+          <attvalue for="publications" value="104"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, constraint programming, search, satisfiability"></attvalue>
+        </attvalues>
+        <viz:size value="30.153847"></viz:size>
+        <viz:position x="8.477765" y="70.417206"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="64" label="Bessma Momani">
+        <attvalues>
+          <attvalue for="author_id" value="K0Wq4CQAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/bmomani/home"></attvalue>
+          <attvalue for="publications" value="163"></attvalue>
+          <attvalue for="interests" value="Middle East Economy, IMF, Diversity"></attvalue>
+        </attvalues>
+        <viz:size value="36.205128"></viz:size>
+        <viz:position x="-99.22501" y="-99.250786"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="65" label="Kristina Llewellyn">
+        <attvalues>
+          <attvalue for="author_id" value="HuStf3cAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/renison/people-profiles/kristina-r-llewellyn"></attvalue>
+          <attvalue for="publications" value="56"></attvalue>
+          <attvalue for="interests" value="Oral History, Citizenship Education, Women's History, Global Citizenship, Teachers"></attvalue>
+        </attvalues>
+        <viz:size value="25.23077"></viz:size>
+        <viz:position x="139.32817" y="-190.8346"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="66" label="Paul Stolee">
+        <attvalues>
+          <attvalue for="author_id" value="pv5Xge8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/ghs/"></attvalue>
+          <attvalue for="publications" value="286"></attvalue>
+          <attvalue for="interests" value="geriatric health systems, health outcome measurement, health care transitions"></attvalue>
+        </attvalues>
+        <viz:size value="48.82051"></viz:size>
+        <viz:position x="-68.94791" y="-369.84274"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="67" label="John Hirdes">
+        <attvalues>
+          <attvalue for="author_id" value="71R-3OIAAAAJ"></attvalue>
+          <attvalue for="publications" value="459"></attvalue>
+          <attvalue for="interests" value="health care, aging, mental health, home care, nursing homes"></attvalue>
+        </attvalues>
+        <viz:size value="66.5641"></viz:size>
+        <viz:position x="-270.9754" y="-454.39532"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="68" label="Yuning Li">
+        <attvalues>
+          <attvalue for="author_id" value="EgtMUXQAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/chemical-engineering/people-profiles/yuning-li"></attvalue>
+          <attvalue for="publications" value="309"></attvalue>
+          <attvalue for="interests" value="Organic electronics, polymers, nanomaterials, transistors, solar cells"></attvalue>
+        </attvalues>
+        <viz:size value="51.17949"></viz:size>
+        <viz:position x="-12.903802" y="245.80649"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="69" label="Yuri Boykov">
+        <attvalues>
+          <attvalue for="author_id" value="h6_PdYsAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~yboykov/"></attvalue>
+          <attvalue for="publications" value="144"></attvalue>
+          <attvalue for="interests" value="computer vision, biomedical image analysis"></attvalue>
+        </attvalues>
+        <viz:size value="34.25641"></viz:size>
+        <viz:position x="-229.8124" y="152.79028"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="70" label="Shoja'eddin Chenouri">
+        <attvalues>
+          <attvalue for="author_id" value="aSBmn9IAAAAJ"></attvalue>
+          <attvalue for="publications" value="50"></attvalue>
+          <attvalue for="interests" value="Robust Statistics, Nonparametric methods, Functional data analysis, Change point analysis, High-dimentional data"></attvalue>
+        </attvalues>
+        <viz:size value="24.615385"></viz:size>
+        <viz:position x="222.34988" y="-110.80544"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="71" label="Ricardo Fukasawa">
+        <attvalues>
+          <attvalue for="author_id" value="Z0NqKVYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.math.uwaterloo.ca/~rfukasaw"></attvalue>
+          <attvalue for="publications" value="47"></attvalue>
+          <attvalue for="interests" value="Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="24.307693"></viz:size>
+        <viz:position x="371.93457" y="150.35118"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="72" label="Peter Forsyth">
+        <attvalues>
+          <attvalue for="author_id" value="OQK4DDYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~paforsyt/"></attvalue>
+          <attvalue for="publications" value="264"></attvalue>
+          <attvalue for="interests" value="Scientific Computing, Computational Finance, Numerical solution of PDEs"></attvalue>
+        </attvalues>
+        <viz:size value="46.564102"></viz:size>
+        <viz:position x="-476.01904" y="124.84559"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="73" label="Paulo Alencar">
+        <attvalues>
+          <attvalue for="author_id" value="0xzfYjwAAAAJ"></attvalue>
+          <attvalue for="publications" value="276"></attvalue>
+          <attvalue for="interests" value="software engineering, formal methods, web engineering, mobile applications, context-aware computing"></attvalue>
+        </attvalues>
+        <viz:size value="47.794872"></viz:size>
+        <viz:position x="109.6916" y="-334.29327"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="74" label="Olga Vechtomova">
+        <attvalues>
+          <attvalue for="author_id" value="Ln1-_JIAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://ov-research.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="85"></attvalue>
+          <attvalue for="interests" value="Natural Language Processing, Information Retrieval"></attvalue>
+        </attvalues>
+        <viz:size value="28.205128"></viz:size>
+        <viz:position x="200.34727" y="-203.31248"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="75" label="Kaan Inal">
+        <attvalues>
+          <attvalue for="author_id" value="fD70lxoAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.cmrg.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="139"></attvalue>
+          <attvalue for="interests" value="Crystal Plasticity, Formability, Localized Deformation"></attvalue>
+        </attvalues>
+        <viz:size value="33.74359"></viz:size>
+        <viz:position x="270.73315" y="234.15239"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="76" label="Hyock Ju Kwon">
+        <attvalues>
+          <attvalue for="author_id" value="VDoXjlEAAAAJ"></attvalue>
+          <attvalue for="publications" value="54"></attvalue>
+          <attvalue for="interests" value="AI, Robotics, Biomedical, Mechanical"></attvalue>
+        </attvalues>
+        <viz:size value="25.025642"></viz:size>
+        <viz:position x="73.39178" y="177.9588"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="77" label="George Labahn">
+        <attvalues>
+          <attvalue for="author_id" value="Y91lPPwAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.cs.uwaterloo.ca/~glabahn"></attvalue>
+          <attvalue for="publications" value="189"></attvalue>
+          <attvalue for="interests" value="Computer Algebra, Computational Finance, Scientific Computing, Approximation Theory"></attvalue>
+        </attvalues>
+        <viz:size value="38.871796"></viz:size>
+        <viz:position x="182.75154" y="172.28285"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="78" label="Eihab Abdel-Rahman">
+        <attvalues>
+          <attvalue for="author_id" value="IyO3eJcAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/systems-design-engineering/people-profiles/eihab-abdel-rahman"></attvalue>
+          <attvalue for="publications" value="258"></attvalue>
+          <attvalue for="interests" value="Nonlinear Dynamics, MEMS, Vibrations, Control, Sensors"></attvalue>
+        </attvalues>
+        <viz:size value="45.948715"></viz:size>
+        <viz:position x="-76.40465" y="104.42288"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="79" label="Don Cowan">
+        <attvalues>
+          <attvalue for="author_id" value="thICt6UAAAAJ"></attvalue>
+          <attvalue for="publications" value="67"></attvalue>
+        </attvalues>
+        <viz:size value="26.358974"></viz:size>
+        <viz:position x="124.16054" y="-133.36536"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="80" label="Vijay Ganesh">
+        <attvalues>
+          <attvalue for="author_id" value="YP23eR0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/~vganesh"></attvalue>
+          <attvalue for="publications" value="165"></attvalue>
+          <attvalue for="interests" value="SAT/SMT solvers, formal methods/software engineering/security, AI, mathematics, physics"></attvalue>
+        </attvalues>
+        <viz:size value="36.410255"></viz:size>
+        <viz:position x="25.77853" y="333.1309"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="81" label="Charles Clarke">
+        <attvalues>
+          <attvalue for="author_id" value="TkVleDIAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://plg.uwaterloo.ca/~claclark"></attvalue>
+          <attvalue for="publications" value="276"></attvalue>
+          <attvalue for="interests" value="Information Retrieval, Web Search, Text Mining"></attvalue>
+        </attvalues>
+        <viz:size value="47.794872"></viz:size>
+        <viz:position x="114.665405" y="493.67432"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="82" label="Jimmy Lin">
+        <attvalues>
+          <attvalue for="author_id" value="0EWw1z8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~jimmylin/"></attvalue>
+          <attvalue for="publications" value="579"></attvalue>
+          <attvalue for="interests" value="information retrieval, natural language processing, data management, big data"></attvalue>
+        </attvalues>
+        <viz:size value="78.871796"></viz:size>
+        <viz:position x="-398.71335" y="355.19345"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="83" label="Safieddin Safavi-Naeini">
+        <attvalues>
+          <attvalue for="author_id" value="vcsNbsgAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/centre-for-intelligent-antenna-and-radio-systems/"></attvalue>
+          <attvalue for="publications" value="691"></attvalue>
+          <attvalue for="interests" value="Electromagnetic fields and waves, Intelligent Antenna and Radio Systems, Microwaves/Millimeter-waves technology, Terahertz Technologies, Bio-medical sensors"></attvalue>
+        </attvalues>
+        <viz:size value="90.35897"></viz:size>
+        <viz:position x="239.82196" y="-472.84537"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="84" label="Plinio Morita">
+        <attvalues>
+          <attvalue for="author_id" value="pMiZZU4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/public-health-and-health-systems/people-profiles/plinio-morita"></attvalue>
+          <attvalue for="publications" value="101"></attvalue>
+          <attvalue for="interests" value="mHealth and wearable technology design, ubiquitous sensors for smart homes, usage data and health data analytics, and technology"></attvalue>
+        </attvalues>
+        <viz:size value="29.846153"></viz:size>
+        <viz:position x="121.14527" y="-17.518595"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="85" label="Sharon Kirkpatrick">
+        <attvalues>
+          <attvalue for="author_id" value="v5aZktUAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/public-health-and-health-systems/people-profiles/sharon-kirkpatrick"></attvalue>
+          <attvalue for="publications" value="179"></attvalue>
+          <attvalue for="interests" value="nutrition, dietary assessment, food policy"></attvalue>
+        </attvalues>
+        <viz:size value="37.846153"></viz:size>
+        <viz:position x="-302.92227" y="178.23703"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="86" label="Jun Liu">
+        <attvalues>
+          <attvalue for="author_id" value="Ytr7YQ0AAAAJ"></attvalue>
+          <attvalue for="publications" value="102"></attvalue>
+          <attvalue for="interests" value="systems and control theory, formal methods, optimization and learning"></attvalue>
+        </attvalues>
+        <viz:size value="29.948719"></viz:size>
+        <viz:position x="-322.9492" y="46.812454"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="87" label="Scott Hopkins">
+        <attvalues>
+          <attvalue for="author_id" value="cP6A2C0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/chemistry/people-profiles/scott-hopkins"></attvalue>
+          <attvalue for="publications" value="99"></attvalue>
+          <attvalue for="interests" value="Chemistry, Physics"></attvalue>
+        </attvalues>
+        <viz:size value="29.641026"></viz:size>
+        <viz:position x="-285.1765" y="-154.3907"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="88" label="George Shaker">
+        <attvalues>
+          <attvalue for="author_id" value="BuqNOOwAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.linkedin.com/in/georgeshaker"></attvalue>
+          <attvalue for="publications" value="163"></attvalue>
+          <attvalue for="interests" value="Electromagnetics, Antennas, RF, Microwave, Sensors and Printed Electronics"></attvalue>
+        </attvalues>
+        <viz:size value="36.205128"></viz:size>
+        <viz:position x="212.81758" y="-323.81088"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="89" label="Apurva Narayan">
+        <attvalues>
+          <attvalue for="author_id" value="e5OCZ1cAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.anarayan.com/"></attvalue>
+          <attvalue for="publications" value="46"></attvalue>
+          <attvalue for="interests" value="Cyber Physical Systems, Data Analytics, Machine Learning, Software Engineering, Safety and Security in CPS"></attvalue>
+        </attvalues>
+        <viz:size value="24.205128"></viz:size>
+        <viz:position x="418.6148" y="-93.442635"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="90" label="Henry Wolkowicz">
+        <attvalues>
+          <attvalue for="author_id" value="WmTBubUAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.math.uwaterloo.ca/~hwolkowi/"></attvalue>
+          <attvalue for="publications" value="334"></attvalue>
+          <attvalue for="interests" value="Optimization, Mathematical Programming, Numerical Linear Algebra, Cone Optimization, Matrix Completions"></attvalue>
+        </attvalues>
+        <viz:size value="53.743587"></viz:size>
+        <viz:position x="475.51227" y="-17.44031"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="91" label="Lila Kari">
+        <attvalues>
+          <attvalue for="author_id" value="B4myWaQAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/about/people/lila"></attvalue>
+          <attvalue for="publications" value="273"></attvalue>
+          <attvalue for="interests" value="Theoretical computer science, DNA computing, Formal languages &amp; Automata, Biodiversity informatics"></attvalue>
+        </attvalues>
+        <viz:size value="47.487183"></viz:size>
+        <viz:position x="187.3618" y="264.22"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="92" label="Trevor Charles">
+        <attvalues>
+          <attvalue for="author_id" value="gTkdyfsAAAAJ"></attvalue>
+          <attvalue for="publications" value="146"></attvalue>
+          <attvalue for="interests" value="microbiology, bacterial genetics, metagenomics, plant-microbe interactions, bioplastics"></attvalue>
+        </attvalues>
+        <viz:size value="34.46154"></viz:size>
+        <viz:position x="234.782" y="-49.1374"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="93" label="Ashley Rose Mehlenbacher">
+        <attvalues>
+          <attvalue for="author_id" value="32EmfuEAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/arkelly/"></attvalue>
+          <attvalue for="publications" value="42"></attvalue>
+          <attvalue for="interests" value="rhetorical theory, rhetorics of science and technology and medicine, science communication, genre theory, science studies"></attvalue>
+        </attvalues>
+        <viz:size value="23.794872"></viz:size>
+        <viz:position x="241.54865" y="-161.17995"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="94" label="Vasudevan Lakshminarayanan">
+        <attvalues>
+          <attvalue for="author_id" value="ipkmLWUAAAAJ"></attvalue>
+          <attvalue for="publications" value="506"></attvalue>
+        </attvalues>
+        <viz:size value="71.38461"></viz:size>
+        <viz:position x="31.520197" y="-562.0717"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="95" label="Olaf Weber">
+        <attvalues>
+          <attvalue for="author_id" value="tGFedLkAAAAJ"></attvalue>
+          <attvalue for="publications" value="170"></attvalue>
+          <attvalue for="interests" value="Sustainable finance, impact investing, social finance, corporate social responsibility"></attvalue>
+        </attvalues>
+        <viz:size value="36.923077"></viz:size>
+        <viz:position x="379.4283" y="6.755123"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="96" label="Colin Ellard">
+        <attvalues>
+          <attvalue for="author_id" value="jOejML4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://colinellard.com/"></attvalue>
+          <attvalue for="publications" value="89"></attvalue>
+          <attvalue for="interests" value="environmental psychology, virtual reality, urban psychology"></attvalue>
+        </attvalues>
+        <viz:size value="28.615385"></viz:size>
+        <viz:position x="-182.07741" y="-268.90857"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="97" label="Ian Milligan">
+        <attvalues>
+          <attvalue for="author_id" value="ZDmByc4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://ianmilligan.ca/"></attvalue>
+          <attvalue for="publications" value="104"></attvalue>
+        </attvalues>
+        <viz:size value="30.153847"></viz:size>
+        <viz:position x="-47.846188" y="-228.6232"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="98" label="Martin Ross">
+        <attvalues>
+          <attvalue for="author_id" value="d1w1jiUAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/earth-environmental-sciences/people-profiles/martin-ross"></attvalue>
+          <attvalue for="publications" value="90"></attvalue>
+          <attvalue for="interests" value="Quaternary science, glacial geology, geomorphology"></attvalue>
+        </attvalues>
+        <viz:size value="28.717949"></viz:size>
+        <viz:position x="319.06506" y="181.39018"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="99" label="Chris Eliasmith">
+        <attvalues>
+          <attvalue for="author_id" value="KOBO-6QAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://compneuro.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="274"></attvalue>
+          <attvalue for="interests" value="theoretical neuroscience, brain modelling, machine learning, artificial intelligence, philosophy of mind"></attvalue>
+        </attvalues>
+        <viz:size value="47.589745"></viz:size>
+        <viz:position x="-382.99606" y="-12.928352"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="100" label="Raouf Boutaba">
+        <attvalues>
+          <attvalue for="author_id" value="L1RHDCcAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://rboutaba.cs.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="785"></attvalue>
+          <attvalue for="interests" value="Network Management, Network Virtualization, Cloud Resource Management"></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-495.39725" y="-282.46466"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="101" label="Seyed Majid Zahedi">
+        <attvalues>
+          <attvalue for="author_id" value="HlL8Gi4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/~smzahedi/"></attvalue>
+          <attvalue for="publications" value="14"></attvalue>
+          <attvalue for="interests" value="Computer Systems, Computer Architecture, Theoretical Computer Science"></attvalue>
+        </attvalues>
+        <viz:size value="20.923077"></viz:size>
+        <viz:position x="90.564575" y="-172.52191"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="102" label="Joel Dubin">
+        <attvalues>
+          <attvalue for="author_id" value="g9zPsf4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin"></attvalue>
+          <attvalue for="publications" value="113"></attvalue>
+          <attvalue for="interests" value="Statistics, biostatistics, data science"></attvalue>
+        </attvalues>
+        <viz:size value="31.076923"></viz:size>
+        <viz:position x="-61.873955" y="-161.55902"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="103" label="Phil Curry">
+        <attvalues>
+          <attvalue for="author_id" value="07j673gAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.arts.uwaterloo.ca/~pacurry/"></attvalue>
+          <attvalue for="publications" value="32"></attvalue>
+          <attvalue for="interests" value="law and economics, applied microeconomic theory"></attvalue>
+        </attvalues>
+        <viz:size value="22.76923"></viz:size>
+        <viz:position x="-100.049126" y="-205.4574"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="104" label="Achim Kempf">
+        <attvalues>
+          <attvalue for="author_id" value="vfYk_ygAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://uwaterloo.ca/poi"></attvalue>
+          <attvalue for="publications" value="164"></attvalue>
+          <attvalue for="interests" value="Physics of Information, Quantum Gravity and Cosmology, Information in Biology and Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="36.307693"></viz:size>
+        <viz:position x="-211.81358" y="79.47965"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="105" label="Yaoliang Yu">
+        <attvalues>
+          <attvalue for="author_id" value="zbXIQMsAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~y328yu/"></attvalue>
+          <attvalue for="publications" value="99"></attvalue>
+          <attvalue for="interests" value="Machine learning, Optimization"></attvalue>
+        </attvalues>
+        <viz:size value="29.641026"></viz:size>
+        <viz:position x="-216.32239" y="-2.716631"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="106" label="Chul Min Yeum">
+        <attvalues>
+          <attvalue for="author_id" value="6PiF3MkAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cviss.net/"></attvalue>
+          <attvalue for="publications" value="48"></attvalue>
+          <attvalue for="interests" value="Structural Health Monitoring, Computer Vision, Machine Learning"></attvalue>
+        </attvalues>
+        <viz:size value="24.410255"></viz:size>
+        <viz:position x="15.652876" y="11.038859"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="107" label="John McLevey">
+        <attvalues>
+          <attvalue for="author_id" value="zkQN59MAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.johnmclevey.com/"></attvalue>
+          <attvalue for="publications" value="31"></attvalue>
+          <attvalue for="interests" value="computational social science, social networks, natural language processing, politics of information"></attvalue>
+        </attvalues>
+        <viz:size value="22.666666"></viz:size>
+        <viz:position x="-179.19121" y="192.91214"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="108" label="Tao Chen">
+        <attvalues>
+          <attvalue for="author_id" value="hIYp2jIAAAAJ"></attvalue>
+          <attvalue for="publications" value="5"></attvalue>
+          <attvalue for="interests" value="Membrane, Modeling"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-12.024834" y="-187.91324"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="109" label="Subha Kalyaanamoorthy">
+        <attvalues>
+          <attvalue for="author_id" value="ZiJxchkAAAAJ"></attvalue>
+          <attvalue for="publications" value="32"></attvalue>
+          <attvalue for="interests" value="Computational biology, Molecular modelling, Structure-based drug design, Molecular evolution, Molecular dynamics"></attvalue>
+        </attvalues>
+        <viz:size value="22.76923"></viz:size>
+        <viz:position x="-241.20348" y="-190.50325"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="110" label="Ruodu Wang">
+        <attvalues>
+          <attvalue for="author_id" value="YT9wiu8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://sas.uwaterloo.ca/~wang"></attvalue>
+          <attvalue for="publications" value="107"></attvalue>
+          <attvalue for="interests" value="Statistics, Actuarial Science, Quantitative Risk Management, Financial Engineering, Risk Measures"></attvalue>
+        </attvalues>
+        <viz:size value="30.46154"></viz:size>
+        <viz:position x="255.51476" y="166.18503"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="111" label="Mark Crowley">
+        <attvalues>
+          <attvalue for="author_id" value="eL_y80EAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/mcrowley"></attvalue>
+          <attvalue for="publications" value="114"></attvalue>
+          <attvalue for="interests" value="Machine Learning, Artificial Intelligence, Computational Sustainability, Reinforcement Learning, Anomaly Detection"></attvalue>
+        </attvalues>
+        <viz:size value="31.179487"></viz:size>
+        <viz:position x="299.51974" y="-202.83412"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="112" label="Stephen M. Watt">
+        <attvalues>
+          <attvalue for="author_id" value="O4bB0QkAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://cs.uwaterloo.ca/~smwatt/"></attvalue>
+          <attvalue for="publications" value="299"></attvalue>
+          <attvalue for="interests" value="computer algebra, compilers, handwriting recognition"></attvalue>
+        </attvalues>
+        <viz:size value="50.153847"></viz:size>
+        <viz:position x="-117.07735" y="387.3222"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="113" label="Josh D. Neufeld">
+        <attvalues>
+          <attvalue for="author_id" value="hzeNTPAAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://biology.uwaterloo.ca/people/josh-neufeld"></attvalue>
+          <attvalue for="publications" value="156"></attvalue>
+          <attvalue for="interests" value="Microbiology, microbial ecology, human microbiome"></attvalue>
+        </attvalues>
+        <viz:size value="35.48718"></viz:size>
+        <viz:position x="410.1729" y="80.59037"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="114" label="Jennifer Whitson">
+        <attvalues>
+          <attvalue for="author_id" value="QiYJp90AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.jenniferwhitson.com/"></attvalue>
+          <attvalue for="publications" value="34"></attvalue>
+          <attvalue for="interests" value="Surveillance, Game Studies, Labour"></attvalue>
+        </attvalues>
+        <viz:size value="22.97436"></viz:size>
+        <viz:position x="-146.94879" y="77.57956"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="115" label="Ming Li">
+        <attvalues>
+          <attvalue for="author_id" value="oGgPXFEAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://cs.uwaterloo.ca/~mli"></attvalue>
+          <attvalue for="publications" value="394"></attvalue>
+          <attvalue for="interests" value="Bioinformatics, natural language processing, algorithms and complexity, Kolmogorov complexity, learning theory"></attvalue>
+        </attvalues>
+        <viz:size value="59.897434"></viz:size>
+        <viz:position x="-330.33307" y="-331.61734"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="116" label="Mathieu Doucet">
+        <attvalues>
+          <attvalue for="author_id" value="gC94TBgAAAAJ"></attvalue>
+          <attvalue for="publications" value="14"></attvalue>
+          <attvalue for="interests" value="Philosophy, ethics, moral psychology"></attvalue>
+        </attvalues>
+        <viz:size value="20.923077"></viz:size>
+        <viz:position x="-244.42233" y="210.65999"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="117" label="Alfred Yu">
+        <attvalues>
+          <attvalue for="author_id" value="LRUenAcAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://lit-mus.org/"></attvalue>
+          <attvalue for="publications" value="141"></attvalue>
+          <attvalue for="interests" value="Ultrasound Imaging &amp; Therapeutics"></attvalue>
+        </attvalues>
+        <viz:size value="33.94872"></viz:size>
+        <viz:position x="145.53755" y="407.6697"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="118" label="Weihua Zhuang">
+        <attvalues>
+          <attvalue for="author_id" value="Py1onlEAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://bbcr.uwaterloo.ca/~wzhuang"></attvalue>
+          <attvalue for="publications" value="415"></attvalue>
+          <attvalue for="interests" value="Wireless networking, MAC, VANETs, QoS, Positioning"></attvalue>
+        </attvalues>
+        <viz:size value="62.05128"></viz:size>
+        <viz:position x="379.05347" y="262.24326"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="119" label="Pascal Poupart">
+        <attvalues>
+          <attvalue for="author_id" value="KhAJWroAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://cs.uwaterloo.ca/~ppoupart"></attvalue>
+          <attvalue for="publications" value="215"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, Machine Learning, Reinforcement Learning, Markov Decision Processes, Sum-Product Networks"></attvalue>
+        </attvalues>
+        <viz:size value="41.538464"></viz:size>
+        <viz:position x="-319.5835" y="-85.54776"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="120" label="Mikko Packalen">
+        <attvalues>
+          <attvalue for="author_id" value="kJ-X1MEAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://sites.google.com/site/mikkopackalen/"></attvalue>
+          <attvalue for="publications" value="26"></attvalue>
+          <attvalue for="interests" value="ideas, growth, health, text analysis"></attvalue>
+        </attvalues>
+        <viz:size value="22.153847"></viz:size>
+        <viz:position x="245.15584" y="12.371166"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="121" label="Marius Hofert">
+        <attvalues>
+          <attvalue for="author_id" value="FU8uWWUAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.math.uwaterloo.ca/~mhofert/"></attvalue>
+          <attvalue for="publications" value="125"></attvalue>
+          <attvalue for="interests" value="Copula Modeling, Computational Statistics and Data Science, Quantitative Risk Management"></attvalue>
+        </attvalues>
+        <viz:size value="32.307693"></viz:size>
+        <viz:position x="86.32719" y="-232.95445"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="122" label="Juliane Mai">
+        <attvalues>
+          <attvalue for="author_id" value="0cgCUuAAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.civil.uwaterloo.ca/jmai/"></attvalue>
+          <attvalue for="publications" value="134"></attvalue>
+          <attvalue for="interests" value="Sensitivity Analysis, Uncertainty Analysis, Model Calibration, Large-Scale Hydrologic Modelling, HPC &amp; Big Data"></attvalue>
+        </attvalues>
+        <viz:size value="33.23077"></viz:size>
+        <viz:position x="-147.59367" y="301.64554"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="123" label="Baris Fidan">
+        <attvalues>
+          <attvalue for="author_id" value="kQBCvYEAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.me.uwaterloo.ca/~fidan"></attvalue>
+          <attvalue for="publications" value="240"></attvalue>
+          <attvalue for="interests" value="Controls, Robotics, Mechatronics, Sensor Networks, Signal Processing"></attvalue>
+        </attvalues>
+        <viz:size value="44.102562"></viz:size>
+        <viz:position x="385.89908" y="-233.10399"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="124" label="Jeff Z.Y. Chen">
+        <attvalues>
+          <attvalue for="author_id" value="_zhMaH8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.science.uwaterloo.ca/~jeffchen"></attvalue>
+          <attvalue for="publications" value="158"></attvalue>
+          <attvalue for="interests" value="Soft Matter Theory"></attvalue>
+        </attvalues>
+        <viz:size value="35.692307"></viz:size>
+        <viz:position x="-111.578865" y="25.262487"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="125" label="Derek Rayside">
+        <attvalues>
+          <attvalue for="author_id" value="hG-Un48AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/~drayside/"></attvalue>
+          <attvalue for="publications" value="79"></attvalue>
+          <attvalue for="interests" value="software engineering, formal methods, program analysis, synthesis"></attvalue>
+        </attvalues>
+        <viz:size value="27.589745"></viz:size>
+        <viz:position x="346.87463" y="-388.62042"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="126" label="Efrim Boritz">
+        <attvalues>
+          <attvalue for="author_id" value="wlKr--QAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/school-of-accounting-and-finance/people-profiles/efrim-boritz"></attvalue>
+          <attvalue for="publications" value="139"></attvalue>
+          <attvalue for="interests" value="Audit, Assurance, Accounting Information Systems"></attvalue>
+        </attvalues>
+        <viz:size value="33.74359"></viz:size>
+        <viz:position x="58.43933" y="116.36292"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="127" label="Maura Grossman">
+        <attvalues>
+          <attvalue for="author_id" value="Mtt1ewoAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://grossman.uwaterloo.ca/"></attvalue>
+          <attvalue for="publications" value="64"></attvalue>
+          <attvalue for="interests" value="High-Stakes Information Retrieval"></attvalue>
+        </attvalues>
+        <viz:size value="26.051283"></viz:size>
+        <viz:position x="121.360855" y="206.34598"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="128" label="Tony Wirjanto">
+        <attvalues>
+          <attvalue for="author_id" value="Rt3jpBUAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/tony-wirjanto"></attvalue>
+          <attvalue for="publications" value="196"></attvalue>
+          <attvalue for="interests" value="Financial Econometrics/Time Series, Financial Mathematics, Computational Finance"></attvalue>
+        </attvalues>
+        <viz:size value="39.589745"></viz:size>
+        <viz:position x="-255.0582" y="-256.8335"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="129" label="Shai Ben-David">
+        <attvalues>
+          <attvalue for="author_id" value="kezPqwoAAAAJ"></attvalue>
+          <attvalue for="publications" value="227"></attvalue>
+          <attvalue for="interests" value="Theoretical computer science, Machine Learning, Clustering, Mathematical logic"></attvalue>
+        </attvalues>
+        <viz:size value="42.769234"></viz:size>
+        <viz:position x="57.700516" y="412.2215"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="130" label="Marcel O' Gorman">
+        <attvalues>
+          <attvalue for="author_id" value="04wS9GMAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://marcelogorman.net/"></attvalue>
+          <attvalue for="publications" value="54"></attvalue>
+          <attvalue for="interests" value="Media Theory, Posthumanism, Digital Art, Digital Humanities"></attvalue>
+        </attvalues>
+        <viz:size value="25.025642"></viz:size>
+        <viz:position x="40.56661" y="-277.17615"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="131" label="Anna Esselment">
+        <attvalues>
+          <attvalue for="author_id" value="3dHQfmoAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/political-science/people-profiles/anna-esselment"></attvalue>
+          <attvalue for="publications" value="31"></attvalue>
+          <attvalue for="interests" value="Canadian politics, campaigns and elections, political marketing"></attvalue>
+        </attvalues>
+        <viz:size value="22.666666"></viz:size>
+        <viz:position x="110.45963" y="258.63504"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="132" label="Jonathan Li">
+        <attvalues>
+          <attvalue for="author_id" value="7hyYxRkAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/geospatial-sensing/"></attvalue>
+          <attvalue for="publications" value="534"></attvalue>
+          <attvalue for="interests" value="Geomatics, Mapping, Earth Observation, LiDAR, Photogrammetry"></attvalue>
+        </attvalues>
+        <viz:size value="74.25641"></viz:size>
+        <viz:position x="-121.681625" y="-490.9765"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="133" label="Alan Huang">
+        <attvalues>
+          <attvalue for="author_id" value="buaNnDMAAAAJ"></attvalue>
+          <attvalue for="publications" value="38"></attvalue>
+          <attvalue for="interests" value="Empirical Asset Pricing"></attvalue>
+        </attvalues>
+        <viz:size value="23.384615"></viz:size>
+        <viz:position x="-146.58315" y="-225.62259"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="134" label="Bryan Tolson">
+        <attvalues>
+          <attvalue for="author_id" value="E0ugA2sAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.civil.uwaterloo.ca/btolson/"></attvalue>
+          <attvalue for="publications" value="158"></attvalue>
+          <attvalue for="interests" value="hydrologic modelling, water distribution system modelling, optimization, automatic calibration, water resources systems analysis"></attvalue>
+        </attvalues>
+        <viz:size value="35.692307"></viz:size>
+        <viz:position x="14.190498" y="-75.86998"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="135" label="Catherine Burns">
+        <attvalues>
+          <attvalue for="author_id" value="ONcan_4AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://www.researchgate.net/profile/Catherine_Burns3%22%3ECatherine%20Marie%20Burns%20on%20ResearchGate"></attvalue>
+          <attvalue for="publications" value="246"></attvalue>
+          <attvalue for="interests" value="human factors, cognitive work, patient safety, interaction with AI, interaction with automation"></attvalue>
+        </attvalues>
+        <viz:size value="44.71795"></viz:size>
+        <viz:position x="-182.28392" y="-79.04278"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="136" label="Olga Veksler">
+        <attvalues>
+          <attvalue for="author_id" value="r5QkMysAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://cs.uwaterloo.ca/~oveksler/"></attvalue>
+          <attvalue for="publications" value="82"></attvalue>
+          <attvalue for="interests" value="Computer Vision"></attvalue>
+        </attvalues>
+        <viz:size value="27.897436"></viz:size>
+        <viz:position x="147.53351" y="45.41417"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="137" label="Marcel Nooijen">
+        <attvalues>
+          <attvalue for="author_id" value="yFqaGSsAAAAJ"></attvalue>
+          <attvalue for="publications" value="162"></attvalue>
+          <attvalue for="interests" value="electronic structure theory"></attvalue>
+        </attvalues>
+        <viz:size value="36.102562"></viz:size>
+        <viz:position x="304.25256" y="-20.604927"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="138" label="Peter Johnson">
+        <attvalues>
+          <attvalue for="author_id" value="14Ov5mYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson"></attvalue>
+          <attvalue for="publications" value="64"></attvalue>
+          <attvalue for="interests" value="Civic Technology, GIScience, Public Participation, Open Data"></attvalue>
+        </attvalues>
+        <viz:size value="26.051283"></viz:size>
+        <viz:position x="118.50905" y="145.74802"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="139" label="Laura Middleton">
+        <attvalues>
+          <attvalue for="author_id" value="HGEQv7cAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/kinesiology/people-profiles/laura-middleton"></attvalue>
+          <attvalue for="publications" value="115"></attvalue>
+          <attvalue for="interests" value="Physical activity, sedentary behaviour, exercise interventions, aging, cognitive impairment"></attvalue>
+        </attvalues>
+        <viz:size value="31.282051"></viz:size>
+        <viz:position x="-282.42215" y="101.88701"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="140" label="Kerstin Dautenhahn">
+        <attvalues>
+          <attvalue for="author_id" value="0b9_3VUAAAAJ"></attvalue>
+          <attvalue for="publications" value="612"></attvalue>
+          <attvalue for="interests" value="Social Robotics, Human-Robot Interaction, Artificial Intelligence, Assistive Technology"></attvalue>
+        </attvalues>
+        <viz:size value="82.25641"></viz:size>
+        <viz:position x="-40.453133" y="511.04074"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="141" label="Katja Mombaur">
+        <attvalues>
+          <attvalue for="author_id" value="HuN7dvgAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.orb.uni-hd.de/"></attvalue>
+          <attvalue for="publications" value="211"></attvalue>
+          <attvalue for="interests" value="Humanoid robots, Wearable robots and assistive devices, Human movement, Optimal control, Modeling"></attvalue>
+        </attvalues>
+        <viz:size value="41.128204"></viz:size>
+        <viz:position x="-104.92859" y="-281.09338"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="142" label="Jesse Hoey">
+        <attvalues>
+          <attvalue for="author_id" value="YcBGOtQAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.cs.uwaterloo.ca/~jhoey"></attvalue>
+          <attvalue for="publications" value="244"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, Affective Computing, Computational Social Science, Markov Decision Processes"></attvalue>
+        </attvalues>
+        <viz:size value="44.51282"></viz:size>
+        <viz:position x="-340.5077" y="-213.65117"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="143" label="Horatiu Rus">
+        <attvalues>
+          <attvalue for="author_id" value="QDdxpj0AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.arts.uwaterloo.ca/~hrus"></attvalue>
+          <attvalue for="publications" value="28"></attvalue>
+          <attvalue for="interests" value="Natural Resource and Environmental Economics, International Trade, Political Economy"></attvalue>
+        </attvalues>
+        <viz:size value="22.358974"></viz:size>
+        <viz:position x="-194.36331" y="-207.78424"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="144" label="Lennart Nacke">
+        <attvalues>
+          <attvalue for="author_id" value="i-y5S2AAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.hcigames.com/"></attvalue>
+          <attvalue for="publications" value="270"></attvalue>
+          <attvalue for="interests" value="Human-Computer Interaction, User Experience, Player Experience, Games User Research, Gamification"></attvalue>
+        </attvalues>
+        <viz:size value="47.17949"></viz:size>
+        <viz:position x="276.33862" y="322.40216"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="145" label="Edith Law">
+        <attvalues>
+          <attvalue for="author_id" value="OOssnq8AAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://edithlaw.ca/"></attvalue>
+          <attvalue for="publications" value="100"></attvalue>
+          <attvalue for="interests" value="Human Computer Interaction, Machine Learning, Human Computation and Crowddsourcing, Citizen Science"></attvalue>
+        </attvalues>
+        <viz:size value="29.74359"></viz:size>
+        <viz:position x="286.87027" y="-101.51472"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="146" label="Ashok Chaurasia">
+        <attvalues>
+          <attvalue for="author_id" value="VFdBknwAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/public-health-and-health-systems/people-profiles/ashok-chaurasia"></attvalue>
+          <attvalue for="publications" value="48"></attvalue>
+          <attvalue for="interests" value="model selection, longitudinal data, incomplete/missing data, sequential analysis"></attvalue>
+        </attvalues>
+        <viz:size value="24.410255"></viz:size>
+        <viz:position x="-214.52864" y="-146.6026"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="147" label="Fatma Gzara">
+        <attvalues>
+          <attvalue for="author_id" value="BYLEbicAAAAJ"></attvalue>
+          <attvalue for="publications" value="35"></attvalue>
+          <attvalue for="interests" value="Large scale optimization, Data analytics, Logistics and supply chain analytics"></attvalue>
+        </attvalues>
+        <viz:size value="23.076923"></viz:size>
+        <viz:position x="220.01358" y="116.518364"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="148" label="Fakhri Karray">
+        <attvalues>
+          <attvalue for="author_id" value="9_Hpd5kAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/scholar/karray"></attvalue>
+          <attvalue for="publications" value="663"></attvalue>
+          <attvalue for="interests" value="multi-sensor data fusion, emotion recognition, intelligent systems, computational intelligence, machine learning"></attvalue>
+        </attvalues>
+        <viz:size value="87.487175"></viz:size>
+        <viz:position x="511.39203" y="166.08505"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="299" source="1" target="31" weight="2.0"></edge>
+      <edge id="300" source="1" target="111" weight="2.0"></edge>
+      <edge id="301" source="1" target="145" weight="2.0"></edge>
+      <edge id="304" source="4" target="40" weight="2.0"></edge>
+      <edge id="306" source="5" target="32" weight="2.0"></edge>
+      <edge id="307" source="5" target="55" weight="2.0"></edge>
+      <edge id="308" source="5" target="83" weight="2.0"></edge>
+      <edge id="309" source="5" target="88" weight="2.0"></edge>
+      <edge id="310" source="5" target="111" weight="2.0"></edge>
+      <edge id="311" source="5" target="123" weight="2.0"></edge>
+      <edge id="312" source="5" target="125" weight="2.0"></edge>
+      <edge id="313" source="6" target="72" weight="2.0"></edge>
+      <edge id="315" source="7" target="30" weight="2.0"></edge>
+      <edge id="336" source="8" target="40"></edge>
+      <edge id="337" source="8" target="83"></edge>
+      <edge id="338" source="8" target="94"></edge>
+      <edge id="340" source="9" target="107"></edge>
+      <edge id="341" source="10" target="68"></edge>
+      <edge id="343" source="11" target="48"></edge>
+    </edges>
+  </graph>
+</gexf>
