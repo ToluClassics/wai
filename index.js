@@ -398,9 +398,16 @@ function showSelectedNodes(selected) {
             var selected_item = document.createElement("div");
             selected_item.classList.add('selected-node');
             console.log(selected[key].attributes.interests)
-            selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
-                "<br>" + selected[key].attributes.interests + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
-                + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
+            if (selected[key].attributes.affiliation == undefined) {
+                selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
+                    "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
+                    + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
+            } else {
+                selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
+                    "<br>" + selected[key].attributes.interests + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
+                    + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
+            }
+
 
             selected_container.appendChild(selected_item);
         });
