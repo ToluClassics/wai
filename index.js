@@ -100,7 +100,7 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
 
             s.graph.nodes().forEach(function (n) {
                 delete n['nodeBorderColor']
-                n.color = n.originalColor;
+                n.color = '#E4B429'; //n.originalColor;
                 n.label = n.originalLabel;
             });
 
