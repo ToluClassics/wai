@@ -77,11 +77,11 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
         s.graph.nodes().forEach(function (n) {
             if (imp_aff.includes(n.attributes.affiliation)) {
                 n.originalColor = n.color;
-                n.originalLabel = n.label;
+                n.originalLabel = " " + n.label;
             } else {
                 n.color = "#708090"
                 n.originalColor = n.color;
-                n.originalLabel = n.label;
+                n.originalLabel = " " + n.label;
             }
 
         });
@@ -100,8 +100,8 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
 
             s.graph.nodes().forEach(function (n) {
                 delete n['nodeBorderColor']
-                n.color = '#E4B429'; //n.originalColor;
-                n.label = n.originalLabel;
+                n.color = n.originalColor;
+                n.label = " " + n.originalLabel;
             });
 
             var selected = [];
@@ -131,7 +131,7 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
             });
 
             e.data.node.nodeBorderColor = '#000'
-            e.data.node.color = e.data.node.originalColor
+            e.data.node.color = '#E4B429'//e.data.node.originalColor
 
             // Since the data has been modified, we need to
             // call the refresh method to make the colors
@@ -398,7 +398,7 @@ function showSelectedNodes(selected) {
             var selected_item = document.createElement("div");
             selected_item.classList.add('selected-node');
             console.log(selected[key].attributes.interests)
-            if (selected[key].attributes.affiliation == undefined) {
+            if (selected[key].attributes.interests == undefined) {
                 selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
                     "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
                     + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
