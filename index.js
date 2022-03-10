@@ -15,17 +15,11 @@ var attr_color = {};
 var selectedAffiliation = [];
 var value_list = [];
 var imp_aff = [
-    "University of Saskatchewan",
-    "University of Waterloo",
-    "McMaster University",
-    "Wilfrid Laurier University",
-    "University of Northern British Columbia",
-    "Environment and Climate Change Canada",
-    "National Center For Atmospheric Research",
-    "University of British Columbia",
-    "University of Calgary",
-    "University of Guelph",
-    "Université de Montréal"
+    "Engineering",
+    "Arts",
+    "Mathematics",
+    "Science",
+    "Health"
 ];
 
 
@@ -75,7 +69,7 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
         // We first need to save the original colors of our
         // nodes and edges, like this:
         s.graph.nodes().forEach(function (n) {
-            if (imp_aff.includes(n.attributes.affiliation)) {
+            if (imp_aff.includes(n.attributes.faculty)) {
                 n.originalColor = n.color;
                 n.originalLabel = " " + n.label;
             } else {
@@ -186,7 +180,6 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
         });
         // Bind the events:
         noverlapListener.bind('start stop interpolate', function (e) {
-            console.log(e.type);
             if (e.type === 'start') {
                 console.time('noverlap');
             }
@@ -209,7 +202,7 @@ function searchChange(e) {
 
     // Add node to selected
     s.graph.nodes().forEach(function (n) {
-        if (n.label == value) {
+        if (n.label.trim() == value.trim()) {
             if (!selected[n.id]) {
                 selected[n.id] = n;
                 n.nodeBorderColor = '#000'
@@ -262,16 +255,13 @@ function populateAffiliations(nodes) {
     var attr = {};
 
     nodes.forEach(function (n) {
-        if (n.attributes.affiliation in attr) {
-            attr[n.attributes.affiliation] += 1;
+        if (n.attributes.faculty in attr) {
+            attr[n.attributes.faculty] += 1;
         } else {
-            attr_color[n.attributes.affiliation] = n.viz.color;
-            attr[n.attributes.affiliation] = 1;
+            attr_color[n.attributes.faculty] = n.viz.color;
+            attr[n.attributes.faculty] = 1;
         }
     });
-
-    console.log(attr)
-    console.log(attr.length)
 
     // Create items array
     var items = Object.keys(attr).map(function (key) {
@@ -340,7 +330,7 @@ function filterNodesAffl(e) {
                     });
                 } else {
                     s.graph.nodes().forEach(function (n) {
-                        if (value_list.includes(n.attributes.affiliation)) {
+                        if (value_list.includes(n.attributes.faculty)) {
                             n.color = n.originalColor;
                         } else {
                             n.color = '#eee';
@@ -357,7 +347,7 @@ function filterNodesAffl(e) {
             }
             aff.style.cssText += "background-color: " + attr_color[value];
             s.graph.nodes().forEach(function (n) {
-                if (value_list.includes(n.attributes.affiliation)) {
+                if (value_list.includes(n.attributes.faculty)) {
                     n.color = n.originalColor;
                 } else {
                     n.color = '#eee';
@@ -397,15 +387,14 @@ function showSelectedNodes(selected) {
         Object.keys(selected).forEach(function (key) {
             var selected_item = document.createElement("div");
             selected_item.classList.add('selected-node');
-            console.log(selected[key].attributes.interests)
             if (selected[key].attributes.interests == undefined) {
-                selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
-                    "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
+                selected_item.innerHTML = "<b>" + selected[key].label + "</b>" + "<br>" + selected[key].attributes.faculty
+                "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
                     + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
             } else {
                 selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
-                    "<br>" + selected[key].attributes.interests + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
-                    + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
+                    "<br>" + selected[key].attributes.faculty + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
+                    + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a><br>" + selected[key].attributes.interests
             }
 
 
