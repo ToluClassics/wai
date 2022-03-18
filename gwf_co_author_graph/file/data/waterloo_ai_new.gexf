@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2022-03-10">
+  <meta lastmodifieddate="2022-03-18">
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
@@ -22,8 +22,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="22.492949"></viz:size>
-        <viz:position x="549.43805" y="-444.49524"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="508.15323" y="47.377182"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="1" label="Kate Larson">
         <attvalues>
@@ -33,8 +33,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="34.361538"></viz:size>
-        <viz:position x="-576.30707" y="132.00122"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-741.03864" y="-154.93336"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="2" label="Nancy Worth">
         <attvalues>
@@ -45,8 +45,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="22.802565"></viz:size>
-        <viz:position x="-812.574" y="-288.0249"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="554.1162" y="443.12317"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="3" label="Zahid A. Butt">
         <attvalues>
@@ -56,8 +56,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="43.03077"></viz:size>
-        <viz:position x="207.83537" y="-919.20135"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="741.29474" y="-389.19333"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="4" label="Mohammad Javad Shafiee">
         <attvalues>
@@ -68,8 +68,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="31.575"></viz:size>
-        <viz:position x="431.54453" y="354.6069"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-420.27518" y="22.284492"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="5" label="William Melek">
         <attvalues>
@@ -80,8 +80,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="35.6"></viz:size>
-        <viz:position x="-591.7292" y="-120.75355"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-697.6263" y="-432.32776"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="6" label="Justin Wan">
         <attvalues>
@@ -91,8 +91,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="26.517948"></viz:size>
-        <viz:position x="318.20392" y="-448.8"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="30.72878" y="-486.8767"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="7" label="Zhou Wang">
         <attvalues>
@@ -103,8 +103,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="45.09487"></viz:size>
-        <viz:position x="-402.7745" y="-544.35034"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-655.3011" y="-549.58624"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="8" label="Jeff Orchard">
         <attvalues>
@@ -115,8 +115,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="28.685257"></viz:size>
-        <viz:position x="369.24246" y="-9.25061"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-224.61537" y="8.304427"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="9" label="Igor Grossmann">
         <attvalues>
@@ -127,8 +127,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="30.955769"></viz:size>
-        <viz:position x="-818.8421" y="-488.38168"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="1024.5071" y="703.5697"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="10" label="Nasser Moheiddin Abukhdeir">
         <attvalues>
@@ -138,8 +138,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="23.008974"></viz:size>
-        <viz:position x="-856.01416" y="-932.7246"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="1143.2291" y="-354.65756"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="11" label="Liqun Diao">
         <attvalues>
@@ -149,8 +149,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="20.428846"></viz:size>
-        <viz:position x="70.07534" y="-680.65674"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-79.34454" y="1208.021"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="12" label="Behzad Moshiri">
         <attvalues>
@@ -161,8 +161,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="53.454487"></viz:size>
-        <viz:position x="-442.28845" y="-169.58116"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-474.91418" y="-499.16968"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="13" label="Samir Elhedhli">
         <attvalues>
@@ -173,8 +173,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="25.485897"></viz:size>
-        <viz:position x="466.73395" y="-1037.5339"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="107.87965" y="-770.89197"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="14" label="Ravi Mazumdar">
         <attvalues>
@@ -185,8 +185,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="44.06282"></viz:size>
-        <viz:position x="910.7208" y="-165.42831"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="436.06253" y="658.6111"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="15" label="Joël Blit">
         <attvalues>
@@ -197,8 +197,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="21.357693"></viz:size>
-        <viz:position x="388.65924" y="-796.6172"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-190.42628" y="1003.26447"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="16" label="Helen Chen">
         <attvalues>
@@ -209,8 +209,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="25.279488"></viz:size>
-        <viz:position x="334.04507" y="302.388"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="-371.21582" y="244.53976"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="17" label="Jennifer Boger">
         <attvalues>
@@ -221,8 +221,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="34.464745"></viz:size>
-        <viz:position x="-72.48601" y="206.17372"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-606.4242" y="45.28229"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="18" label="Mark Smucker">
         <attvalues>
@@ -233,8 +233,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="28.685257"></viz:size>
-        <viz:position x="196.86255" y="98.64265"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-81.28658" y="39.67351"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="19" label="Joyce Kim">
         <attvalues>
@@ -244,8 +244,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="20.532051"></viz:size>
-        <viz:position x="379.35843" y="-368.03357"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="645.2731" y="-6.089221"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="20" label="Ali Ayub">
         <attvalues>
@@ -256,8 +256,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="21.564102"></viz:size>
-        <viz:position x="-107.077675" y="105.343765"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-1012.50275" y="-85.064735"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="21" label="Rodney Smith">
         <attvalues>
@@ -268,8 +268,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="22.389744"></viz:size>
-        <viz:position x="-158.3481" y="-943.61444"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="1425.0492" y="161.71191"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="22" label="Chengnian Sun">
         <attvalues>
@@ -280,8 +280,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="22.90577"></viz:size>
-        <viz:position x="-423.31186" y="436.4483"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-589.99866" y="-101.862816"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="23" label="Mehrdad Pirnia">
         <attvalues>
@@ -292,8 +292,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="20.841667"></viz:size>
-        <viz:position x="-171.16945" y="257.06195"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="629.3617" y="-193.78377"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="24" label="Sirisha Rambhatla">
         <attvalues>
@@ -304,8 +304,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="21.254488"></viz:size>
-        <viz:position x="-386.99493" y="-993.5292"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="659.79596" y="91.500755"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="25" label="Arie Gurfinkel">
         <attvalues>
@@ -316,8 +316,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="38.79936"></viz:size>
-        <viz:position x="-158.98022" y="-601.6892"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-219.72763" y="-782.8371"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="26" label="John McPhee">
         <attvalues>
@@ -328,8 +328,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="60.782055"></viz:size>
-        <viz:position x="-720.2892" y="18.343378"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-629.8751" y="-207.63065"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="27" label="Omar M. Ramahi">
         <attvalues>
@@ -339,8 +339,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="68.83205"></viz:size>
-        <viz:position x="-924.34454" y="-643.4516"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-576.0999" y="-397.72678"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="28" label="Patricia Marino">
         <attvalues>
@@ -351,8 +351,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="24.763462"></viz:size>
-        <viz:position x="-381.80215" y="-337.57468"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="634.77515" y="-101.02165"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="29" label="Oliver Schneider">
         <attvalues>
@@ -363,8 +363,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="24.866667"></viz:size>
-        <viz:position x="-221.97661" y="504.98257"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-822.5101" y="165.99031"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="30" label="Vincent Gaudet">
         <attvalues>
@@ -375,8 +375,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="37.354485"></viz:size>
-        <viz:position x="-595.5908" y="-270.40927"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-876.43787" y="-439.04852"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="31" label="Urs Hengartner">
         <attvalues>
@@ -387,8 +387,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="28.994873"></viz:size>
-        <viz:position x="-705.98846" y="180.35751"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-905.9002" y="26.81937"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="32" label="Soo Jeon">
         <attvalues>
@@ -399,8 +399,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="27.859615"></viz:size>
-        <viz:position x="-440.22516" y="-419.13736"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-566.80615" y="-595.62396"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="33" label="Stephen L. Smith">
         <attvalues>
@@ -411,8 +411,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="31.575"></viz:size>
-        <viz:position x="-203.11449" y="-262.71805"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-776.32745" y="-321.20206"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="34" label="Sibel Alumur Alev">
         <attvalues>
@@ -422,8 +422,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="21.873718"></viz:size>
-        <viz:position x="450.15347" y="-878.392"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="254.32124" y="-809.36926"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="35" label="Randy Harris">
         <attvalues>
@@ -434,8 +434,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="30.54295"></viz:size>
-        <viz:position x="645.6338" y="-394.3565"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="1097.1477" y="469.30432"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="36" label="Paul Thagard">
         <attvalues>
@@ -446,8 +446,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="61.298077"></viz:size>
-        <viz:position x="767.4045" y="-280.664"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="103.62109" y="403.7257"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="37" label="Nachiket Kapre">
         <attvalues>
@@ -458,8 +458,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="31.471794"></viz:size>
-        <viz:position x="726.292" y="-94.30635"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="139.6611" y="289.56726"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="38" label="Mohammed Kohandel">
         <attvalues>
@@ -470,8 +470,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="29.923717"></viz:size>
-        <viz:position x="478.6843" y="-354.10324"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="544.6096" y="-251.84543"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="39" label="Michael Wallace">
         <attvalues>
@@ -482,8 +482,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="22.90577"></viz:size>
-        <viz:position x="1109.2548" y="-637.62195"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="1157.4426" y="-60.818905"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="40" label="John Zelek">
         <attvalues>
@@ -493,8 +493,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="41.99872"></viz:size>
-        <viz:position x="391.56686" y="192.4901"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-440.30084" y="123.629295"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="41" label="Jian Zhao">
         <attvalues>
@@ -504,8 +504,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="21.976923"></viz:size>
-        <viz:position x="-224.59842" y="332.04126"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-629.2705" y="-60.78955"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="42" label="Hans De Sterck">
         <attvalues>
@@ -516,8 +516,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="35.39359"></viz:size>
-        <viz:position x="129.00935" y="-593.1988"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-315.01074" y="-624.6633"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="43" label="Derek Schipper">
         <attvalues>
@@ -528,8 +528,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="22.28654"></viz:size>
-        <viz:position x="-60.200157" y="-942.6366"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="1358.2308" y="207.93002"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="44" label="David Yevick">
         <attvalues>
@@ -540,8 +540,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="47.88141"></viz:size>
-        <viz:position x="-59.841434" y="-735.54297"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="-294.76987" y="-902.26746"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="45" label="Daniel Vogel">
         <attvalues>
@@ -552,8 +552,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="30.646154"></viz:size>
-        <viz:position x="-341.8258" y="497.58017"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-903.636" y="126.24573"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="46" label="Chrystopher L. Nehaniv">
         <attvalues>
@@ -563,8 +563,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="61.194874"></viz:size>
-        <viz:position x="-319.61383" y="6.674824"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-1090.0353" y="-234.47809"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="47" label="Chris Bauch">
         <attvalues>
@@ -575,8 +575,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="46.126923"></viz:size>
-        <viz:position x="889.0987" y="-425.87015"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="600.1137" y="599.24774"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="48" label="Chengguo Weng">
         <attvalues>
@@ -587,8 +587,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="24.969872"></viz:size>
-        <viz:position x="200.12685" y="-683.9854"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-132.89377" y="1168.8453"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="49" label="Brian Tripp">
         <attvalues>
@@ -599,8 +599,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="25.073078"></viz:size>
-        <viz:position x="482.37482" y="-241.91185"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-119.058075" y="169.2368"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="50" label="Bin Ma">
         <attvalues>
@@ -610,8 +610,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="37.354485"></viz:size>
-        <viz:position x="215.75494" y="-184.5834"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-278.16968" y="-272.42453"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="51" label="Ben Feng">
         <attvalues>
@@ -622,8 +622,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="21.151281"></viz:size>
-        <viz:position x="-105.14667" y="-279.43494"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-168.01552" y="-482.7902"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="52" label="Arash Arami">
         <attvalues>
@@ -633,8 +633,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="26.208334"></viz:size>
-        <viz:position x="-281.25012" y="-153.1436"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-489.7933" y="-597.89716"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="53" label="Andrew Doxey">
         <attvalues>
@@ -645,8 +645,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="27.446795"></viz:size>
-        <viz:position x="-327.6919" y="-433.24307"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="727.93384" y="-151.43814"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="54" label="André Unger">
         <attvalues>
@@ -656,8 +656,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="28.169231"></viz:size>
-        <viz:position x="721.37427" y="-570.8918"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="653.26245" y="469.1768"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="55" label="Amir Khajepour">
         <attvalues>
@@ -668,8 +668,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="81.52628"></viz:size>
-        <viz:position x="-616.95874" y="-488.4966"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-761.58026" y="-660.81805"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="56" label="​Ali Ghodsi">
         <attvalues>
@@ -680,8 +680,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="46.539745"></viz:size>
-        <viz:position x="-666.8053" y="-696.3448"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-266.178" y="-701.1732"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="57" label="Alexander Lanoszka">
         <attvalues>
@@ -692,8 +692,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="23.112179"></viz:size>
-        <viz:position x="550.9846" y="-534.8405"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="540.92645" y="-137.77403"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="58" label="Shirley Tang">
         <attvalues>
@@ -703,8 +703,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="26.72436"></viz:size>
-        <viz:position x="-480.5166" y="-316.83545"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="498.58713" y="526.9365"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="59" label="Qinqin Zhu">
         <attvalues>
@@ -715,8 +715,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="22.183334"></viz:size>
-        <viz:position x="-498.93228" y="-639.14923"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="536.7348" y="351.72995"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="60" label="Roger Melko">
         <attvalues>
@@ -727,8 +727,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="34.15513"></viz:size>
-        <viz:position x="-13.908766" y="-593.30023"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="-316.61734" y="-809.70496"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="61" label="Christopher Fletcher">
         <attvalues>
@@ -739,8 +739,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="22.802565"></viz:size>
-        <viz:position x="-62.611107" y="-356.27872"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="596.3451" y="275.153"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="62" label="Evan Risko">
         <attvalues>
@@ -749,8 +749,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="34.464745"></viz:size>
-        <viz:position x="627.98267" y="-706.72015"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="802.15656" y="237.73886"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="63" label="Peter Van Beek">
         <attvalues>
@@ -760,8 +760,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="29.717308"></viz:size>
-        <viz:position x="-6.8197885" y="86.793144"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-505.78027" y="-227.86423"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="64" label="Bessma Momani">
         <attvalues>
@@ -772,8 +772,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="35.80641"></viz:size>
-        <viz:position x="189.4017" y="-1062.5039"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="830.79376" y="-50.201324"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="65" label="Kristina Llewellyn">
         <attvalues>
@@ -784,8 +784,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="24.763462"></viz:size>
-        <viz:position x="154.00018" y="207.06154"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="449.20496" y="431.87207"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="66" label="Paul Stolee">
         <attvalues>
@@ -796,8 +796,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="48.50064"></viz:size>
-        <viz:position x="108.44437" y="582.16327"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="-392.07874" y="402.96503"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="67" label="John Hirdes">
         <attvalues>
@@ -807,8 +807,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="66.35513"></viz:size>
-        <viz:position x="551.10175" y="491.3971"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="-247.05052" y="459.4655"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="68" label="Yuning Li">
         <attvalues>
@@ -819,8 +819,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="50.87436"></viz:size>
-        <viz:position x="-966.4632" y="-1026.6821"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="1217.0352" y="-389.85864"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="69" label="Yuri Boykov">
         <attvalues>
@@ -831,8 +831,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="33.845512"></viz:size>
-        <viz:position x="97.32504" y="321.0075"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-827.2938" y="77.1987"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="70" label="Shoja'eddin Chenouri">
         <attvalues>
@@ -842,8 +842,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="24.14423"></viz:size>
-        <viz:position x="-169.96703" y="-162.5112"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="738.13257" y="38.269432"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="71" label="Ricardo Fukasawa">
         <attvalues>
@@ -854,8 +854,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="23.834616"></viz:size>
-        <viz:position x="101.36571" y="124.43447"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="631.4625" y="364.79956"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="72" label="Peter Forsyth">
         <attvalues>
@@ -866,8 +866,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="46.230125"></viz:size>
-        <viz:position x="177.30994" y="-450.9111"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-52.33373" y="-465.29745"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="73" label="Paulo Alencar">
         <attvalues>
@@ -877,8 +877,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="47.46859"></viz:size>
-        <viz:position x="-56.741737" y="680.0242"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-684.9077" y="339.95868"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="74" label="Olga Vechtomova">
         <attvalues>
@@ -889,8 +889,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="27.75641"></viz:size>
-        <viz:position x="264.64218" y="182.74933"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-117.14534" y="-49.105404"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="75" label="Kaan Inal">
         <attvalues>
@@ -901,8 +901,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="33.329487"></viz:size>
-        <viz:position x="745.02747" y="-458.4537"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="742.66986" y="377.28183"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="76" label="Hyock Ju Kwon">
         <attvalues>
@@ -912,8 +912,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="24.557053"></viz:size>
-        <viz:position x="-275.81848" y="-347.49783"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-630.40564" y="-639.87604"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="77" label="George Labahn">
         <attvalues>
@@ -924,8 +924,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="38.489746"></viz:size>
-        <viz:position x="-83.519554" y="-482.4795"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-117.41298" y="-560.5368"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="78" label="Eihab Abdel-Rahman">
         <attvalues>
@@ -936,8 +936,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="45.610897"></viz:size>
-        <viz:position x="-508.38702" y="-0.9665165"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-679.4847" y="-324.2952"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="79" label="Don Cowan">
         <attvalues>
@@ -946,8 +946,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="25.898718"></viz:size>
-        <viz:position x="-141.13698" y="563.05316"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-723.4599" y="253.93764"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="80" label="Vijay Ganesh">
         <attvalues>
@@ -958,8 +958,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="36.01282"></viz:size>
-        <viz:position x="-215.7371" y="-479.34253"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-370.94836" y="-731.7788"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="81" label="Charles Clarke">
         <attvalues>
@@ -970,8 +970,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="47.46859"></viz:size>
-        <viz:position x="373.83838" y="-145.91296"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="15.207212" y="93.30946"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="82" label="Jimmy Lin">
         <attvalues>
@@ -982,8 +982,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="78.739746"></viz:size>
-        <viz:position x="612.00446" y="219.73302"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="37.145535" y="-109.61934"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="83" label="Safieddin Safavi-Naeini">
         <attvalues>
@@ -994,8 +994,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="90.29871"></viz:size>
-        <viz:position x="-623.42645" y="469.90244"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-412.82907" y="-336.98593"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="84" label="Plinio Morita">
         <attvalues>
@@ -1006,8 +1006,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="29.407692"></viz:size>
-        <viz:position x="60.414906" y="435.71075"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-490.47342" y="334.18686"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="85" label="Sharon Kirkpatrick">
         <attvalues>
@@ -1018,8 +1018,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="37.457695"></viz:size>
-        <viz:position x="1221.1768" y="-678.5905"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="1201.5348" y="-112.943405"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="86" label="Jun Liu">
         <attvalues>
@@ -1029,8 +1029,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="29.510899"></viz:size>
-        <viz:position x="88.00286" y="18.116402"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-545.7513" y="-289.67337"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="87" label="Scott Hopkins">
         <attvalues>
@@ -1041,8 +1041,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="29.201283"></viz:size>
-        <viz:position x="-27.105286" y="-1046.5273"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="1419.4575" y="224.74959"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="88" label="George Shaker">
         <attvalues>
@@ -1053,8 +1053,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="35.80641"></viz:size>
-        <viz:position x="-214.56535" y="151.31989"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-509.14996" y="-65.71898"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="89" label="Apurva Narayan">
         <attvalues>
@@ -1065,8 +1065,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="23.731411"></viz:size>
-        <viz:position x="382.2352" y="-274.8158"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-58.007885" y="219.4965"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="90" label="Henry Wolkowicz">
         <attvalues>
@@ -1077,8 +1077,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="53.454487"></viz:size>
-        <viz:position x="-531.88617" y="-942.04614"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="842.58093" y="-222.16893"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="91" label="Lila Kari">
         <attvalues>
@@ -1089,8 +1089,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="47.158974"></viz:size>
-        <viz:position x="228.62958" y="-33.177002"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-162.51793" y="-304.26855"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="92" label="Trevor Charles">
         <attvalues>
@@ -1100,8 +1100,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="34.051926"></viz:size>
-        <viz:position x="321.35175" y="-1287.4883"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="786.9221" y="932.1144"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="93" label="Ashley Rose Mehlenbacher">
         <attvalues>
@@ -1112,8 +1112,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="23.31859"></viz:size>
-        <viz:position x="572.0356" y="-305.84744"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="1083.3837" y="409.07584"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="94" label="Vasudevan Lakshminarayanan">
         <attvalues>
@@ -1122,8 +1122,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="71.205765"></viz:size>
-        <viz:position x="817.21204" y="73.30856"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-259.70395" y="134.53268"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="95" label="Olaf Weber">
         <attvalues>
@@ -1133,8 +1133,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="36.528847"></viz:size>
-        <viz:position x="500.0692" y="-770.6377"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-147.77554" y="901.6546"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="96" label="Colin Ellard">
         <attvalues>
@@ -1145,8 +1145,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="28.169231"></viz:size>
-        <viz:position x="-166.80605" y="26.202223"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-1119.5282" y="-107.65561"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="97" label="Ian Milligan">
         <attvalues>
@@ -1156,8 +1156,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="29.717308"></viz:size>
-        <viz:position x="602.192" y="7.511567"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-55.72082" y="-215.9209"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="98" label="Martin Ross">
         <attvalues>
@@ -1168,8 +1168,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="28.272436"></viz:size>
-        <viz:position x="446.8744" y="-543.03644"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="610.09033" y="-334.0726"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="99" label="Chris Eliasmith">
         <attvalues>
@@ -1180,8 +1180,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="47.262177"></viz:size>
-        <viz:position x="598.9534" y="-169.79684"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="48.512577" y="295.758"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="100" label="Raouf Boutaba">
         <attvalues>
@@ -1192,8 +1192,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="100.0"></viz:size>
-        <viz:position x="-315.25467" y="-789.8043"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-546.0978" y="-754.1358"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="101" label="Seyed Majid Zahedi">
         <attvalues>
@@ -1204,8 +1204,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="20.428846"></viz:size>
-        <viz:position x="-184.09659" y="-65.756645"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="500.87027" y="252.533"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="102" label="Joel Dubin">
         <attvalues>
@@ -1216,8 +1216,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="30.646154"></viz:size>
-        <viz:position x="218.40817" y="294.79443"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-276.36374" y="271.10782"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="103" label="Phil Curry">
         <attvalues>
@@ -1228,8 +1228,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="22.28654"></viz:size>
-        <viz:position x="45.59341" y="-474.6887"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-324.56454" y="932.97003"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="104" label="Achim Kempf">
         <attvalues>
@@ -1240,8 +1240,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="35.909615"></viz:size>
-        <viz:position x="-58.095306" y="-174.6297"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-222.68289" y="-589.7002"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="105" label="Yaoliang Yu">
         <attvalues>
@@ -1252,8 +1252,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="29.201283"></viz:size>
-        <viz:position x="312.52386" y="83.73516"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-197.11168" y="-220.3779"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="106" label="Chul Min Yeum">
         <attvalues>
@@ -1264,8 +1264,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="23.93782"></viz:size>
-        <viz:position x="622.24274" y="-595.19965"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="444.5336" y="330.81375"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="107" label="John McLevey">
         <attvalues>
@@ -1276,8 +1276,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="22.183334"></viz:size>
-        <viz:position x="-799.22314" y="-379.39453"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="971.0601" y="673.7815"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="108" label="Tao Chen">
         <attvalues>
@@ -1287,8 +1287,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="19.5"></viz:size>
-        <viz:position x="-570.2032" y="-802.3005"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="1040.4528" y="-588.79736"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="109" label="Subha Kalyaanamoorthy">
         <attvalues>
@@ -1298,8 +1298,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="22.28654"></viz:size>
-        <viz:position x="-710.8932" y="-327.35513"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="491.16254" y="154.21378"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="110" label="Ruodu Wang">
         <attvalues>
@@ -1310,8 +1310,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="30.026924"></viz:size>
-        <viz:position x="399.4686" y="-695.34344"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-242.99042" y="1272.7266"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="111" label="Mark Crowley">
         <attvalues>
@@ -1322,8 +1322,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="30.74936"></viz:size>
-        <viz:position x="-611.32043" y="249.42874"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-871.5102" y="-332.21506"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="112" label="Stephen M. Watt">
         <attvalues>
@@ -1334,8 +1334,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="49.842308"></viz:size>
-        <viz:position x="292.1969" y="-585.77136"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-155.69833" y="-670.363"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="113" label="Josh D. Neufeld">
         <attvalues>
@@ -1346,8 +1346,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="35.083977"></viz:size>
-        <viz:position x="350.70825" y="-1420.267"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="850.4562" y="888.2305"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="114" label="Jennifer Whitson">
         <attvalues>
@@ -1357,7 +1357,7 @@
           <attvalue for="interests" value="Surveillance, Game Studies, Labour"></attvalue>
         </attvalues>
         <viz:size value="22.492949"></viz:size>
-        <viz:position x="-531.1373" y="-725.4189"></viz:position>
+        <viz:position x="721.522" y="-55.536057"></viz:position>
       </node>
       <node id="115" label="Ming Li">
         <attvalues>
@@ -1368,8 +1368,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="59.646793"></viz:size>
-        <viz:position x="72.14734" y="-292.5606"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-270.39548" y="-485.04648"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="116" label="Mathieu Doucet">
         <attvalues>
@@ -1379,8 +1379,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="20.428846"></viz:size>
-        <viz:position x="427.78677" y="-444.89786"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="551.6891" y="-41.69854"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="117" label="Alfred Yu">
         <attvalues>
@@ -1391,8 +1391,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="33.535896"></viz:size>
-        <viz:position x="13.29099" y="-869.17615"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="703.2233" y="-265.1762"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="118" label="Weihua Zhuang">
         <attvalues>
@@ -1403,8 +1403,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="61.814102"></viz:size>
-        <viz:position x="540.48114" y="-1189.1577"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="122.3935" y="-877.0607"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="119" label="Pascal Poupart">
         <attvalues>
@@ -1415,8 +1415,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="41.17308"></viz:size>
-        <viz:position x="74.685715" y="-116.03632"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-437.65103" y="-155.30289"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="120" label="Mikko Packalen">
         <attvalues>
@@ -1427,8 +1427,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="21.667307"></viz:size>
-        <viz:position x="317.87048" y="-857.75903"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-245.78563" y="1005.75134"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="121" label="Marius Hofert">
         <attvalues>
@@ -1439,8 +1439,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="31.884617"></viz:size>
-        <viz:position x="292.70245" y="-746.8094"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-244.18178" y="1200.6515"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="122" label="Juliane Mai">
         <attvalues>
@@ -1451,8 +1451,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="32.81346"></viz:size>
-        <viz:position x="495.8047" y="-70.350716"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="13.257424" y="-245.7791"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="123" label="Baris Fidan">
         <attvalues>
@@ -1463,8 +1463,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="43.753204"></viz:size>
-        <viz:position x="-723.8553" y="-189.05803"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-796.18384" y="-507.1863"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="124" label="Jeff Z.Y. Chen">
         <attvalues>
@@ -1475,8 +1475,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="35.290386"></viz:size>
-        <viz:position x="-674.5615" y="-848.58325"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="1047.5302" y="-651.24677"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="125" label="Derek Rayside">
         <attvalues>
@@ -1487,8 +1487,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="27.13718"></viz:size>
-        <viz:position x="-167.42825" y="-372.97824"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-424.8735" y="-657.06366"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="126" label="Efrim Boritz">
         <attvalues>
@@ -1499,8 +1499,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="33.329487"></viz:size>
-        <viz:position x="514.9784" y="-633.1316"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="831.36365" y="94.71781"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="127" label="Maura Grossman">
         <attvalues>
@@ -1511,8 +1511,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="25.589104"></viz:size>
-        <viz:position x="-325.76978" y="-248.90231"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="393.87057" y="528.908"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="128" label="Tony Wirjanto">
         <attvalues>
@@ -1523,8 +1523,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="39.21218"></viz:size>
-        <viz:position x="129.76053" y="-777.22296"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-224.27223" y="1097.4161"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="129" label="Shai Ben-David">
         <attvalues>
@@ -1534,8 +1534,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="42.411537"></viz:size>
-        <viz:position x="267.68915" y="-319.12634"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-59.349533" y="-313.09622"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="130" label="Marcel O' Gorman">
         <attvalues>
@@ -1546,8 +1546,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="24.557053"></viz:size>
-        <viz:position x="-276.80557" y="407.8377"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-967.7237" y="159.06793"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="131" label="Anna Esselment">
         <attvalues>
@@ -1558,8 +1558,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="22.183334"></viz:size>
-        <viz:position x="637.1094" y="-499.40094"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="648.96014" y="188.61629"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="132" label="Jonathan Li">
         <attvalues>
@@ -1570,8 +1570,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="74.09551"></viz:size>
-        <viz:position x="334.8268" y="604.7059"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-287.69135" y="-123.52968"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="133" label="Alan Huang">
         <attvalues>
@@ -1581,8 +1581,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="22.90577"></viz:size>
-        <viz:position x="-109.95738" y="-863.9376"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="732.6916" y="149.89682"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="134" label="Bryan Tolson">
         <attvalues>
@@ -1593,8 +1593,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="35.290386"></viz:size>
-        <viz:position x="468.92984" y="62.016857"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-111.47566" y="-148.35895"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="135" label="Catherine Burns">
         <attvalues>
@@ -1605,8 +1605,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="44.372437"></viz:size>
-        <viz:position x="197.23264" y="441.6314"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-508.2935" y="446.88672"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="136" label="Olga Veksler">
         <attvalues>
@@ -1617,8 +1617,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="27.446795"></viz:size>
-        <viz:position x="41.52995" y="213.98972"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-832.5948" y="6.7855306"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="137" label="Marcel Nooijen">
         <attvalues>
@@ -1628,8 +1628,8 @@
           <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="35.703205"></viz:size>
-        <viz:position x="74.67111" y="-978.42413"></viz:position>
-        <viz:color r="64" g="186" b="0"></viz:color>
+        <viz:position x="1389.1608" y="300.76416"></viz:position>
+        <viz:color r="51" g="134" b="255"></viz:color>
       </node>
       <node id="138" label="Peter Johnson">
         <attvalues>
@@ -1640,8 +1640,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="25.589104"></viz:size>
-        <viz:position x="-278.1571" y="-579.7421"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="695.2712" y="273.51636"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="139" label="Laura Middleton">
         <attvalues>
@@ -1652,8 +1652,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="30.852566"></viz:size>
-        <viz:position x="-50.148567" y="500.1773"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="-574.27747" y="207.33415"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="140" label="Kerstin Dautenhahn">
         <attvalues>
@@ -1663,8 +1663,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="82.145515"></viz:size>
-        <viz:position x="-411.71542" y="246.9943"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-924.75635" y="-171.87859"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="141" label="Katja Mombaur">
         <attvalues>
@@ -1675,8 +1675,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="40.760258"></viz:size>
-        <viz:position x="-48.387547" y="-32.22973"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="611.2345" y="-459.86075"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="142" label="Jesse Hoey">
         <attvalues>
@@ -1687,8 +1687,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="44.166023"></viz:size>
-        <viz:position x="-45.191025" y="345.05856"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-741.85925" y="-19.458466"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="143" label="Horatiu Rus">
         <attvalues>
@@ -1699,8 +1699,8 @@
           <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="21.873718"></viz:size>
-        <viz:position x="597.7381" y="-838.19965"></viz:position>
-        <viz:color r="248" g="97" b="255"></viz:color>
+        <viz:position x="-219.27985" y="911.7897"></viz:position>
+        <viz:color r="227" g="63" b="0"></viz:color>
       </node>
       <node id="144" label="Lennart Nacke">
         <attvalues>
@@ -1711,8 +1711,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="46.849358"></viz:size>
-        <viz:position x="-285.2975" y="630.55804"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-870.351" y="239.94008"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="145" label="Edith Law">
         <attvalues>
@@ -1723,8 +1723,8 @@
           <attvalue for="faculty" value="Mathematics"></attvalue>
         </attvalues>
         <viz:size value="29.304487"></viz:size>
-        <viz:position x="-161.56969" y="418.89096"></viz:position>
-        <viz:color r="32" g="101" b="76"></viz:color>
+        <viz:position x="-717.38226" y="146.23851"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
       <node id="146" label="Ashok Chaurasia">
         <attvalues>
@@ -1735,8 +1735,8 @@
           <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="23.93782"></viz:size>
-        <viz:position x="330.68604" y="407.91614"></viz:position>
-        <viz:color r="0" g="202" b="255"></viz:color>
+        <viz:position x="-274.7969" y="352.9863"></viz:position>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="147" label="Fatma Gzara">
         <attvalues>
@@ -1746,8 +1746,8 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="22.596153"></viz:size>
-        <viz:position x="513.5977" y="-942.6591"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="201.17311" y="-792.4224"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="148" label="Fakhri Karray">
         <attvalues>
@@ -1758,8 +1758,151 @@
           <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="87.40897"></viz:size>
-        <viz:position x="-930.90497" y="-107.134544"></viz:position>
-        <viz:color r="255" g="68" b="0"></viz:color>
+        <viz:position x="-956.9702" y="-568.5702"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="149" label="Bissan Ghaddar">
+        <attvalues>
+          <attvalue for="author_id" value="ERQSOF8AAAAJ"></attvalue>
+          <attvalue for="publications" value="53"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.19043" y="-689.11694"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="150" label="Zhongwei Chen">
+        <attvalues>
+          <attvalue for="author_id" value="xqRH0KMAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://chemeng.uwaterloo.ca/zchen"></attvalue>
+          <attvalue for="publications" value="951"></attvalue>
+          <attvalue for="interests" value="Nanomaterials, fuel cells, batteries, electrolysis, artificial intelligence"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="128"></viz:size>
+        <viz:position x="-253.45221" y="-371.12033"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="151" label="Craig Fortier">
+        <attvalues>
+          <attvalue for="author_id" value="MNAM1MgAAAAJ"></attvalue>
+          <attvalue for="publications" value="12"></attvalue>
+          <attvalue for="faculty" value="Arts"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="579.1387" y="122.062775"></viz:position>
+      </node>
+      <node id="152" label="Gordon Cormack">
+        <attvalues>
+          <attvalue for="author_id" value="wFuZKaUAAAAJ"></attvalue>
+          <attvalue for="publications" value="213"></attvalue>
+          <attvalue for="faculty" value="Mathematics"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-54.897984" y="-29.486917"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
+      </node>
+      <node id="153" label="Joe Naoum Sawaya">
+        <attvalues>
+          <attvalue for="author_id" value="qusC_nYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.eng.uwaterloo.ca/~jnaoumsa/"></attvalue>
+          <attvalue for="publications" value="57"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-30.286552" y="-664.72"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="154" label="Moojan Ghafurian">
+        <attvalues>
+          <attvalue for="author_id" value="m8uJMssAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://moojan.com/"></attvalue>
+          <attvalue for="publications" value="31"></attvalue>
+          <attvalue for="interests" value="Human-Computer Interaction, Human-Robot Interaction, Affective Computing, Social Robotics, Assistive Technology"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-1058.405" y="-148.22203"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="155" label="Otman Basir">
+        <attvalues>
+          <attvalue for="author_id" value="r1Rx1RsAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://ece.uwaterloo.ca/People/faculty/basir.html"></attvalue>
+          <attvalue for="publications" value="408"></attvalue>
+          <attvalue for="interests" value="Human Safety and Prosperity, Book Reading, Soccer, History, Politics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="60"></viz:size>
+        <viz:position x="-582.669" y="-488.74817"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="156" label="Paul Figueth">
+        <attvalues>
+          <attvalue for="author_id" value="TObmBfYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://vip.uwaterloo.ca/people/paul-fieguth"></attvalue>
+          <attvalue for="publications" value="364"></attvalue>
+          <attvalue for="interests" value="Image Processing, Random Fields, Computer Vision"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="49.5"></viz:size>
+        <viz:position x="-497.99316" y="15.8630495"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="157" label="Alexander Wong">
+        <attvalues>
+          <attvalue for="author_id" value="dYAAAAJ"></attvalue>
+          <attvalue for="publications" value="823"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, Machine Learning, Image Processing, Computer Vision, Medical Imaging"></attvalue>
+          <attvalue for="faculty" value="Mathematics"></attvalue>
+        </attvalues>
+        <viz:size value="110.87"></viz:size>
+        <viz:position x="-359.35663" y="61.446762"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
+      </node>
+      <node id="158" label="Anindya Sen">
+        <attvalues>
+          <attvalue for="publications" value="32"></attvalue>
+          <attvalue for="faculty" value="Arts"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-279.48465" y="919.949"></viz:position>
+      </node>
+      <node id="169" label="Na Young Kim">
+        <attvalues>
+          <attvalue for="author_id" value="4FbfIogAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/electrical-computer-engineering/profile/ny3kim"></attvalue>
+          <attvalue for="publications" value="88"></attvalue>
+          <attvalue for="interests" value="Electrical Engineering"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="567.14435" y="194.99408"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="173" label="Richard Cook">
+        <attvalues>
+          <attvalue for="author_id" value="e1PW608AAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/richard-j-cook"></attvalue>
+          <attvalue for="publications" value="694"></attvalue>
+          <attvalue for="interests" value="Biostatistics, Clinical Trials, Statistics, Longitudinal Data"></attvalue>
+          <attvalue for="faculty" value="Mathematics"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-37.38235" y="1222.5988"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
+      </node>
+      <node id="175" label="Shady Shehata">
+        <attvalues>
+          <attvalue for="author_id" value="osOiYvYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="https://www.linkedin.com/in/shady-shehata/"></attvalue>
+          <attvalue for="publications" value="23"></attvalue>
+          <attvalue for="interests" value="Artificial Intelligence, Machine Learning, Natural Language Processing"></attvalue>
+          <attvalue for="faculty" value="Mathematics"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="589.5618" y="47.354248"></viz:position>
+        <viz:color r="198" g="0" b="120"></viz:color>
       </node>
     </nodes>
     <edges>
@@ -1923,6 +2066,51 @@
       <edge id="279" source="145" target="18"></edge>
       <edge id="281" source="145" target="41"></edge>
       <edge id="282" source="145" target="73"></edge>
+      <edge id="1216" source="4" target="157"></edge>
+      <edge id="1217" source="8" target="157"></edge>
+      <edge id="1218" source="11" target="173"></edge>
+      <edge id="1219" source="12" target="155"></edge>
+      <edge id="1220" source="16" target="157"></edge>
+      <edge id="41" source="17" target="157"></edge>
+      <edge id="1221" source="26" target="157"></edge>
+      <edge id="1222" source="40" target="157"></edge>
+      <edge id="116" source="46" target="154"></edge>
+      <edge id="124" source="49" target="157"></edge>
+      <edge id="187" source="82" target="152"></edge>
+      <edge id="200" source="84" target="157"></edge>
+      <edge id="1223" source="84" target="158"></edge>
+      <edge id="213" source="88" target="157"></edge>
+      <edge id="1224" source="94" target="157"></edge>
+      <edge id="234" source="100" target="155"></edge>
+      <edge id="1225" source="103" target="158"></edge>
+      <edge id="1226" source="111" target="154"></edge>
+      <edge id="287" source="120" target="158"></edge>
+      <edge id="310" source="128" target="158"></edge>
+      <edge id="317" source="132" target="157"></edge>
+      <edge id="342" source="140" target="154"></edge>
+      <edge id="349" source="142" target="154"></edge>
+      <edge id="352" source="143" target="158"></edge>
+      <edge id="373" source="150" target="50"></edge>
+      <edge id="374" source="150" target="115"></edge>
+      <edge id="377" source="152" target="74"></edge>
+      <edge id="380" source="153" target="13"></edge>
+      <edge id="381" source="153" target="115"></edge>
+      <edge id="382" source="153" target="149"></edge>
+      <edge id="383" source="154" target="96"></edge>
+      <edge id="389" source="155" target="63"></edge>
+      <edge id="391" source="155" target="148"></edge>
+      <edge id="393" source="156" target="4"></edge>
+      <edge id="394" source="156" target="16"></edge>
+      <edge id="395" source="156" target="40"></edge>
+      <edge id="396" source="156" target="142"></edge>
+      <edge id="397" source="156" target="155"></edge>
+      <edge id="398" source="156" target="157"></edge>
+      <edge id="399" source="127" target="18"></edge>
+      <edge id="400" source="127" target="152"></edge>
+      <edge id="401" source="149" target="90"></edge>
+      <edge id="402" source="16" target="3"></edge>
+      <edge id="403" source="84" target="3"></edge>
+      <edge id="404" source="85" target="144"></edge>
     </edges>
   </graph>
 </gexf>

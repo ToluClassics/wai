@@ -49,7 +49,7 @@ var s = new sigma({
         edgeColor: 'default',
         minNodeSize: 0.001,
         maxNodeSize: 25,
-        labelThreshold: 12,
+        labelThreshold: 15,
         labelSize: "fixed",
         scalingMode: 'inside',
         sideMargin: 1,
@@ -394,7 +394,7 @@ function showSelectedNodes(selected) {
             } else {
                 selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
                     "<br>" + selected[key].attributes.faculty + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
-                    + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a><br>" + selected[key].attributes.interests
+                    + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a><br>" + selected[key].attributes.interests.split(",", 2)
             }
 
 
