@@ -19,7 +19,8 @@ var imp_aff = [
     "Arts",
     "Mathematics",
     "Science",
-    "Health"
+    "Health",
+    "Environment"
 ];
 
 
