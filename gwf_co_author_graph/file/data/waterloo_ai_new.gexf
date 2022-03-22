@@ -42,11 +42,11 @@
           <attvalue for="home_page" value="https://uwaterloo.ca/geography-environmental-management/people-profiles/nancy-worth"></attvalue>
           <attvalue for="publications" value="37"></attvalue>
           <attvalue for="interests" value="work, generations, social reproduction, inequalities, feminist theory"></attvalue>
-          <attvalue for="faculty" value="Arts"></attvalue>
+          <attvalue for="faculty" value="Environment"></attvalue>
         </attvalues>
         <viz:size value="24.397463"></viz:size>
         <viz:position x="448.81635" y="259.16388"></viz:position>
-        <viz:color r="217" g="63" b="0"></viz:color>
+        <viz:color r="96" g="112" b="0"></viz:color>
       </node>
       <node id="3" label="Zahid A. Butt">
         <attvalues>
@@ -542,7 +542,7 @@
         <viz:size value="57.790695"></viz:size>
         <viz:position x="-269.94653" y="-1167.6339"></viz:position>
         <viz:color r="0" g="51" b="190"></viz:color>
-      </node>
+      </node> 
       <node id="45" label="Daniel Vogel">
         <attvalues>
           <attvalue for="author_id" value="Yi5nK1EAAAAJ"></attvalue>
@@ -653,11 +653,11 @@
           <attvalue for="author_id" value="D0ix3KsAAAAJ"></attvalue>
           <attvalue for="publications" value="89"></attvalue>
           <attvalue for="interests" value="Water Infrastructure Finance, Project Risk &amp; Uncertainty, Computational Hydrology, Water Resources Management..."></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="31.543339"></viz:size>
         <viz:position x="552.1904" y="438.64575"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="0" g="51" b="190"></viz:color>
       </node>
       <node id="55" label="Amir Khajepour">
         <attvalues>
@@ -736,21 +736,21 @@
           <attvalue for="home_page" value="https://uwaterloo.ca/scholar/c5fletch/"></attvalue>
           <attvalue for="publications" value="37"></attvalue>
           <attvalue for="interests" value="Climate variability and change, climate modelling."></attvalue>
-          <attvalue for="faculty" value="Arts"></attvalue>
+          <attvalue for="faculty" value="Environment"></attvalue>
         </attvalues>
         <viz:size value="24.397463"></viz:size>
         <viz:position x="554.4562" y="271.45404"></viz:position>
-        <viz:color r="217" g="63" b="0"></viz:color>
+        <viz:color r="96" g="112" b="0"></viz:color>
       </node>
       <node id="62" label="Evan Risko">
         <attvalues>
           <attvalue for="author_id" value="ZDWO_fYAAAAJ"></attvalue>
           <attvalue for="publications" value="150"></attvalue>
-          <attvalue for="faculty" value="Arts"></attvalue>
+          <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="39.926003"></viz:size>
         <viz:position x="772.2489" y="251.67943"></viz:position>
-        <viz:color r="217" g="63" b="0"></viz:color>
+        <viz:color r="0" g="51" b="190"></viz:color>
       </node>
       <node id="63" label="Peter Van Beek">
         <attvalues>
@@ -886,11 +886,11 @@
           <attvalue for="home_page" value="http://ov-research.uwaterloo.ca/"></attvalue>
           <attvalue for="publications" value="85"></attvalue>
           <attvalue for="interests" value="Natural Language Processing, Information Retrieval"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="30.993656"></viz:size>
         <viz:position x="50.891914" y="-187.52614"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="75" label="Kaan Inal">
         <attvalues>
@@ -1003,11 +1003,11 @@
           <attvalue for="home_page" value="https://uwaterloo.ca/public-health-and-health-systems/people-profiles/plinio-morita"></attvalue>
           <attvalue for="publications" value="101"></attvalue>
           <attvalue for="interests" value="mHealth and wearable technology design, ubiquitous sensors for smart homes, usage data and health data analytics, and technology"></attvalue>
-          <attvalue for="faculty" value="Engineering"></attvalue>
+          <attvalue for="faculty" value="Health"></attvalue>
         </attvalues>
         <viz:size value="33.19239"></viz:size>
         <viz:position x="-504.66016" y="579.6074"></viz:position>
-        <viz:color r="87" g="5" b="139"></viz:color>
+        <viz:color r="0" g="89" b="99"></viz:color>
       </node>
       <node id="85" label="Sharon Kirkpatrick">
         <attvalues>
@@ -1119,22 +1119,22 @@
         <attvalues>
           <attvalue for="author_id" value="ipkmLWUAAAAJ"></attvalue>
           <attvalue for="publications" value="506"></attvalue>
-          <attvalue for="faculty" value="Engineering"></attvalue>
+          <attvalue for="faculty" value="Science"></attvalue>
         </attvalues>
         <viz:size value="88.84778"></viz:size>
         <viz:position x="7.253361" y="187.83272"></viz:position>
-        <viz:color r="87" g="5" b="139"></viz:color>
+        <viz:color r="0" g="51" b="190"></viz:color>
       </node>
       <node id="95" label="Olaf Weber">
         <attvalues>
           <attvalue for="author_id" value="tGFedLkAAAAJ"></attvalue>
           <attvalue for="publications" value="170"></attvalue>
           <attvalue for="interests" value="Sustainable finance, impact investing, social finance, corporate social responsibility"></attvalue>
-          <attvalue for="faculty" value="Engineering"></attvalue>
+          <attvalue for="faculty" value="Environment"></attvalue>
         </attvalues>
         <viz:size value="42.674416"></viz:size>
         <viz:position x="85.76454" y="1054.4706"></viz:position>
-        <viz:color r="87" g="5" b="139"></viz:color>
+        <viz:color r="96" g="112" b="0"></viz:color>
       </node>
       <node id="96" label="Colin Ellard">
         <attvalues>
@@ -1355,10 +1355,11 @@
           <attvalue for="home_page" value="http://www.jenniferwhitson.com/"></attvalue>
           <attvalue for="publications" value="34"></attvalue>
           <attvalue for="interests" value="Surveillance, Game Studies, Labour"></attvalue>
+          <attvalue for="faculty" value="Arts"></attvalue>
         </attvalues>
         <viz:size value="23.9852"></viz:size>
         <viz:position x="696.0588" y="-24.591608"></viz:position>
-        <viz:color r="0" g="160" b="255"></viz:color>
+        <viz:color r="217" g="63" b="0"></viz:color>
       </node>
       <node id="115" label="Ming Li">
         <attvalues>
@@ -1389,11 +1390,11 @@
           <attvalue for="home_page" value="https://lit-mus.org/"></attvalue>
           <attvalue for="publications" value="141"></attvalue>
           <attvalue for="interests" value="Ultrasound Imaging &amp; Therapeutics"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="38.689217"></viz:size>
         <viz:position x="764.30194" y="-106.66975"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="118" label="Weihua Zhuang">
         <attvalues>
@@ -1568,11 +1569,11 @@
           <attvalue for="home_page" value="https://uwaterloo.ca/geospatial-sensing/"></attvalue>
           <attvalue for="publications" value="534"></attvalue>
           <attvalue for="interests" value="Geomatics, Mapping, Earth Observation, LiDAR, Photogrammetry"></attvalue>
-          <attvalue for="faculty" value="Arts"></attvalue>
+          <attvalue for="faculty" value="Environment"></attvalue>
         </attvalues>
         <viz:size value="92.69556"></viz:size>
         <viz:position x="-143.09991" y="-192.47186"></viz:position>
-        <viz:color r="217" g="63" b="0"></viz:color>
+        <viz:color r="96" g="112" b="0"></viz:color>
       </node>
       <node id="133" label="Alan Huang">
         <attvalues>
@@ -1638,11 +1639,11 @@
           <attvalue for="home_page" value="https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson"></attvalue>
           <attvalue for="publications" value="64"></attvalue>
           <attvalue for="interests" value="Civic Technology, GIScience, Public Participation, Open Data"></attvalue>
-          <attvalue for="faculty" value="Arts"></attvalue>
+          <attvalue for="faculty" value="Environment"></attvalue>
         </attvalues>
         <viz:size value="28.107822"></viz:size>
         <viz:position x="600.9619" y="352.19702"></viz:position>
-        <viz:color r="217" g="63" b="0"></viz:color>
+        <viz:color r="96" g="112" b="0"></viz:color>
       </node>
       <node id="139" label="Laura Middleton">
         <attvalues>
@@ -1856,11 +1857,11 @@
           <attvalue for="author_id" value="dYAAAAJ"></attvalue>
           <attvalue for="publications" value="823"></attvalue>
           <attvalue for="interests" value="Artificial Intelligence, Machine Learning, Image Processing, Computer Vision, Medical Imaging"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
         </attvalues>
         <viz:size value="132.41016"></viz:size>
         <viz:position x="-254.49844" y="260.7832"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="158" label="Anindya Sen">
         <attvalues>
