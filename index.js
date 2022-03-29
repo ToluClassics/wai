@@ -64,7 +64,7 @@ var s = new sigma({
     }
 })
 
-sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_new.gexf',
+sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_newer.gexf',
     s,
     function (s) {
         // We first need to save the original colors of our
@@ -389,12 +389,12 @@ function showSelectedNodes(selected) {
             var selected_item = document.createElement("div");
             selected_item.classList.add('selected-node');
             if (selected[key].attributes.interests == undefined) {
-                selected_item.innerHTML = "<b>" + selected[key].label + "</b>" + "<br>" + selected[key].attributes.faculty
-                "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
+                selected_item.innerHTML = "<b>" + selected[key].label + "</b>" + "<br>" + selected[key].attributes.faculty + "<br>" + selected[key].attributes.department +
+                    "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
                     + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a>"
             } else {
                 selected_item.innerHTML = "<b>" + selected[key].label + "</b>" +
-                    "<br>" + selected[key].attributes.faculty + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
+                    "<br>" + selected[key].attributes.faculty + "<br>" + selected[key].attributes.department + "<br><a href='https://scholar.google.ca/citations?hl=en&user=" + selected[key].attributes.author_id
                     + "' target='_blank'><img src='https://img.icons8.com/material-rounded/24/000000/google-scholar.png'/> Google Scholar</a><br>" + selected[key].attributes.interests.split(",", 2)
             }
 
