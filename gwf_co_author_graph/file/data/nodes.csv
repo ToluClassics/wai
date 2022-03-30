@@ -116,7 +116,7 @@ Id,Label,author_id,home_page,publications,interests,Faculty,Department
 114,Jennifer Whitson,QiYJp90AAAAJ,http://www.jenniferwhitson.com/,34,"Surveillance, Game Studies, Labour",,Sociology and Legal Studies
 115,Ming Li,oGgPXFEAAAAJ,http://cs.uwaterloo.ca/~mli,394,"Bioinformatics, natural language processing, algorithms and complexity, Kolmogorov complexity, learning theory",Mathematics,Computer Science
 116,Mathieu Doucet,gC94TBgAAAAJ,,14,"Philosophy, ethics, moral psychology",Arts,Philosophy
-117,Alfred Yu,LRUenAcAAAAJ,https://lit-mus.org/,141,Ultrasound Imaging & Therapeutics,Mathematics,Electrical and Computer Engineering
+117,Alfred Yu,LRUenAcAAAAJ,https://lit-mus.org/,141,Ultrasound Imaging & Therapeutics,Engineering,Electrical and Computer Engineering
 118,Weihua Zhuang,Py1onlEAAAAJ,http://bbcr.uwaterloo.ca/~wzhuang,415,"Wireless networking, MAC, VANETs, QoS, Positioning",Engineering,Electrical and Computer Engineering
 119,Pascal Poupart,KhAJWroAAAAJ,http://cs.uwaterloo.ca/~ppoupart,215,"Artificial Intelligence, Machine Learning, Reinforcement Learning, Markov Decision Processes, Sum-Product Networks",Mathematics,Computer Science
 120,Mikko Packalen,kJ-X1MEAAAAJ,https://sites.google.com/site/mikkopackalen/,26,"ideas, growth, health, text analysis",Arts,Economics
@@ -143,7 +143,7 @@ Id,Label,author_id,home_page,publications,interests,Faculty,Department
 141,Katja Mombaur,HuN7dvgAAAAJ,http://www.orb.uni-hd.de/,211,"Humanoid robots, Wearable robots and assistive devices, Human movement, Optimal control, Modeling",Mathematics,Systems Design Engineering
 142,Jesse Hoey,YcBGOtQAAAAJ,http://www.cs.uwaterloo.ca/~jhoey,244,"Artificial Intelligence, Affective Computing, Computational Social Science, Markov Decision Processes",Mathematics,Computer Science
 143,Horatiu Rus,QDdxpj0AAAAJ,http://www.arts.uwaterloo.ca/~hrus,28,"Natural Resource and Environmental Economics, International Trade, Political Economy",Arts,Economics
-144,Lennart Nacke,i-y5S2AAAAAJ,http://www.hcigames.com/,270,"Human-Computer Interaction, User Experience, Player Experience, Games User Research, Gamification",Mathematics,Communication Arts
+144,Lennart Nacke,i-y5S2AAAAAJ,http://www.hcigames.com/,270,"Human-Computer Interaction, User Experience, Player Experience, Games User Research, Gamification",Arts,Communication Arts
 145,Edith Law,OOssnq8AAAAJ,http://edithlaw.ca/,100,"Human Computer Interaction, Machine Learning, Human Computation and Crowddsourcing, Citizen Science",Mathematics,Computer Science
 146,Ashok Chaurasia,VFdBknwAAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/ashok-chaurasia,48,"model selection, longitudinal data, incomplete/missing data, sequential analysis",Health,Public Health Sciences
 147,Fatma Gzara,BYLEbicAAAAJ,,35,"Large scale optimization, Data analytics, Logistics and supply chain analytics",Engineering,Management Sciences
@@ -160,4 +160,5 @@ Id,Label,author_id,home_page,publications,interests,Faculty,Department
 158,Anindya Sen,,,32,,Arts,Economics
 169,Na Young Kim,4FbfIogAAAAJ,https://uwaterloo.ca/electrical-computer-engineering/profile/ny3kim,88,Electrical Engineering,Engineering,Electrical and Computer Engineering
 173,Richard Cook,e1PW608AAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/richard-j-cook,694,"Biostatistics, Clinical Trials, Statistics, Longitudinal Data",Mathematics,Statistics and Actuarial Science
-175,Shady Shehata,osOiYvYAAAAJ,https://www.linkedin.com/in/shady-shehata/,23,"Artificial Intelligence, Machine Learning, Natural Language Processing",Mathematics,Electrical and Computer Engineering
+175,Shady Shehata,osOiYvYAAAAJ,https://www.linkedin.com/in/shady-shehata/,23,"Artificial Intelligence, Machine Learning, Natural Language Processing",Engineering,Electrical and Computer Engineering
+176,Gautam Kamath,MK6zHkYAAAAJ,http://www.gautamkamath.com/,57,Statistics,"Machine Learning, Privacy, Robustness",Mathematics,Computer Science

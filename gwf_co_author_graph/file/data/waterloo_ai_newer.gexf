@@ -1507,12 +1507,12 @@
           <attvalue for="home_page" value="https://lit-mus.org/"></attvalue>
           <attvalue for="publications" value="141"></attvalue>
           <attvalue for="interests" value="Ultrasound Imaging &amp; Therapeutics"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
           <attvalue for="department" value="Electrical and Computer Engineering"></attvalue>
         </attvalues>
         <viz:size value="38.689217"></viz:size>
         <viz:position x="764.30194" y="-106.66975"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="118" label="Weihua Zhuang">
         <attvalues>
@@ -1854,12 +1854,12 @@
           <attvalue for="home_page" value="http://www.hcigames.com/"></attvalue>
           <attvalue for="publications" value="270"></attvalue>
           <attvalue for="interests" value="Human-Computer Interaction, User Experience, Player Experience, Games User Research, Gamification"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Arts"></attvalue>
           <attvalue for="department" value="Communication Arts"></attvalue>
         </attvalues>
         <viz:size value="56.41649"></viz:size>
         <viz:position x="-994.48065" y="422.36642"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="217" g="63" b="0"></viz:color>
       </node>
       <node id="145" label="Edith Law">
         <attvalues>
@@ -2063,8 +2063,21 @@
           <attvalue for="home_page" value="https://www.linkedin.com/in/shady-shehata/"></attvalue>
           <attvalue for="publications" value="23"></attvalue>
           <attvalue for="interests" value="Artificial Intelligence, Machine Learning, Natural Language Processing"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
           <attvalue for="department" value="Electrical and Computer Engineering"></attvalue>
+        </attvalues>
+        <viz:size value="22.473574"></viz:size>
+        <viz:position x="698.0095" y="64.52291"></viz:position>
+        <viz:color r="87" g="5" b="139"></viz:color>
+      </node>
+      <node id="176" label="Gautam Kamath">
+        <attvalues>
+          <attvalue for="author_id" value="MK6zHkYAAAAJ"></attvalue>
+          <attvalue for="home_page" value="http://www.gautamkamath.com/"></attvalue>
+          <attvalue for="publications" value="57"></attvalue>
+          <attvalue for="interests" value="Statistics, Machine Learning, Privacy, Robustness"></attvalue>
+          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="department" value="Computer Science"></attvalue>
         </attvalues>
         <viz:size value="22.473574"></viz:size>
         <viz:position x="698.0095" y="64.52291"></viz:position>
