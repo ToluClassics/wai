@@ -50,7 +50,7 @@ var s = new sigma({
         edgeColor: 'default',
         minNodeSize: 0.001,
         maxNodeSize: 25,
-        labelThreshold: 15,
+        labelThreshold: 9,
         labelSize: "fixed",
         scalingMode: 'inside',
         sideMargin: 1,
