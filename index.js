@@ -49,8 +49,8 @@ var s = new sigma({
         defaultEdgeColor: '#B1B1B1',
         edgeColor: 'default',
         minNodeSize: 0.001,
-        maxNodeSize: 30,
-        labelThreshold: 12,
+        maxNodeSize: 27,
+        labelThreshold: 11,
         labelSize: "fixed",
         scalingMode: 'inside',
         sideMargin: 1,
@@ -60,7 +60,7 @@ var s = new sigma({
         labelHoverBGColor: '#E0E0E0',
         defaultHoverLabelBGColor: '#E0E0E0',
         defaultNodeBorderColor: '#E0E0E0',
-        zoomingRatio: 2.0
+        zoomingRatio: 1.5
     }
 })
 
@@ -77,6 +77,10 @@ sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai.gexf',
                 n.color = "#708090"
                 n.originalColor = n.color;
                 n.originalLabel = " " + n.label;
+            }
+
+            if (Object.keys(s.graph.neighbors(n.id)).length == 0) {
+                n.hidden = true;
             }
 
         });
@@ -245,9 +249,13 @@ function zoomOut() {
 function populateSearchList(nodes) {
     var container = document.getElementById('nodes-datalist');
     nodes.forEach(function (n) {
-        var item = document.createElement('option');
-        item.value = n.label;
-        container.appendChild(item);
+        if (n.hidden == true) {
+
+        } else {
+            var item = document.createElement('option');
+            item.value = n.label;
+            container.appendChild(item);
+        }
     });
 }
 
