@@ -49,8 +49,8 @@ var s = new sigma({
         defaultEdgeColor: '#B1B1B1',
         edgeColor: 'default',
         minNodeSize: 0.001,
-        maxNodeSize: 25,
-        labelThreshold: 9,
+        maxNodeSize: 30,
+        labelThreshold: 12,
         labelSize: "fixed",
         scalingMode: 'inside',
         sideMargin: 1,
@@ -64,7 +64,7 @@ var s = new sigma({
     }
 })
 
-sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai_newer.gexf',
+sigma.parsers.gexf('gwf_co_author_graph/file/data/waterloo_ai.gexf',
     s,
     function (s) {
         // We first need to save the original colors of our
