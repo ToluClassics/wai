@@ -1,186 +1,186 @@
-Id,Label,author_id,home_page,publications,interests,Faculty,Department ,citedby
-0,Hossein Abouee Mehrizi,aEyXGPAAAAAJ,https://sites.google.com/view/haboueemehrizi,34,"Stochastic Modeling, Optimization, Analytics",Engineering,Management Sciences,341
-1,Kate Larson,QK-c5esAAAAJ,,149,"Artificial Intelligence, Multiagent Systems",Mathematics,Computer Science,3021
-2,Nancy Worth,IMYz6WFZ0DoC,https://uwaterloo.ca/geography-environmental-management/people-profiles/nancy-worth,37,"work, generations, social reproduction, inequalities, feminist theory",Environment,Geography and Environmental Management,918
-3,Zahid A. Butt,wlkd9ykAAAAJ,,233,"Epidemiology, Public Health, Global Health, Syndemics",Health,Public Health Sciences,59666
-4,Mohammad Javad Shafiee,ZdqUd0AAAAAJ,https://www.eng.uwaterloo.ca/~mjshafie/,122,"Edge AI, Computer Vision, Machine Learning, Deep Learning, Statistical Graphical Models",Engineering,Systems Design Engineering,1401
-5,William Melek,c_oOg1YAAAAJ,http://www.mme.uwaterloo.ca/,161,"Robotics, Computational Intelligence, State Estimation",Engineering,Mechanical and Mechatronics Engineering,3441
-6,Justin Wan,jaJlXfwAAAAJ,,73,Scientific Computing,Mathematics,Computer Science,1382
-7,Zhou Wang,O0PjM4QAAAAJ,https://ece.uwaterloo.ca/~z70wang/,253,"image processing, video processing, image quality assessment, video quality assessment, video coding",Engineering,Electrical and Computer Engineering,78743
-8,Jeff Orchard,cAfBytAAAAAJ,https://cs.uwaterloo.ca/~jorchard/,94,"computational neuroscience, image processing",Mathematics,Computer Science,1489
-9,Igor Grossmann,akajO3QAAAAJ,http://uwaterloo.ca/wisdom-and-culture-lab/,116,"Wisdom, Experimental Philosophy, Cultural change, Culture and cognition, Affective science",Arts,Psychology,6677
-10,Nasser Moheiddin Abukhdeir,8mLcWUsAAAAJ,http://chemeng.uwaterloo.ca/abukhdeir/,39,,Engineering,Chemical Engineering,502
-11,Liqun Diao,uj2pCykAAAAJ,,14,"Statistics, Data Science, Statistical Learning, Biostatistics",Mathematics,Statistics and Actuarial Science,105
-12,Behzad Moshiri,SmL7-6YAAAAJ,https://ece.ut.ac.ir/en/~moshiri,334,"Advanced Process Control, Sensor/Data Fusion, Mechatronics, Industrial Automation, Intelligent Transportation Systems",Engineering,Electrical and Computer Engineering,3306
-13,Samir Elhedhli,kqJIAr8AAAAJ,http://www.eng.uwaterloo.ca/~elhedhli,63,"Large-scale optimization, Data analytics, Supply chain analytics",Engineering,Management Sciences,2415
-14,Ravi Mazumdar,0ceJfDoAAAAJ,http://www.ece.uwaterloo.ca/~mazum,243,"Stochastic networks, wireless systems, stochastic analysis, applied probability, game theory",Engineering,Electrical and Computer Engineering,6894
-15,Joel Blit,O4RMkk8AAAAJ,https://uwaterloo.ca/scholar/jblit,23,"Economics of Innovation, Economic Geography, Intellectual Property Rights, Artificial Intelligence",Arts,Economics,123
-16,Helen Chen,Pqs4NSgAAAAJ,https://uwaterloo.ca/public-health-sciences/people-profiles/helen-chen,61,"health data analytics, data quality, healthcare decision support",Health,Public Health Sciences,1034
-17,Jennifer Boger,w3nBJHsAAAAJ,https://uwaterloo.ca/systems-design-engineering/profile/jboger,150,"Artificial Intelligence, Assistive Technology, Aging, Transdisciplinarity, Ethics",Engineering,Systems Design Engineering,2887
-18,Mark Smucker,BgiGGQQAAAAJ,https://www.marksmucker.com/,94,"Information Retrieval, Human Computer Interaction",Mathematics,Management Sciences,3370
-19,Joyce Kim,5fMe1RYAAAAJ,,15,"Occupant Behavior, Building Energy, Machine Learning, Thermal Comfort, Demand Response",Engineering,Civil and Environmental Engineering,727
-20,Ali Ayub,kyzvf0wAAAAJ,https://sites.google.com/view/aliayub/,25,"Robotics, Artificial Intelligence, Computer Vision, Incremental Learning, HRI",Engineering,Electrical and Computer Engineering,102
-21,Rodney Smith,FjHIDkAAAAAJ,http://smithgroup.uwaterloo.ca/,33,Chemistry,Science,Chemistry,2797
-22,Chengnian Sun,rwbI5qAAAAAJ,https://cs.uwaterloo.ca/~cnsun/,38,"Software Engineering, Programming Languages",Mathematics,Computer Science,2567
-23,Mehrdad Pirnia,l4Ocvg4AAAAJ,http://www.mpirnia.com/,18,"Energy Optimization, Power System Operations, Stochastic Power System Models, Machine Learning for Optimization",Engineering,Management Sciences,213
-24,Sirisha Rambhatla,EOSZeBMAAAAJ,https://sirisharambhatla.com/,22,"Machine Learning, Statistical Signal Processing, Optimization, AI for Healthcare",Engineering,Management Sciences,252
-25,Arie Gurfinkel,WHTB3_MAAAAJ,http://ece.uwaterloo.ca/~agurfink,192,"Model Checking, Program Analysis, Verification",Engineering,Electrical and Computer Engineering,4029
-26,John McPhee,boJMp7AAAAAJ,https://uwaterloo.ca/motion-research-group/,405,"Dynamics, model-based control, automotive, biomechatronics, sports engineering",Engineering,Systems Design Engineering,6295
-27,Omar M. Ramahi,vheo2roAAAAJ,http://www.ece.uwaterloo.ca/~oramahi,483,,Engineering,Electrical and Computer Engineering,7483
-28,Patricia Marino,Y9boIr0AAAAJ,http://patriciamarino.org/,56,"Ethics, Epistemology, Philosophy of Economics, Philosophy of Sex and Love",Arts,Philosophy,227
-29,Oliver Schneider,dc2aKrEAAAAJ,http://oliverschneider.ca/,57,"Human-Computer Interaction, Haptics, Design, Computer Science",Engineering,Management Sciences,651
-30,Vincent Gaudet,niKoLAYAAAAJ,https://ece.uwaterloo.ca/~vcgaudet/,178,"Circuits and systems, iterative decoding, LDPC codes, stochastic computing, Multiple-Valued Logic",Engineering,Electrical and Computer Engineering,7779
-31,Urs Hengartner,FPSbtssAAAAJ,http://cs.uwaterloo.ca/~uhengart,97,"Security, Privacy",Mathematics,Computer Science,3899
-32,Soo Jeon,1FWPce0AAAAJ,https://uwaterloo.ca/scholar/soojeon,86,"mechatronics, dynamic systems, control, instrumentation, robotics",Engineering,Mechanical and Mechatronics Engineering,1251
-33,Stephen L. Smith,_gfwCNwAAAAJ,https://ece.uwaterloo.ca/~sl2smith/,122,"Robotics, Autonomous Systems, Systems and Control, Motion Planning",Engineering,Electrical and Computer Engineering,4143
-34,Sibel Alumur Alev,8Li0OdIAAAAJ,,28,"Location modeling, Hub location, Supply chain design, Logistics, Optimization",Engineering,Management Sciences,3264
-35,Randy Harris,9M7YZ7EAAAAJ,https://uwaterloo.ca/scholar/raha/,112,"Rhetoric, Linguistics, Cognitive Science, Artifical Intelligence, Voice Interaction Design",Arts,English Language and Literature,2066
-36,Paul Thagard,1-i6trwAAAAJ,http://watarts.uwaterloo.ca/~pthagard/Biographies/pault.html,410,"Cognitive science, philosophy, philosophy of mind, philosophy of science, philosophy of medicine",Arts,Philosophy,34942
-37,Nachiket Kapre,JxwwXHMAAAAJ,http://nachiket.github.io/,121,"Reconfigurable Computing, FPGAs, Spatial Processing, Parallel Processing",Engineering,Electrical and Computer Engineering,1973
-38,Mohammed Kohandel,21CxRnMAAAAJ,http://www.math.uwaterloo.ca/~kohandel/,106,"Biological Physics, Mathematical Biology and Medicine, Cancer Modeling",Mathematics,Applied Mathematics,1878
-39,Michael Wallace,qLMLzc8AAAAJ,https://mpwallace.github.io/,38,"Statistics, Biostatistics, Causal Inference, Dynamic Treatment Regimes",Mathematics,Statistics and Actuarial Science,476
-40,John Zelek,CrdYsxEAAAAJ,,223,"computer vision, robotics, hap tics",Engineering,Systems Design Engineering,2587
-41,Jian Zhao,Gkk_I94AAAAJ,,29,"Green Energy, Hydrogen and Fuel Cells, Porous Media, Energy Harvesting, Combustion",Mathematics,Computer Science,1065
-42,Hans De Sterck,EbwLBr8AAAAJ,http://www.hansdesterck.net/,159,"Scientific Computing, Multigrid, Tensor Decomposition, Optimization, Data Science",Mathematics,Applied Mathematics,3196
-43,Derek Schipper,yPpfoAcAAAAJ,http://dschipper.uwaterloo.ca/,32,"organic chemistry, conjugated materials synthesis",Science,Chemistry,1587
-44,David Yevick,eMNK__gAAAAJ,http://www.science.uwaterloo.ca/~yevick/,280,"Optical Communications, Computational Physics",Science,Physics and Astronomy,5028
-45,Daniel Vogel,Yi5nK1EAAAAJ,http://www.nonsequitoria.com/,113,"Human-Computer Interaction, Input Devices, Interaction Techniques, Large Displays",Mathematics,Computer Science,4823
-46,Chrystopher L. Nehaniv,LAd9K5EAAAAJ,,409,"Algebra in Algorithms & Applications, Artificial Intelligence, Artificial Life, Complex Adaptive Systems, Cognitive Architecture",Engineering,Systems Design Engineering,9732
-47,Chris Bauch,DmwSNy0AAAAJ,http://www.math.uwaterloo.ca/~cbauch,263,"infectious diseases, ecology, human-environment systems, machine learning, complex systems",Mathematics,Applied Mathematics,8854
-48,Chengguo Weng,qJHMprkAAAAJ,http://www.chengguoweng.com/,58,"Quantitative Finance, Actuarial Science, Quantitative Risk Management, Portfolio Theory, Stochastic Optimization",Mathematics,Statistics and Actuarial Science,1168
-49,Brian Tripp,OUMJw3oAAAAJ,https://uwaterloo.ca/systems-design-engineering/people-profiles/bryan-tripp,59,"Computational neuroscience, Vision",Engineering,Systems Design Engineering,316
-50,Bin Ma,f-eL6DYAAAAJ,,178,"Computer Science, Bioinformatics, Mass Spectrometry, Proteomics, Algorithms",Mathematics,Computer Science,21289
-51,Ben Feng,tGO2XIIAAAAJ,http://www.math.uwaterloo.ca/~mbfeng/,21,"Simulation Design and Analysis, Actuarial Science, Financial Engineering, Portfolio Optimization, Nonlinear Optimization",Mathematics,Statistics and Actuarial Science,245
-52,Arash Arami,ZcmBowIAAAAJ,,70,"Neuromechanics, Movement Biomechanics, Human-machine Interaction, Assistive Robotics, Machine Learning",Engineering,Mechanical and Mechatronics Engineering,626
-53,Andrew Doxey,iUQqmUYAAAAJ,http://doxey.uwaterloo.ca/,82,"Computational Biology, Bioinformatics, microbial genomics, molecular evolution, toxins",Science,Biology,2124
-54,André Unger,D0ix3KsAAAAJ,,89,"Water Infrastructure Finance, Project Risk & Uncertainty, Computational Hydrology, Water Resources Management...",Mathematics,Earth and Environmental Sciences,1785
-55,Amir Khajepour,TL84ll0AAAAJ,https://uwaterloo.ca/mvs-lab/,606,Professor and Canada Research Chair in Mechatronic Vehicle Systems,Engineering,Mechanical and Mechatronics Engineering,13201
-56, ​Ali Ghodsi,WXbhp_4AAAAJ,https://uwaterloo.ca/data-analytics/,267,"Machine Learning, Deep Learning, NLP",Mathematics,Statistics and Actuarial Science,6389
-57,Alexander Lanoszka,sxE_MeoAAAAJ,http://www.alexlanoszka.com/,40,"International Security, International Relations, European Security, NATO, War",Arts,Political Science,729
-58,Shirley Tang,8SLi0t4AAAAJ,,75,"nanobiotechnology, portable and wearable devices, 3D printing",Science,Chemistry,6899
-59,Qinqin Zhu,DXw3OhIAAAAJ,https://uwaterloo.ca/scholar/q72zhu,31,"Process Data Analytics, Statistical Process Monitoring and Fault Diagnosis, Machine Learning and Big Data, Optimization",Engineering,Chemical Engineering,267
-60,Roger Melko,wGbkTUsAAAAJ,http://www.science.uwaterloo.ca/~rgmelko/,147,"Condensed Matter Theory, Quantum Information, Machine Learning",Science,Physics and Astronomy,9127
-61,Christopher Fletcher,cDMIljwAAAAJ,https://uwaterloo.ca/scholar/c5fletch/,37,"Climate variability and change, climate modelling.",Arts,Geography and Environmental Management,1615
-62,Evan Risko,ZDWO_fYAAAAJ,,150,,Arts,Psychology,6423
-63,Peter Van Beek,MP_l6fsAAAAJ,,104,"Artificial Intelligence, constraint programming, search, satisfiability",Mathematics,Computer Science,7545
-64,Bessma Momani,K0Wq4CQAAAAJ,https://uwaterloo.ca/scholar/bmomani/home,163,"Middle East Economy, IMF, Diversity",Arts,Political Science,1988
-65,Kristina Llewellyn,HuStf3cAAAAJ,https://uwaterloo.ca/renison/people-profiles/kristina-r-llewellyn,56,"Oral History, Citizenship Education, Women's History, Global Citizenship, Teachers",Arts,Social Development Studies,509
-66,Paul Stolee,pv5Xge8AAAAJ,https://uwaterloo.ca/ghs/,286,"geriatric health systems, health outcome measurement, health care transitions",Health,Public Health Sciences,9391
-67,John Hirdes,71R-3OIAAAAJ,,459,"health care, aging, mental health, home care, nursing homes",Health,Public Health Sciences,14474
-68,Yuning Li,EgtMUXQAAAAJ,https://uwaterloo.ca/chemical-engineering/people-profiles/yuning-li,309,"Organic electronics, polymers, nanomaterials, transistors, solar cells",Engineering,Chemical Engineering,15205
-69,Yuri Boykov,h6_PdYsAAAAJ,https://cs.uwaterloo.ca/~yboykov/,144,"computer vision, biomedical image analysis",Mathematics,Computer Science,33949
-70,Shoja'eddin Chenouri,aSBmn9IAAAAJ,,50,"Robust Statistics, Nonparametric methods, Functional data analysis, Change point analysis, High-dimentional data",Mathematics,Statistics and Actuarial Science,532
-71,Ricardo Fukasawa,Z0NqKVYAAAAJ,http://www.math.uwaterloo.ca/~rfukasaw,47,Optimization,Mathematics,Combinatorics and Optimization,1435
-72,Peter Forsyth,OQK4DDYAAAAJ,https://cs.uwaterloo.ca/~paforsyt/,264,"Scientific Computing, Computational Finance, Numerical solution of PDEs",Mathematics,Computer Science,10053
-73,Paulo Alencar,0xzfYjwAAAAJ,,276,"software engineering, formal methods, web engineering, mobile applications, context-aware computing",Mathematics,Computer Science,2497
-74,Olga Vechtomova,Ln1-_JIAAAAJ,http://ov-research.uwaterloo.ca/,85,"Natural Language Processing, Information Retrieval",Mathematics,Management Sciences,2684
-75,Kaan Inal,fD70lxoAAAAJ,http://www.cmrg.uwaterloo.ca/,139,"Crystal Plasticity, Formability, Localized Deformation",Engineering,Mechanical and Mechatronics Engineering,2643
-76,Hyock Ju Kwon,VDoXjlEAAAAJ,,54,"AI, Robotics, Biomedical, Mechanical",Engineering,Mechanical and Mechatronics Engineering,648
-77,George Labahn,Y91lPPwAAAAJ,http://www.cs.uwaterloo.ca/~glabahn,189,"Computer Algebra, Computational Finance, Scientific Computing, Approximation Theory",Mathematics,Statistics and Actuarial Science,4844
-78,Eihab Abdel-Rahman,IyO3eJcAAAAJ,https://uwaterloo.ca/systems-design-engineering/people-profiles/eihab-abdel-rahman,258,"Nonlinear Dynamics, MEMS, Vibrations, Control, Sensors",Engineering,Systems Design Engineering,6614
-79,Don Cowan,thICt6UAAAAJ,,67,,Mathematics,Computer Science,763
-80,Vijay Ganesh,YP23eR0AAAAJ,https://ece.uwaterloo.ca/~vganesh,165,"SAT/SMT solvers, formal methods/software engineering/security, AI, mathematics, physics",Mathematics,Electrical and Computer Engineering,6305
-81,Charles Clarke,TkVleDIAAAAJ,http://plg.uwaterloo.ca/~claclark,276,"Information Retrieval, Web Search, Text Mining",Mathematics,Computer Science,10654
-82,Jimmy Lin,0EWw1z8AAAAJ,https://cs.uwaterloo.ca/~jimmylin/,579,"information retrieval, natural language processing, data management, big data",Mathematics,Computer Science,22575
-83,Safieddin Safavi-Naeini,vcsNbsgAAAAJ,https://uwaterloo.ca/centre-for-intelligent-antenna-and-radio-systems/,691,"Electromagnetic fields and waves, Intelligent Antenna and Radio Systems, Microwaves/Millimeter-waves technology, Terahertz Technologies, Bio-medical sensors",Engineering,Electrical and Computer Engineering,6113
-84,Plinio Morita,pMiZZU4AAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/plinio-morita,101,"mHealth and wearable technology design, ubiquitous sensors for smart homes, usage data and health data analytics, and technology",Engineering,Public Health Sciences,980
-85,Sharon Kirkpatrick,v5aZktUAAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/sharon-kirkpatrick,179,"nutrition, dietary assessment, food policy",Health,Public Health Sciences,11565
-86,Jun Liu,Ytr7YQ0AAAAJ,,102,"systems and control theory, formal methods, optimization and learning",Mathematics,Applied Mathematics,1841
-87,Scott Hopkins,cP6A2C0AAAAJ,https://uwaterloo.ca/chemistry/people-profiles/scott-hopkins,99,"Chemistry, Physics",Science,Chemistry,1454
-88,George Shaker,BuqNOOwAAAAJ,http://www.linkedin.com/in/georgeshaker,163,"Electromagnetics, Antennas, RF, Microwave, Sensors and Printed Electronics",Engineering,Mechanical and Mechatronics Engineering,1694
-89,Apurva Narayan,e5OCZ1cAAAAJ,http://www.anarayan.com/,46,"Cyber Physical Systems, Data Analytics, Machine Learning, Software Engineering, Safety and Security in CPS",Engineering,Systems Design Engineering,338
-90,Henry Wolkowicz,WmTBubUAAAAJ,http://www.math.uwaterloo.ca/~hwolkowi/,334,"Optimization, Mathematical Programming, Numerical Linear Algebra, Cone Optimization, Matrix Completions",Mathematics,Combinatorics and Optimization,11724
-91,Lila Kari,B4myWaQAAAAJ,https://cs.uwaterloo.ca/about/people/lila,273,"Theoretical computer science, DNA computing, Formal languages & Automata, Biodiversity informatics",Mathematics,Computer Science,5692
-92,Trevor Charles,gTkdyfsAAAAJ,,146,"microbiology, bacterial genetics, metagenomics, plant-microbe interactions, bioplastics",Science,Biology,7816
-93,Ashley Rose Mehlenbacher,32EmfuEAAAAJ,https://uwaterloo.ca/scholar/arkelly/,42,"rhetorical theory, rhetorics of science and technology and medicine, science communication, genre theory, science studies",Arts,English Language and Literature,402
-94,Vasudevan Lakshminarayanan,ipkmLWUAAAAJ,,506,,Engineering,Physics and Astronomy,7519
-95,Olaf Weber,tGFedLkAAAAJ,,170,"Sustainable finance, impact investing, social finance, corporate social responsibility",Engineering,"Environment, Enterprise and Development",4470
-96,Colin Ellard,jOejML4AAAAJ,http://colinellard.com/,89,"environmental psychology, virtual reality, urban psychology",Arts,Psychology,1935
-97,Ian Milligan,ZDmByc4AAAAJ,http://ianmilligan.ca/,104,,Arts,History,1132
-98,Martin Ross,d1w1jiUAAAAJ,https://uwaterloo.ca/earth-environmental-sciences/people-profiles/martin-ross,90,"Quaternary science, glacial geology, geomorphology",Science,Earth and Environmental Sciences,843
-99,Chris Eliasmith,KOBO-6QAAAAJ,http://compneuro.uwaterloo.ca/,274,"theoretical neuroscience, brain modelling, machine learning, artificial intelligence, philosophy of mind",Mathematics,Systems Design Engineering,9449
-100,Raouf Boutaba,L1RHDCcAAAAJ,http://rboutaba.cs.uwaterloo.ca/,785,"Network Management, Network Virtualization, Cloud Resource Management",Mathematics,Computer Science,31293
-101,Seyed Majid Zahedi,HlL8Gi4AAAAJ,https://ece.uwaterloo.ca/~smzahedi/,14,"Computer Systems, Computer Architecture, Theoretical Computer Science",Engineering,Electrical and Computer Engineering,312
-102,Joel Dubin,g9zPsf4AAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin,113,"Statistics, biostatistics, data science",Mathematics,Statistics and Actuarial Science,4990
-103,Phil Curry,07j673gAAAAJ,http://www.arts.uwaterloo.ca/~pacurry/,32,"law and economics, applied microeconomic theory",Arts,Economics,220
-104,Achim Kempf,vfYk_ygAAAAJ,http://uwaterloo.ca/poi,164,"Physics of Information, Quantum Gravity and Cosmology, Information in Biology and Engineering",Mathematics,Applied Mathematics,7362
-105,Yaoliang Yu,zbXIQMsAAAAJ,https://cs.uwaterloo.ca/~y328yu/,99,"Machine learning, Optimization",Mathematics,Computer Science,2657
-106,Chul Min Yeum,6PiF3MkAAAAJ,https://cviss.net/,48,"Structural Health Monitoring, Computer Vision, Machine Learning",Engineering,Civil and Environmental Engineering,950
-107,John McLevey,zkQN59MAAAAJ,http://www.johnmclevey.com/,31,"computational social science, social networks, natural language processing, politics of information",Arts,Knowledge Integration,266
-108,Tao Chen,hIYp2jIAAAAJ,,5,"Membrane, Modeling",Arts,Economics,101
-109,Subha Kalyaanamoorthy,ZiJxchkAAAAJ,,32,"Computational biology, Molecular modelling, Structure-based drug design, Molecular evolution, Molecular dynamics",Engineering,Chemistry,5381
-110,Ruodu Wang,YT9wiu8AAAAJ,http://sas.uwaterloo.ca/~wang,107,"Statistics, Actuarial Science, Quantitative Risk Management, Financial Engineering, Risk Measures",Mathematics,Statistics and Actuarial Science,2246
-111,Mark Crowley,eL_y80EAAAAJ,https://uwaterloo.ca/scholar/mcrowley,114,"Machine Learning, Artificial Intelligence, Computational Sustainability, Reinforcement Learning, Anomaly Detection",Engineering,Electrical and Computer Engineering,894
-112,Stephen M. Watt,O4bB0QkAAAAJ,http://cs.uwaterloo.ca/~smwatt/,299,"computer algebra, compilers, handwriting recognition",Mathematics,Computer Science,6076
-113,Josh D. Neufeld,hzeNTPAAAAAJ,http://biology.uwaterloo.ca/people/josh-neufeld,156,"Microbiology, microbial ecology, human microbiome",Science,Biology,12896
-114,Jennifer Whitson,QiYJp90AAAAJ,http://www.jenniferwhitson.com/,34,"Surveillance, Game Studies, Labour",,Sociology and Legal Studies,1181
-115,Ming Li,oGgPXFEAAAAJ,http://cs.uwaterloo.ca/~mli,394,"Bioinformatics, natural language processing, algorithms and complexity, Kolmogorov complexity, learning theory",Mathematics,Computer Science,35093
-116,Mathieu Doucet,gC94TBgAAAAJ,,14,"Philosophy, ethics, moral psychology",Arts,Philosophy,203
-117,Alfred Yu,LRUenAcAAAAJ,https://lit-mus.org/,141,Ultrasound Imaging & Therapeutics,Mathematics,Electrical and Computer Engineering,3208
-118,Weihua Zhuang,Py1onlEAAAAJ,http://bbcr.uwaterloo.ca/~wzhuang,415,"Wireless networking, MAC, VANETs, QoS, Positioning",Engineering,Electrical and Computer Engineering,19748
-119,Pascal Poupart,KhAJWroAAAAJ,http://cs.uwaterloo.ca/~ppoupart,215,"Artificial Intelligence, Machine Learning, Reinforcement Learning, Markov Decision Processes, Sum-Product Networks",Mathematics,Computer Science,7193
-120,Mikko Packalen,kJ-X1MEAAAAJ,https://sites.google.com/site/mikkopackalen/,26,"ideas, growth, health, text analysis",Arts,Economics,342
-121,Marius Hofert,FU8uWWUAAAAJ,http://www.math.uwaterloo.ca/~mhofert/,125,"Copula Modeling, Computational Statistics and Data Science, Quantitative Risk Management",Mathematics,Statistics and Actuarial Science,2657
-122,Juliane Mai,0cgCUuAAAAAJ,http://www.civil.uwaterloo.ca/jmai/,134,"Sensitivity Analysis, Uncertainty Analysis, Model Calibration, Large-Scale Hydrologic Modelling, HPC & Big Data",Engineering,Civil and Environmental Engineering,1214
-123,Baris Fidan,kQBCvYEAAAAJ,http://www.me.uwaterloo.ca/~fidan,240,"Controls, Robotics, Mechatronics, Sensor Networks, Signal Processing",Engineering,Mechanical and Mechatronics Engineering,10677
-124,Jeff Z.Y. Chen,_zhMaH8AAAAJ,http://www.science.uwaterloo.ca/~jeffchen,158,Soft Matter Theory,Science,Physics and Astronomy,4313
-125,Derek Rayside,hG-Un48AAAAJ,https://ece.uwaterloo.ca/~drayside/,79,"software engineering, formal methods, program analysis, synthesis",Mathematics,Electrical and Computer Engineering,1523
-126,Efrim Boritz,wlKr--QAAAAJ,https://uwaterloo.ca/school-of-accounting-and-finance/people-profiles/efrim-boritz,139,"Audit, Assurance, Accounting Information Systems",Mathematics,Accounting and Finance,2796
-127,Maura Grossman,Mtt1ewoAAAAJ,http://grossman.uwaterloo.ca/,64,High-Stakes Information Retrieval,Mathematics,Computer Science,1350
-128,Tony Wirjanto,Rt3jpBUAAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/tony-wirjanto,196,"Financial Econometrics/Time Series, Financial Mathematics, Computational Finance",Mathematics,Statistics and Actuarial Science,2495
-129,Shai Ben-David,kezPqwoAAAAJ,,227,"Theoretical computer science, Machine Learning, Clustering, Mathematical logic",Mathematics,Computer Science,16739
-130,Marcel O' Gorman,04wS9GMAAAAJ,http://marcelogorman.net/,54,"Media Theory, Posthumanism, Digital Art, Digital Humanities",Arts,English Language and Literature,287
-131,Anna Esselment,3dHQfmoAAAAJ,https://uwaterloo.ca/political-science/people-profiles/anna-esselment,31,"Canadian politics, campaigns and elections, political marketing",Arts,Political Science,247
-132,Jonathan Li,7hyYxRkAAAAJ,https://uwaterloo.ca/geospatial-sensing/,534,"Geomatics, Mapping, Earth Observation, LiDAR, Photogrammetry",Environment,Geography and Environmental Management,11529
-133,Alan Huang,buaNnDMAAAAJ,,38,Empirical Asset Pricing,Mathematics,Accounting and Finance,781
-134,Bryan Tolson,E0ugA2sAAAAJ,http://www.civil.uwaterloo.ca/btolson/,158,"hydrologic modelling, water distribution system modelling, optimization, automatic calibration, water resources systems analysis",Engineering,Civil and Environmental Engineering,4190
-135,Catherine Burns,ONcan_4AAAAJ,https://www.researchgate.net/profile/Catherine_Burns3%22%3ECatherine%20Marie%20Burns%20on%20ResearchGate,246,"human factors, cognitive work, patient safety, interaction with AI, interaction with automation",Engineering,Systems Design Engineering,4892
-136,Olga Veksler,r5QkMysAAAAJ,https://cs.uwaterloo.ca/~oveksler/,82,Computer Vision,Mathematics,Computer Science,17451
-137,Marcel Nooijen,yFqaGSsAAAAJ,,162,electronic structure theory,Science,Chemistry,8673
-138,Peter Johnson,14Ov5mYAAAAJ,https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson,64,"Civic Technology, GIScience, Public Participation, Open Data",Arts,Geography and Environmental Management,2225
-139,Laura Middleton,HGEQv7cAAAAJ,https://uwaterloo.ca/kinesiology/people-profiles/laura-middleton,115,"Physical activity, sedentary behaviour, exercise interventions, aging, cognitive impairment",Health,Kinesiology and Health Sciences,3666
-140,Kerstin Dautenhahn,0b9_3VUAAAAJ,,612,"Social Robotics, Human-Robot Interaction, Artificial Intelligence, Assistive Technology",Engineering,Electrical and Computer Engineering,29839
-141,Katja Mombaur,HuN7dvgAAAAJ,http://www.orb.uni-hd.de/,211,"Humanoid robots, Wearable robots and assistive devices, Human movement, Optimal control, Modeling",Mathematics,Systems Design Engineering,3389
-142,Jesse Hoey,YcBGOtQAAAAJ,http://www.cs.uwaterloo.ca/~jhoey,244,"Artificial Intelligence, Affective Computing, Computational Social Science, Markov Decision Processes",Mathematics,Computer Science,8062
-143,Horatiu Rus,QDdxpj0AAAAJ,http://www.arts.uwaterloo.ca/~hrus,28,"Natural Resource and Environmental Economics, International Trade, Political Economy",Arts,Economics,156
-144,Lennart Nacke,i-y5S2AAAAAJ,http://www.hcigames.com/,270,"Human-Computer Interaction, User Experience, Player Experience, Games User Research, Gamification",Mathematics,Communication Arts,23691
-145,Edith Law,OOssnq8AAAAJ,http://edithlaw.ca/,100,"Human Computer Interaction, Machine Learning, Human Computation and Crowddsourcing, Citizen Science",Mathematics,Computer Science,2578
-146,Ashok Chaurasia,VFdBknwAAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/ashok-chaurasia,48,"model selection, longitudinal data, incomplete/missing data, sequential analysis",Health,Public Health Sciences,545
-147,Fatma Gzara,BYLEbicAAAAJ,,35,"Large scale optimization, Data analytics, Logistics and supply chain analytics",Engineering,Management Sciences,903
-148,Fakhri Karray,9_Hpd5kAAAAJ,https://uwaterloo.ca/scholar/karray,663,"multi-sensor data fusion, emotion recognition, intelligent systems, computational intelligence, machine learning",Engineering,Electrical and Computer Engineering,15656
-149,Bissan Ghaddar,ERQSOF8AAAAJ,,53,,Engineering,Management Sciences,1086
-150,Zhongwei Chen,xqRH0KMAAAAJ,http://chemeng.uwaterloo.ca/zchen,951,"Nanomaterials, fuel cells, batteries, electrolysis, artificial intelligence",Engineering,Chemical Engineering,42508
-151,Craig Fortier ,MNAM1MgAAAAJ,,12,,Arts,Social Development Studies,181
-152,Gordon Cormack,wFuZKaUAAAAJ,,213,,Mathematics,Computer Science,10202
-153,Joe Naoum Sawaya,qusC_nYAAAAJ,http://www.eng.uwaterloo.ca/~jnaoumsa/,57,,Engineering,Management Sciences,1218
-154,Moojan Ghafurian,m8uJMssAAAAJ,http://moojan.com/,31,"Human-Computer Interaction, Human-Robot Interaction, Affective Computing, Social Robotics, Assistive Technology",Engineering,Electrical and Computer Engineering,147
-155,Otman Basir,r1Rx1RsAAAAJ,https://ece.uwaterloo.ca/People/faculty/basir.html,408,"Human Safety and Prosperity, Book Reading, Soccer, History, Politics",Engineering,Electrical and Computer Engineering,10130
-156,Paul Figueth,TObmBfYAAAAJ,http://vip.uwaterloo.ca/people/paul-fieguth,364,"Image Processing, Random Fields, Computer Vision",Engineering,Systems Design Engineering,9407
-157,Alexander Wong,i7h8-dYAAAAJ,,823,"Artificial Intelligence, Machine Learning, Image Processing, Computer Vision, Medical Imaging",Engineering,Systems Design Engineering,17582
-169,Na Young Kim,4FbfIogAAAAJ,https://uwaterloo.ca/electrical-computer-engineering/profile/ny3kim,88,Electrical Engineering,Engineering,Electrical and Computer Engineering,2942
-173,Richard Cook,e1PW608AAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/richard-j-cook,694,"Biostatistics, Clinical Trials, Statistics, Longitudinal Data",Mathematics,Statistics and Actuarial Science,34958
-175,Shady Shehata,osOiYvYAAAAJ,https://www.linkedin.com/in/shady-shehata/,23,"Artificial Intelligence, Machine Learning, Natural Language Processing",Mathematics,Electrical and Computer Engineering,561
-176,Gautam Kamath,MK6zHkYAAAAJ,http://www.gautamkamath.com/,57,"Statistics, Machine Learning, Privacy, Robustness",Mathematics,Computer Science,1881
-178,Hongyang Zhang,wSstCv0AAAAJ,https://hongyanz.github.io/,,"Machine Learning, AI Security & Privacy, Trustworthy ML",Mathematics,Computer Science,1946
-179,Pengyu Wei,LAWKnMgAAAAJ,https://sites.google.com/view/pengyuwei/,,"Actuarial Science, Insurance, Quantitative Finance, Risk Management",Mathematics,Statistics and Actuarial Science,71
-181,Ken Seng Tan,RPQKqc0AAAAJ,https://dr.ntu.edu.sg/cris/rp/rp00143,,"Quasi-Monte Carlo method, Quantitative risk management, Optimal reinsurance, Longevity risk, Agricultural insurance",Mathematics,Statistics and Actuarial Science,3842
-183,Matthias Schonlau,rpx7YzMAAAAJ,http://www.schonlau.net/,,"survey  methodology, open-ended questions, natural language processing, statistical learning",Mathematics,Statistics and Actuarial Science,17857
-188,Ali Ghodsi,YsXNU78AAAAJ,http://www.cs.berkeley.edu/~alig,,"Big Data, Distributed Computing, Data Management, Networking",Mathematics,Statistics and Actuarial Science,16951
-192,Omid Abari,4rihlSYAAAAJ,http://web.cs.ucla.edu/~omid/,,"Internet of Things (IoT), Computer Networks, Networked Systems, Wireless Networks, Software-Hardware Systems",Mathematics,Computer Science,1341
-195,Andrew Wong,NmoASSIAAAAJ,,,"Bioinformatics, datamining, machine intelligence, pattern recognition, computer vision",Engineering,Bioengineering anf Biotechnology,18336
-197,Mark Smucker,BgiGGQQAAAAJ,https://www.marksmucker.com/,,"Information Retrieval, Human Computer Interaction",Engineering,Management Sciences,3370
-200,Carolyn Ren,OEppY8kAAAAJ,https://uwaterloo.ca/waterloo-microfluidics-laboratory/,,"microfluidics, Lab-on-a-Chip",Engineering,Mechanical and Mechatronics Engineering,4475
-201,Yash Vardhan Pant,hdQid8kAAAAJ,http://yashpant.github.io/,,"Control Theory, Robotics, Machine Learning, Formal Methods, Optimization",Engineering,Electrical and Computer Engineering,398
-207,Yue Hu,_KAdZKEAAAAJ,https://hu-yue.github.io/,,"Robotics, Phyical Human-Robot Interaction, Humanoid robots, Locomotion, Optimal Control",Engineering,Systems Design Engineering,151
-209,Saeed Ghadimi,Kjlmi5MAAAAJ,https://www.saeedghadimi.com/,,"Convex and Nonconvex Optimization, Stochastic Programming, Machine Learning",Engineering,Management Sciences,2612
-210,Liping Fu,FKpsUMgAAAAJ,http://www.itsslab.com/,,"Road Safety, ITS, AI and Big Data, Winter Road Maintenance, Railway",Engineering,Civil and Environmental Engineering,6431
-214,Krzysztof Czarnecki,ZzCpumQAAAAJ,http://gsd.uwaterloo.ca/kczarnec,,"Software Engineering, Model-Driven Engineering, Software Product Lines, Variability Engineering",Engineering,Electrical and Computer Engineering,26554
-215,David Clausi,Q5qzD7EAAAAJ,https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi,,"Computer Vision, Remote Sensing, Image Processing, Pattern Recognition, Sports Analytics",Engineering,Systems Design Engineering,9838
-217,Philip Beesley,jnn1kG0AAAAJ,http://www.philipbeesleyarchitect.com/,,"Architecture, Computation, Sculpture, Visual Art, Couture",Engineering,Architecture,2839
-221,Janusz Pawliszyn,FyDRWooAAAAJ,https://uwaterloo.ca/pawliszyn-group/,,"Analytical Chemistry, Sample Preparation, SPME",Science,Chemistry,70581
-223,Brendan McConkey,T4wUsIMAAAAJ,,,"Computational Biology, Biotechnology, Proteomics",Science,Biology,17261
-226,Kim Cuddington,xt9r818AAAAJ,http://ecotheory.ca/,,"Theoretical ecology, Population ecology, Conservation",Science,Biology,5859
-227,Kyung Choi,X_Qx5L4AAAAJ,http://research.iqc.uwaterloo.ca/uqml,,"Quantum Optics, Quantum Information Science, Quantum Many Body Physics, Quantum Memory, Quantum Materials",Science,Physics and Astronomy,3446
-242,Mathieu Doucet,gC94TBgAAAAJ,,,"Philosophy, ethics, moral psychology",Arts,Philosophy,203
-243,Dana Kulic,sL0KJlQAAAAJ,https://www.monash.edu/engineering/robotics,,"Robotics, Human-Robot Interaction, Human Motion Analysis",Engineering,Electrical and Computer Engineering,7427
-198,John Simpson-Porco,tyQhs60AAAAJ,https://www.control.utoronto.ca/~jwsimpson/,,"Control Theory, Power Systems, Microgrids",Engineering,Electrical and Computer Engineering,4125
+Id,Label,author_id,home_page,publications,interests,Faculty,Department ,citedby,hindex
+0,Hossein Abouee Mehrizi,aEyXGPAAAAAJ,https://sites.google.com/view/haboueemehrizi,34,"Stochastic Modeling, Optimization, Analytics",Engineering,Management Sciences,341,11
+1,Kate Larson,QK-c5esAAAAJ,,149,"Artificial Intelligence, Multiagent Systems",Mathematics,Computer Science,3021,25
+2,Nancy Worth,IMYz6WFZ0DoC,https://uwaterloo.ca/geography-environmental-management/people-profiles/nancy-worth,37,"work, generations, social reproduction, inequalities, feminist theory",Environment,Geography and Environmental Management,918,13
+3,Zahid A. Butt,wlkd9ykAAAAJ,,233,"Epidemiology, Public Health, Global Health, Syndemics",Health,Public Health Sciences,59666,51
+4,Mohammad Javad Shafiee,ZdqUd0AAAAAJ,https://www.eng.uwaterloo.ca/~mjshafie/,122,"Edge AI, Computer Vision, Machine Learning, Deep Learning, Statistical Graphical Models",Engineering,Systems Design Engineering,1401,21
+5,William Melek,c_oOg1YAAAAJ,http://www.mme.uwaterloo.ca/,161,"Robotics, Computational Intelligence, State Estimation",Engineering,Mechanical and Mechatronics Engineering,3441,25
+6,Justin Wan,jaJlXfwAAAAJ,,73,Scientific Computing,Mathematics,Computer Science,1382,19
+7,Zhou Wang,O0PjM4QAAAAJ,https://ece.uwaterloo.ca/~z70wang/,253,"image processing, video processing, image quality assessment, video quality assessment, video coding",Engineering,Electrical and Computer Engineering,78743,71
+8,Jeff Orchard,cAfBytAAAAAJ,https://cs.uwaterloo.ca/~jorchard/,94,"computational neuroscience, image processing",Mathematics,Computer Science,1489,21
+9,Igor Grossmann,akajO3QAAAAJ,http://uwaterloo.ca/wisdom-and-culture-lab/,116,"Wisdom, Experimental Philosophy, Cultural change, Culture and cognition, Affective science",Arts,Psychology,6677,38
+10,Nasser Moheiddin Abukhdeir,8mLcWUsAAAAJ,http://chemeng.uwaterloo.ca/abukhdeir/,39,,Engineering,Chemical Engineering,502,11
+11,Liqun Diao,uj2pCykAAAAJ,,14,"Statistics, Data Science, Statistical Learning, Biostatistics",Mathematics,Statistics and Actuarial Science,105,4
+12,Behzad Moshiri,SmL7-6YAAAAJ,https://ece.ut.ac.ir/en/~moshiri,334,"Advanced Process Control, Sensor/Data Fusion, Mechatronics, Industrial Automation, Intelligent Transportation Systems",Engineering,Electrical and Computer Engineering,3306,29
+13,Samir Elhedhli,kqJIAr8AAAAJ,http://www.eng.uwaterloo.ca/~elhedhli,63,"Large-scale optimization, Data analytics, Supply chain analytics",Engineering,Management Sciences,2415,25
+14,Ravi Mazumdar,0ceJfDoAAAAJ,http://www.ece.uwaterloo.ca/~mazum,243,"Stochastic networks, wireless systems, stochastic analysis, applied probability, game theory",Engineering,Electrical and Computer Engineering,6894,34
+15,Joel Blit,O4RMkk8AAAAJ,https://uwaterloo.ca/scholar/jblit,23,"Economics of Innovation, Economic Geography, Intellectual Property Rights, Artificial Intelligence",Arts,Economics,123,6
+16,Helen Chen,Pqs4NSgAAAAJ,https://uwaterloo.ca/public-health-sciences/people-profiles/helen-chen,61,"health data analytics, data quality, healthcare decision support",Health,Public Health Sciences,1034,11
+17,Jennifer Boger,w3nBJHsAAAAJ,https://uwaterloo.ca/systems-design-engineering/profile/jboger,150,"Artificial Intelligence, Assistive Technology, Aging, Transdisciplinarity, Ethics",Engineering,Systems Design Engineering,2887,25
+18,Mark Smucker,BgiGGQQAAAAJ,https://www.marksmucker.com/,94,"Information Retrieval, Human Computer Interaction",Mathematics,Management Sciences,3370,24
+19,Joyce Kim,5fMe1RYAAAAJ,,15,"Occupant Behavior, Building Energy, Machine Learning, Thermal Comfort, Demand Response",Engineering,Civil and Environmental Engineering,727,9
+20,Ali Ayub,kyzvf0wAAAAJ,https://sites.google.com/view/aliayub/,25,"Robotics, Artificial Intelligence, Computer Vision, Incremental Learning, HRI",Engineering,Electrical and Computer Engineering,102,6
+21,Rodney Smith,FjHIDkAAAAAJ,http://smithgroup.uwaterloo.ca/,33,Chemistry,Science,Chemistry,2797,14
+22,Chengnian Sun,rwbI5qAAAAAJ,https://cs.uwaterloo.ca/~cnsun/,38,"Software Engineering, Programming Languages",Mathematics,Computer Science,2567,23
+23,Mehrdad Pirnia,l4Ocvg4AAAAJ,http://www.mpirnia.com/,18,"Energy Optimization, Power System Operations, Stochastic Power System Models, Machine Learning for Optimization",Engineering,Management Sciences,213,7
+24,Sirisha Rambhatla,EOSZeBMAAAAJ,https://sirisharambhatla.com/,22,"Machine Learning, Statistical Signal Processing, Optimization, AI for Healthcare",Engineering,Management Sciences,252,7
+25,Arie Gurfinkel,WHTB3_MAAAAJ,http://ece.uwaterloo.ca/~agurfink,192,"Model Checking, Program Analysis, Verification",Engineering,Electrical and Computer Engineering,4029,35
+26,John McPhee,boJMp7AAAAAJ,https://uwaterloo.ca/motion-research-group/,405,"Dynamics, model-based control, automotive, biomechatronics, sports engineering",Engineering,Systems Design Engineering,6295,37
+27,Omar M. Ramahi,vheo2roAAAAJ,http://www.ece.uwaterloo.ca/~oramahi,483,,Engineering,Electrical and Computer Engineering,7483,46
+28,Patricia Marino,Y9boIr0AAAAJ,http://patriciamarino.org/,56,"Ethics, Epistemology, Philosophy of Economics, Philosophy of Sex and Love",Arts,Philosophy,227,9
+29,Oliver Schneider,dc2aKrEAAAAJ,http://oliverschneider.ca/,57,"Human-Computer Interaction, Haptics, Design, Computer Science",Engineering,Management Sciences,651,16
+30,Vincent Gaudet,niKoLAYAAAAJ,https://ece.uwaterloo.ca/~vcgaudet/,178,"Circuits and systems, iterative decoding, LDPC codes, stochastic computing, Multiple-Valued Logic",Engineering,Electrical and Computer Engineering,7779,25
+31,Urs Hengartner,FPSbtssAAAAJ,http://cs.uwaterloo.ca/~uhengart,97,"Security, Privacy",Mathematics,Computer Science,3899,35
+32,Soo Jeon,1FWPce0AAAAJ,https://uwaterloo.ca/scholar/soojeon,86,"mechatronics, dynamic systems, control, instrumentation, robotics",Engineering,Mechanical and Mechatronics Engineering,1251,18
+33,Stephen L. Smith,_gfwCNwAAAAJ,https://ece.uwaterloo.ca/~sl2smith/,122,"Robotics, Autonomous Systems, Systems and Control, Motion Planning",Engineering,Electrical and Computer Engineering,4143,33
+34,Sibel Alumur Alev,8Li0OdIAAAAJ,,28,"Location modeling, Hub location, Supply chain design, Logistics, Optimization",Engineering,Management Sciences,3264,19
+35,Randy Harris,9M7YZ7EAAAAJ,https://uwaterloo.ca/scholar/raha/,112,"Rhetoric, Linguistics, Cognitive Science, Artifical Intelligence, Voice Interaction Design",Arts,English Language and Literature,2066,18
+36,Paul Thagard,1-i6trwAAAAJ,http://watarts.uwaterloo.ca/~pthagard/Biographies/pault.html,410,"Cognitive science, philosophy, philosophy of mind, philosophy of science, philosophy of medicine",Arts,Philosophy,34942,74
+37,Nachiket Kapre,JxwwXHMAAAAJ,http://nachiket.github.io/,121,"Reconfigurable Computing, FPGAs, Spatial Processing, Parallel Processing",Engineering,Electrical and Computer Engineering,1973,24
+38,Mohammed Kohandel,21CxRnMAAAAJ,http://www.math.uwaterloo.ca/~kohandel/,106,"Biological Physics, Mathematical Biology and Medicine, Cancer Modeling",Mathematics,Applied Mathematics,1878,25
+39,Michael Wallace,qLMLzc8AAAAJ,https://mpwallace.github.io/,38,"Statistics, Biostatistics, Causal Inference, Dynamic Treatment Regimes",Mathematics,Statistics and Actuarial Science,476,12
+40,John Zelek,CrdYsxEAAAAJ,,223,"computer vision, robotics, hap tics",Engineering,Systems Design Engineering,2587,26
+41,Jian Zhao,Gkk_I94AAAAJ,,29,"Green Energy, Hydrogen and Fuel Cells, Porous Media, Energy Harvesting, Combustion",Mathematics,Computer Science,1065,19
+42,Hans De Sterck,EbwLBr8AAAAJ,http://www.hansdesterck.net/,159,"Scientific Computing, Multigrid, Tensor Decomposition, Optimization, Data Science",Mathematics,Applied Mathematics,3196,29
+43,Derek Schipper,yPpfoAcAAAAJ,http://dschipper.uwaterloo.ca/,32,"organic chemistry, conjugated materials synthesis",Science,Chemistry,1587,14
+44,David Yevick,eMNK__gAAAAJ,http://www.science.uwaterloo.ca/~yevick/,280,"Optical Communications, Computational Physics",Science,Physics and Astronomy,5028,38
+45,Daniel Vogel,Yi5nK1EAAAAJ,http://www.nonsequitoria.com/,113,"Human-Computer Interaction, Input Devices, Interaction Techniques, Large Displays",Mathematics,Computer Science,4823,29
+46,Chrystopher L. Nehaniv,LAd9K5EAAAAJ,,409,"Algebra in Algorithms & Applications, Artificial Intelligence, Artificial Life, Complex Adaptive Systems, Cognitive Architecture",Engineering,Systems Design Engineering,9732,50
+47,Chris Bauch,DmwSNy0AAAAJ,http://www.math.uwaterloo.ca/~cbauch,263,"infectious diseases, ecology, human-environment systems, machine learning, complex systems",Mathematics,Applied Mathematics,8854,45
+48,Chengguo Weng,qJHMprkAAAAJ,http://www.chengguoweng.com/,58,"Quantitative Finance, Actuarial Science, Quantitative Risk Management, Portfolio Theory, Stochastic Optimization",Mathematics,Statistics and Actuarial Science,1168,18
+49,Brian Tripp,OUMJw3oAAAAJ,https://uwaterloo.ca/systems-design-engineering/people-profiles/bryan-tripp,59,"Computational neuroscience, Vision",Engineering,Systems Design Engineering,316,9
+50,Bin Ma,f-eL6DYAAAAJ,,178,"Computer Science, Bioinformatics, Mass Spectrometry, Proteomics, Algorithms",Mathematics,Computer Science,21289,44
+51,Ben Feng,tGO2XIIAAAAJ,http://www.math.uwaterloo.ca/~mbfeng/,21,"Simulation Design and Analysis, Actuarial Science, Financial Engineering, Portfolio Optimization, Nonlinear Optimization",Mathematics,Statistics and Actuarial Science,245,8
+52,Arash Arami,ZcmBowIAAAAJ,,70,"Neuromechanics, Movement Biomechanics, Human-machine Interaction, Assistive Robotics, Machine Learning",Engineering,Mechanical and Mechatronics Engineering,626,14
+53,Andrew Doxey,iUQqmUYAAAAJ,http://doxey.uwaterloo.ca/,82,"Computational Biology, Bioinformatics, microbial genomics, molecular evolution, toxins",Science,Biology,2124,28
+54,André Unger,D0ix3KsAAAAJ,,89,"Water Infrastructure Finance, Project Risk & Uncertainty, Computational Hydrology, Water Resources Management...",Mathematics,Earth and Environmental Sciences,1785,20
+55,Amir Khajepour,TL84ll0AAAAJ,https://uwaterloo.ca/mvs-lab/,606,Professor and Canada Research Chair in Mechatronic Vehicle Systems,Engineering,Mechanical and Mechatronics Engineering,13201,56
+56, ​Ali Ghodsi,WXbhp_4AAAAJ,https://uwaterloo.ca/data-analytics/,267,"Machine Learning, Deep Learning, NLP",Mathematics,Statistics and Actuarial Science,6389,43
+57,Alexander Lanoszka,sxE_MeoAAAAJ,http://www.alexlanoszka.com/,40,"International Security, International Relations, European Security, NATO, War",Arts,Political Science,729,12
+58,Shirley Tang,8SLi0t4AAAAJ,,75,"nanobiotechnology, portable and wearable devices, 3D printing",Science,Chemistry,6899,23
+59,Qinqin Zhu,DXw3OhIAAAAJ,https://uwaterloo.ca/scholar/q72zhu,31,"Process Data Analytics, Statistical Process Monitoring and Fault Diagnosis, Machine Learning and Big Data, Optimization",Engineering,Chemical Engineering,267,8
+60,Roger Melko,wGbkTUsAAAAJ,http://www.science.uwaterloo.ca/~rgmelko/,147,"Condensed Matter Theory, Quantum Information, Machine Learning",Science,Physics and Astronomy,9127,46
+61,Christopher Fletcher,cDMIljwAAAAJ,https://uwaterloo.ca/scholar/c5fletch/,37,"Climate variability and change, climate modelling.",Arts,Geography and Environmental Management,1615,19
+62,Evan Risko,ZDWO_fYAAAAJ,,150,,Arts,Psychology,6423,43
+63,Peter Van Beek,MP_l6fsAAAAJ,,104,"Artificial Intelligence, constraint programming, search, satisfiability",Mathematics,Computer Science,7545,33
+64,Bessma Momani,K0Wq4CQAAAAJ,https://uwaterloo.ca/scholar/bmomani/home,163,"Middle East Economy, IMF, Diversity",Arts,Political Science,1988,24
+65,Kristina Llewellyn,HuStf3cAAAAJ,https://uwaterloo.ca/renison/people-profiles/kristina-r-llewellyn,56,"Oral History, Citizenship Education, Women's History, Global Citizenship, Teachers",Arts,Social Development Studies,509,11
+66,Paul Stolee,pv5Xge8AAAAJ,https://uwaterloo.ca/ghs/,286,"geriatric health systems, health outcome measurement, health care transitions",Health,Public Health Sciences,9391,50
+67,John Hirdes,71R-3OIAAAAJ,,459,"health care, aging, mental health, home care, nursing homes",Health,Public Health Sciences,14474,62
+68,Yuning Li,EgtMUXQAAAAJ,https://uwaterloo.ca/chemical-engineering/people-profiles/yuning-li,309,"Organic electronics, polymers, nanomaterials, transistors, solar cells",Engineering,Chemical Engineering,15205,59
+69,Yuri Boykov,h6_PdYsAAAAJ,https://cs.uwaterloo.ca/~yboykov/,144,"computer vision, biomedical image analysis",Mathematics,Computer Science,33949,46
+70,Shoja'eddin Chenouri,aSBmn9IAAAAJ,,50,"Robust Statistics, Nonparametric methods, Functional data analysis, Change point analysis, High-dimentional data",Mathematics,Statistics and Actuarial Science,532,12
+71,Ricardo Fukasawa,Z0NqKVYAAAAJ,http://www.math.uwaterloo.ca/~rfukasaw,47,Optimization,Mathematics,Combinatorics and Optimization,1435,15
+72,Peter Forsyth,OQK4DDYAAAAJ,https://cs.uwaterloo.ca/~paforsyt/,264,"Scientific Computing, Computational Finance, Numerical solution of PDEs",Mathematics,Computer Science,10053,57
+73,Paulo Alencar,0xzfYjwAAAAJ,,276,"software engineering, formal methods, web engineering, mobile applications, context-aware computing",Mathematics,Computer Science,2497,23
+74,Olga Vechtomova,Ln1-_JIAAAAJ,http://ov-research.uwaterloo.ca/,85,"Natural Language Processing, Information Retrieval",Mathematics,Management Sciences,2684,21
+75,Kaan Inal,fD70lxoAAAAJ,http://www.cmrg.uwaterloo.ca/,139,"Crystal Plasticity, Formability, Localized Deformation",Engineering,Mechanical and Mechatronics Engineering,2643,27
+76,Hyock Ju Kwon,VDoXjlEAAAAJ,,54,"AI, Robotics, Biomedical, Mechanical",Engineering,Mechanical and Mechatronics Engineering,648,17
+77,George Labahn,Y91lPPwAAAAJ,http://www.cs.uwaterloo.ca/~glabahn,189,"Computer Algebra, Computational Finance, Scientific Computing, Approximation Theory",Mathematics,Statistics and Actuarial Science,4844,32
+78,Eihab Abdel-Rahman,IyO3eJcAAAAJ,https://uwaterloo.ca/systems-design-engineering/people-profiles/eihab-abdel-rahman,258,"Nonlinear Dynamics, MEMS, Vibrations, Control, Sensors",Engineering,Systems Design Engineering,6614,35
+79,Don Cowan,thICt6UAAAAJ,,67,,Mathematics,Computer Science,763,12
+80,Vijay Ganesh,YP23eR0AAAAJ,https://ece.uwaterloo.ca/~vganesh,165,"SAT/SMT solvers, formal methods/software engineering/security, AI, mathematics, physics",Mathematics,Electrical and Computer Engineering,6305,33
+81,Charles Clarke,TkVleDIAAAAJ,http://plg.uwaterloo.ca/~claclark,276,"Information Retrieval, Web Search, Text Mining",Mathematics,Computer Science,10654,50
+82,Jimmy Lin,0EWw1z8AAAAJ,https://cs.uwaterloo.ca/~jimmylin/,579,"information retrieval, natural language processing, data management, big data",Mathematics,Computer Science,22575,81
+83,Safieddin Safavi-Naeini,vcsNbsgAAAAJ,https://uwaterloo.ca/centre-for-intelligent-antenna-and-radio-systems/,691,"Electromagnetic fields and waves, Intelligent Antenna and Radio Systems, Microwaves/Millimeter-waves technology, Terahertz Technologies, Bio-medical sensors",Engineering,Electrical and Computer Engineering,6113,38
+84,Plinio Morita,pMiZZU4AAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/plinio-morita,101,"mHealth and wearable technology design, ubiquitous sensors for smart homes, usage data and health data analytics, and technology",Engineering,Public Health Sciences,980,16
+85,Sharon Kirkpatrick,v5aZktUAAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/sharon-kirkpatrick,179,"nutrition, dietary assessment, food policy",Health,Public Health Sciences,11565,42
+86,Jun Liu,Ytr7YQ0AAAAJ,,102,"systems and control theory, formal methods, optimization and learning",Mathematics,Applied Mathematics,1841,23
+87,Scott Hopkins,cP6A2C0AAAAJ,https://uwaterloo.ca/chemistry/people-profiles/scott-hopkins,99,"Chemistry, Physics",Science,Chemistry,1454,23
+88,George Shaker,BuqNOOwAAAAJ,http://www.linkedin.com/in/georgeshaker,163,"Electromagnetics, Antennas, RF, Microwave, Sensors and Printed Electronics",Engineering,Mechanical and Mechatronics Engineering,1694,21
+89,Apurva Narayan,e5OCZ1cAAAAJ,http://www.anarayan.com/,46,"Cyber Physical Systems, Data Analytics, Machine Learning, Software Engineering, Safety and Security in CPS",Engineering,Systems Design Engineering,338,10
+90,Henry Wolkowicz,WmTBubUAAAAJ,http://www.math.uwaterloo.ca/~hwolkowi/,334,"Optimization, Mathematical Programming, Numerical Linear Algebra, Cone Optimization, Matrix Completions",Mathematics,Combinatorics and Optimization,11724,49
+91,Lila Kari,B4myWaQAAAAJ,https://cs.uwaterloo.ca/about/people/lila,273,"Theoretical computer science, DNA computing, Formal languages & Automata, Biodiversity informatics",Mathematics,Computer Science,5692,36
+92,Trevor Charles,gTkdyfsAAAAJ,,146,"microbiology, bacterial genetics, metagenomics, plant-microbe interactions, bioplastics",Science,Biology,7816,42
+93,Ashley Rose Mehlenbacher,32EmfuEAAAAJ,https://uwaterloo.ca/scholar/arkelly/,42,"rhetorical theory, rhetorics of science and technology and medicine, science communication, genre theory, science studies",Arts,English Language and Literature,402,13
+94,Vasudevan Lakshminarayanan,ipkmLWUAAAAJ,,506,,Engineering,Physics and Astronomy,7519,34
+95,Olaf Weber,tGFedLkAAAAJ,,170,"Sustainable finance, impact investing, social finance, corporate social responsibility",Engineering,"Environment, Enterprise and Development",4470,35
+96,Colin Ellard,jOejML4AAAAJ,http://colinellard.com/,89,"environmental psychology, virtual reality, urban psychology",Arts,Psychology,1935,23
+97,Ian Milligan,ZDmByc4AAAAJ,http://ianmilligan.ca/,104,,Arts,History,1132,16
+98,Martin Ross,d1w1jiUAAAAJ,https://uwaterloo.ca/earth-environmental-sciences/people-profiles/martin-ross,90,"Quaternary science, glacial geology, geomorphology",Science,Earth and Environmental Sciences,843,15
+99,Chris Eliasmith,KOBO-6QAAAAJ,http://compneuro.uwaterloo.ca/,274,"theoretical neuroscience, brain modelling, machine learning, artificial intelligence, philosophy of mind",Mathematics,Systems Design Engineering,9449,44
+100,Raouf Boutaba,L1RHDCcAAAAJ,http://rboutaba.cs.uwaterloo.ca/,785,"Network Management, Network Virtualization, Cloud Resource Management",Mathematics,Computer Science,31293,73
+101,Seyed Majid Zahedi,HlL8Gi4AAAAJ,https://ece.uwaterloo.ca/~smzahedi/,14,"Computer Systems, Computer Architecture, Theoretical Computer Science",Engineering,Electrical and Computer Engineering,312,9
+102,Joel Dubin,g9zPsf4AAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/joel-dubin,113,"Statistics, biostatistics, data science",Mathematics,Statistics and Actuarial Science,4990,34
+103,Phil Curry,07j673gAAAAJ,http://www.arts.uwaterloo.ca/~pacurry/,32,"law and economics, applied microeconomic theory",Arts,Economics,220,8
+104,Achim Kempf,vfYk_ygAAAAJ,http://uwaterloo.ca/poi,164,"Physics of Information, Quantum Gravity and Cosmology, Information in Biology and Engineering",Mathematics,Applied Mathematics,7362,37
+105,Yaoliang Yu,zbXIQMsAAAAJ,https://cs.uwaterloo.ca/~y328yu/,99,"Machine learning, Optimization",Mathematics,Computer Science,2657,25
+106,Chul Min Yeum,6PiF3MkAAAAJ,https://cviss.net/,48,"Structural Health Monitoring, Computer Vision, Machine Learning",Engineering,Civil and Environmental Engineering,950,15
+107,John McLevey,zkQN59MAAAAJ,http://www.johnmclevey.com/,31,"computational social science, social networks, natural language processing, politics of information",Arts,Knowledge Integration,266,7
+108,Tao Chen,hIYp2jIAAAAJ,,5,"Membrane, Modeling",Arts,Economics,101,4
+109,Subha Kalyaanamoorthy,ZiJxchkAAAAJ,,32,"Computational biology, Molecular modelling, Structure-based drug design, Molecular evolution, Molecular dynamics",Engineering,Chemistry,5381,15
+110,Ruodu Wang,YT9wiu8AAAAJ,http://sas.uwaterloo.ca/~wang,107,"Statistics, Actuarial Science, Quantitative Risk Management, Financial Engineering, Risk Measures",Mathematics,Statistics and Actuarial Science,2246,24
+111,Mark Crowley,eL_y80EAAAAJ,https://uwaterloo.ca/scholar/mcrowley,114,"Machine Learning, Artificial Intelligence, Computational Sustainability, Reinforcement Learning, Anomaly Detection",Engineering,Electrical and Computer Engineering,894,15
+112,Stephen M. Watt,O4bB0QkAAAAJ,http://cs.uwaterloo.ca/~smwatt/,299,"computer algebra, compilers, handwriting recognition",Mathematics,Computer Science,6076,31
+113,Josh D. Neufeld,hzeNTPAAAAAJ,http://biology.uwaterloo.ca/people/josh-neufeld,156,"Microbiology, microbial ecology, human microbiome",Science,Biology,12896,51
+114,Jennifer Whitson,QiYJp90AAAAJ,http://www.jenniferwhitson.com/,34,"Surveillance, Game Studies, Labour",,Sociology and Legal Studies,1181,16
+115,Ming Li,oGgPXFEAAAAJ,http://cs.uwaterloo.ca/~mli,394,"Bioinformatics, natural language processing, algorithms and complexity, Kolmogorov complexity, learning theory",Mathematics,Computer Science,35093,67
+116,Mathieu Doucet,gC94TBgAAAAJ,,14,"Philosophy, ethics, moral psychology",Arts,Philosophy,203,5
+117,Alfred Yu,LRUenAcAAAAJ,https://lit-mus.org/,141,Ultrasound Imaging & Therapeutics,Mathematics,Electrical and Computer Engineering,3208,31
+118,Weihua Zhuang,Py1onlEAAAAJ,http://bbcr.uwaterloo.ca/~wzhuang,415,"Wireless networking, MAC, VANETs, QoS, Positioning",Engineering,Electrical and Computer Engineering,19748,77
+119,Pascal Poupart,KhAJWroAAAAJ,http://cs.uwaterloo.ca/~ppoupart,215,"Artificial Intelligence, Machine Learning, Reinforcement Learning, Markov Decision Processes, Sum-Product Networks",Mathematics,Computer Science,7193,47
+120,Mikko Packalen,kJ-X1MEAAAAJ,https://sites.google.com/site/mikkopackalen/,26,"ideas, growth, health, text analysis",Arts,Economics,342,12
+121,Marius Hofert,FU8uWWUAAAAJ,http://www.math.uwaterloo.ca/~mhofert/,125,"Copula Modeling, Computational Statistics and Data Science, Quantitative Risk Management",Mathematics,Statistics and Actuarial Science,2657,25
+122,Juliane Mai,0cgCUuAAAAAJ,http://www.civil.uwaterloo.ca/jmai/,134,"Sensitivity Analysis, Uncertainty Analysis, Model Calibration, Large-Scale Hydrologic Modelling, HPC & Big Data",Engineering,Civil and Environmental Engineering,1214,18
+123,Baris Fidan,kQBCvYEAAAAJ,http://www.me.uwaterloo.ca/~fidan,240,"Controls, Robotics, Mechatronics, Sensor Networks, Signal Processing",Engineering,Mechanical and Mechatronics Engineering,10677,43
+124,Jeff Z.Y. Chen,_zhMaH8AAAAJ,http://www.science.uwaterloo.ca/~jeffchen,158,Soft Matter Theory,Science,Physics and Astronomy,4313,37
+125,Derek Rayside,hG-Un48AAAAJ,https://ece.uwaterloo.ca/~drayside/,79,"software engineering, formal methods, program analysis, synthesis",Mathematics,Electrical and Computer Engineering,1523,22
+126,Efrim Boritz,wlKr--QAAAAJ,https://uwaterloo.ca/school-of-accounting-and-finance/people-profiles/efrim-boritz,139,"Audit, Assurance, Accounting Information Systems",Mathematics,Accounting and Finance,2796,27
+127,Maura Grossman,Mtt1ewoAAAAJ,http://grossman.uwaterloo.ca/,64,High-Stakes Information Retrieval,Mathematics,Computer Science,1350,20
+128,Tony Wirjanto,Rt3jpBUAAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/tony-wirjanto,196,"Financial Econometrics/Time Series, Financial Mathematics, Computational Finance",Mathematics,Statistics and Actuarial Science,2495,26
+129,Shai Ben-David,kezPqwoAAAAJ,,227,"Theoretical computer science, Machine Learning, Clustering, Mathematical logic",Mathematics,Computer Science,16739,47
+130,Marcel O' Gorman,04wS9GMAAAAJ,http://marcelogorman.net/,54,"Media Theory, Posthumanism, Digital Art, Digital Humanities",Arts,English Language and Literature,287,8
+131,Anna Esselment,3dHQfmoAAAAJ,https://uwaterloo.ca/political-science/people-profiles/anna-esselment,31,"Canadian politics, campaigns and elections, political marketing",Arts,Political Science,247,9
+132,Jonathan Li,7hyYxRkAAAAJ,https://uwaterloo.ca/geospatial-sensing/,534,"Geomatics, Mapping, Earth Observation, LiDAR, Photogrammetry",Environment,Geography and Environmental Management,11529,58
+133,Alan Huang,buaNnDMAAAAJ,,38,Empirical Asset Pricing,Mathematics,Accounting and Finance,781,12
+134,Bryan Tolson,E0ugA2sAAAAJ,http://www.civil.uwaterloo.ca/btolson/,158,"hydrologic modelling, water distribution system modelling, optimization, automatic calibration, water resources systems analysis",Engineering,Civil and Environmental Engineering,4190,29
+135,Catherine Burns,ONcan_4AAAAJ,https://www.researchgate.net/profile/Catherine_Burns3%22%3ECatherine%20Marie%20Burns%20on%20ResearchGate,246,"human factors, cognitive work, patient safety, interaction with AI, interaction with automation",Engineering,Systems Design Engineering,4892,35
+136,Olga Veksler,r5QkMysAAAAJ,https://cs.uwaterloo.ca/~oveksler/,82,Computer Vision,Mathematics,Computer Science,17451,35
+137,Marcel Nooijen,yFqaGSsAAAAJ,,162,electronic structure theory,Science,Chemistry,8673,56
+138,Peter Johnson,14Ov5mYAAAAJ,https://uwaterloo.ca/geography-environmental-management/people-profiles/peter-johnson,64,"Civic Technology, GIScience, Public Participation, Open Data",Arts,Geography and Environmental Management,2225,28
+139,Laura Middleton,HGEQv7cAAAAJ,https://uwaterloo.ca/kinesiology/people-profiles/laura-middleton,115,"Physical activity, sedentary behaviour, exercise interventions, aging, cognitive impairment",Health,Kinesiology and Health Sciences,3666,27
+140,Kerstin Dautenhahn,0b9_3VUAAAAJ,,612,"Social Robotics, Human-Robot Interaction, Artificial Intelligence, Assistive Technology",Engineering,Electrical and Computer Engineering,29839,84
+141,Katja Mombaur,HuN7dvgAAAAJ,http://www.orb.uni-hd.de/,211,"Humanoid robots, Wearable robots and assistive devices, Human movement, Optimal control, Modeling",Mathematics,Systems Design Engineering,3389,27
+142,Jesse Hoey,YcBGOtQAAAAJ,http://www.cs.uwaterloo.ca/~jhoey,244,"Artificial Intelligence, Affective Computing, Computational Social Science, Markov Decision Processes",Mathematics,Computer Science,8062,45
+143,Horatiu Rus,QDdxpj0AAAAJ,http://www.arts.uwaterloo.ca/~hrus,28,"Natural Resource and Environmental Economics, International Trade, Political Economy",Arts,Economics,156,8
+144,Lennart Nacke,i-y5S2AAAAAJ,http://www.hcigames.com/,270,"Human-Computer Interaction, User Experience, Player Experience, Games User Research, Gamification",Mathematics,Communication Arts,23691,52
+145,Edith Law,OOssnq8AAAAJ,http://edithlaw.ca/,100,"Human Computer Interaction, Machine Learning, Human Computation and Crowddsourcing, Citizen Science",Mathematics,Computer Science,2578,21
+146,Ashok Chaurasia,VFdBknwAAAAJ,https://uwaterloo.ca/public-health-and-health-systems/people-profiles/ashok-chaurasia,48,"model selection, longitudinal data, incomplete/missing data, sequential analysis",Health,Public Health Sciences,545,12
+147,Fatma Gzara,BYLEbicAAAAJ,,35,"Large scale optimization, Data analytics, Logistics and supply chain analytics",Engineering,Management Sciences,903,15
+148,Fakhri Karray,9_Hpd5kAAAAJ,https://uwaterloo.ca/scholar/karray,663,"multi-sensor data fusion, emotion recognition, intelligent systems, computational intelligence, machine learning",Engineering,Electrical and Computer Engineering,15656,55
+149,Bissan Ghaddar,ERQSOF8AAAAJ,,53,,Engineering,Management Sciences,1086,18
+150,Zhongwei Chen,xqRH0KMAAAAJ,http://chemeng.uwaterloo.ca/zchen,951,"Nanomaterials, fuel cells, batteries, electrolysis, artificial intelligence",Engineering,Chemical Engineering,42508,103
+151,Craig Fortier ,MNAM1MgAAAAJ,,12,,Arts,Social Development Studies,181,6
+152,Gordon Cormack,wFuZKaUAAAAJ,,213,,Mathematics,Computer Science,10202,46
+153,Joe Naoum Sawaya,qusC_nYAAAAJ,http://www.eng.uwaterloo.ca/~jnaoumsa/,57,,Engineering,Management Sciences,1218,16
+154,Moojan Ghafurian,m8uJMssAAAAJ,http://moojan.com/,31,"Human-Computer Interaction, Human-Robot Interaction, Affective Computing, Social Robotics, Assistive Technology",Engineering,Electrical and Computer Engineering,147,7
+155,Otman Basir,r1Rx1RsAAAAJ,https://ece.uwaterloo.ca/People/faculty/basir.html,408,"Human Safety and Prosperity, Book Reading, Soccer, History, Politics",Engineering,Electrical and Computer Engineering,10130,48
+156,Paul Figueth,TObmBfYAAAAJ,http://vip.uwaterloo.ca/people/paul-fieguth,364,"Image Processing, Random Fields, Computer Vision",Engineering,Systems Design Engineering,9407,40
+157,Alexander Wong,i7h8-dYAAAAJ,,823,"Artificial Intelligence, Machine Learning, Image Processing, Computer Vision, Medical Imaging",Engineering,Systems Design Engineering,17582,51
+169,Na Young Kim,4FbfIogAAAAJ,https://uwaterloo.ca/electrical-computer-engineering/profile/ny3kim,88,Electrical Engineering,Engineering,Electrical and Computer Engineering,2942,16
+173,Richard Cook,e1PW608AAAAJ,https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/richard-j-cook,694,"Biostatistics, Clinical Trials, Statistics, Longitudinal Data",Mathematics,Statistics and Actuarial Science,34958,90
+175,Shady Shehata,osOiYvYAAAAJ,https://www.linkedin.com/in/shady-shehata/,23,"Artificial Intelligence, Machine Learning, Natural Language Processing",Mathematics,Electrical and Computer Engineering,561,10
+176,Gautam Kamath,MK6zHkYAAAAJ,http://www.gautamkamath.com/,57,"Statistics, Machine Learning, Privacy, Robustness",Mathematics,Computer Science,1881,23
+178,Hongyang Zhang,wSstCv0AAAAJ,https://hongyanz.github.io/,,"Machine Learning, AI Security & Privacy, Trustworthy ML",Mathematics,Computer Science,1946,19
+179,Pengyu Wei,LAWKnMgAAAAJ,https://sites.google.com/view/pengyuwei/,,"Actuarial Science, Insurance, Quantitative Finance, Risk Management",Mathematics,Statistics and Actuarial Science,71,4
+181,Ken Seng Tan,RPQKqc0AAAAJ,https://dr.ntu.edu.sg/cris/rp/rp00143,,"Quasi-Monte Carlo method, Quantitative risk management, Optimal reinsurance, Longevity risk, Agricultural insurance",Mathematics,Statistics and Actuarial Science,3842,30
+183,Matthias Schonlau,rpx7YzMAAAAJ,http://www.schonlau.net/,,"survey  methodology, open-ended questions, natural language processing, statistical learning",Mathematics,Statistics and Actuarial Science,17857,51
+188,Ali Ghodsi,YsXNU78AAAAJ,http://www.cs.berkeley.edu/~alig,,"Big Data, Distributed Computing, Data Management, Networking",Mathematics,Statistics and Actuarial Science,16951,48
+192,Omid Abari,4rihlSYAAAAJ,http://web.cs.ucla.edu/~omid/,,"Internet of Things (IoT), Computer Networks, Networked Systems, Wireless Networks, Software-Hardware Systems",Mathematics,Computer Science,1341,20
+195,Andrew Wong,NmoASSIAAAAJ,,,"Bioinformatics, datamining, machine intelligence, pattern recognition, computer vision",Engineering,Bioengineering anf Biotechnology,18336,47
+197,Mark Smucker,BgiGGQQAAAAJ,https://www.marksmucker.com/,,"Information Retrieval, Human Computer Interaction",Engineering,Management Sciences,3370,24
+200,Carolyn Ren,OEppY8kAAAAJ,https://uwaterloo.ca/waterloo-microfluidics-laboratory/,,"microfluidics, Lab-on-a-Chip",Engineering,Mechanical and Mechatronics Engineering,4475,36
+201,Yash Vardhan Pant,hdQid8kAAAAJ,http://yashpant.github.io/,,"Control Theory, Robotics, Machine Learning, Formal Methods, Optimization",Engineering,Electrical and Computer Engineering,398,9
+207,Yue Hu,_KAdZKEAAAAJ,https://hu-yue.github.io/,,"Robotics, Phyical Human-Robot Interaction, Humanoid robots, Locomotion, Optimal Control",Engineering,Systems Design Engineering,151,8
+209,Saeed Ghadimi,Kjlmi5MAAAAJ,https://www.saeedghadimi.com/,,"Convex and Nonconvex Optimization, Stochastic Programming, Machine Learning",Engineering,Management Sciences,2612,13
+210,Liping Fu,FKpsUMgAAAAJ,http://www.itsslab.com/,,"Road Safety, ITS, AI and Big Data, Winter Road Maintenance, Railway",Engineering,Civil and Environmental Engineering,6431,39
+214,Krzysztof Czarnecki,ZzCpumQAAAAJ,http://gsd.uwaterloo.ca/kczarnec,,"Software Engineering, Model-Driven Engineering, Software Product Lines, Variability Engineering",Engineering,Electrical and Computer Engineering,26554,68
+215,David Clausi,Q5qzD7EAAAAJ,https://uwaterloo.ca/vision-image-processing-lab/people-profiles/david-clausi,,"Computer Vision, Remote Sensing, Image Processing, Pattern Recognition, Sports Analytics",Engineering,Systems Design Engineering,9838,47
+217,Philip Beesley,jnn1kG0AAAAJ,http://www.philipbeesleyarchitect.com/,,"Architecture, Computation, Sculpture, Visual Art, Couture",Engineering,Architecture,2839,35
+221,Janusz Pawliszyn,FyDRWooAAAAJ,https://uwaterloo.ca/pawliszyn-group/,,"Analytical Chemistry, Sample Preparation, SPME",Science,Chemistry,70581,125
+223,Brendan McConkey,T4wUsIMAAAAJ,,,"Computational Biology, Biotechnology, Proteomics",Science,Biology,17261,36
+226,Kim Cuddington,xt9r818AAAAJ,http://ecotheory.ca/,,"Theoretical ecology, Population ecology, Conservation",Science,Biology,5859,24
+227,Kyung Choi,X_Qx5L4AAAAJ,http://research.iqc.uwaterloo.ca/uqml,,"Quantum Optics, Quantum Information Science, Quantum Many Body Physics, Quantum Memory, Quantum Materials",Science,Physics and Astronomy,3446,12
+242,Mathieu Doucet,gC94TBgAAAAJ,,,"Philosophy, ethics, moral psychology",Arts,Philosophy,203,5
+243,Dana Kulic,sL0KJlQAAAAJ,https://www.monash.edu/engineering/robotics,,"Robotics, Human-Robot Interaction, Human Motion Analysis",Engineering,Electrical and Computer Engineering,7427,37
+198,John Simpson-Porco,tyQhs60AAAAJ,https://www.control.utoronto.ca/~jwsimpson/,,"Control Theory, Power Systems, Microgrids",Engineering,Electrical and Computer Engineering,4125,26
