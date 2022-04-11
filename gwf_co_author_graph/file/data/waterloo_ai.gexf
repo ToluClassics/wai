@@ -1111,14 +1111,14 @@
           <attvalue for="home_page" value="http://ov-research.uwaterloo.ca/"></attvalue>
           <attvalue for="publications" value="85"></attvalue>
           <attvalue for="interests" value="Natural Language Processing, Information Retrieval"></attvalue>
-          <attvalue for="faculty" value="Mathematics"></attvalue>
+          <attvalue for="faculty" value="Engineering"></attvalue>
           <attvalue for="department" value="Management Sciences"></attvalue>
           <attvalue for="citedby" value="2684"></attvalue>
           <attvalue for="hindex" value="21"></attvalue>
         </attvalues>
         <viz:size value="62.47934"></viz:size>
         <viz:position x="-1702.7719" y="23.602856"></viz:position>
-        <viz:color r="198" g="0" b="120"></viz:color>
+        <viz:color r="87" g="5" b="139"></viz:color>
       </node>
       <node id="75" label="Kaan Inal">
         <attvalues>
@@ -2505,20 +2505,6 @@
         <viz:position x="-1218.9843" y="-540.46625"></viz:position>
         <viz:color r="87" g="5" b="139"></viz:color>
       </node>
-      <node id="197" label="Mark Smucker">
-        <attvalues>
-          <attvalue for="author_id" value="BgiGGQQAAAAJ"></attvalue>
-          <attvalue for="home_page" value="https://www.marksmucker.com/"></attvalue>
-          <attvalue for="interests" value="Information Retrieval, Human Computer Interaction"></attvalue>
-          <attvalue for="faculty" value="Engineering"></attvalue>
-          <attvalue for="department" value="Management Sciences"></attvalue>
-          <attvalue for="citedby" value="3370"></attvalue>
-          <attvalue for="hindex" value="24"></attvalue>
-        </attvalues>
-        <viz:size value="66.44628"></viz:size>
-        <viz:position x="-2054.5593" y="-68.65412"></viz:position>
-        <viz:color r="87" g="5" b="139"></viz:color>
-      </node>
       <node id="200" label="Carolyn Ren">
         <attvalues>
           <attvalue for="author_id" value="OEppY8kAAAAJ"></attvalue>
@@ -2948,13 +2934,13 @@
       <edge id="450" source="56" target="243"></edge>
       <edge id="451" source="56" target="115"></edge>
       <edge id="453" source="60" target="124"></edge>
-      <edge id="457" source="74" target="197"></edge>
+      <edge id="457" source="74" target="28"></edge>
       <edge id="459" source="74" target="81"></edge>
-      <edge id="465" source="81" target="197"></edge>
-      <edge id="468" source="82" target="197"></edge>
+      <edge id="465" source="81" target="28"></edge>
+      <edge id="468" source="82" target="28"></edge>
       <edge id="479" source="90" target="115"></edge>
       <edge id="503" source="123" target="198"></edge>
-      <edge id="510" source="127" target="197"></edge>
+      <edge id="510" source="127" target="28"></edge>
       <edge id="512" source="128" target="181"></edge>
       <edge id="515" source="128" target="133"></edge>
       <edge id="516" source="129" target="25"></edge>
@@ -2962,7 +2948,7 @@
       <edge id="528" source="141" target="243"></edge>
       <edge id="529" source="142" target="243"></edge>
       <edge id="533" source="145" target="243"></edge>
-      <edge id="540" source="152" target="197"></edge>
+      <edge id="540" source="152" target="18"></edge>
       <edge id="547" source="155" target="243"></edge>
       <edge id="550" source="156" target="215"></edge>
       <edge id="551" source="157" target="215"></edge>
